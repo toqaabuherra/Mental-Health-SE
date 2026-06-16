@@ -1,0 +1,107 @@
+Dependent personality disorder
+https://en.wikipedia.org/wiki/Dependent_personality_disorder
+
+Dependent personality disorder (DPD) is a personality disorder characterized by a pervasive dependence on other people and subsequent submissiveness and clinginess. This personality disorder is a long-term condition in which people depend on others to meet their emotional and physical needs. Individuals with DPD often struggle to make independent decisions and seek constant reassurance from others. This dependence can result in a tendency to prioritize the needs and opinions of others over their own.
+In the current edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR; 2022), dependent personality disorder is classified as a cluster C ("anxious or fearful") personality disorder. There was a diagnostic category for DPD in the previous revision of the International classification of Diseases, ICD-10; but the ICD-11 no longer has distinct diagnoses for personality disorders.
+
+Signs and symptoms
+People with DPD depend excessively on others for advice, decision-making and the fulfillment of other needs, as they lack confidence in their abilities, competence and judgment. They may thus act passively and avoid responsibilities, delegating them to others. Additionally, individuals with this disorder often display a pessimistic outlook, anticipating negative outcomes in various situations. They may also be introverted, highly sensitive to criticism, and fearful of rejection.
+They typically prefer not to be alone and may experience distress, isolation, or loneliness when separated from their support system, such as a close relationship with someone they depend on. They may thus feel a need to try to obtain a new such relationship quickly. In order to ensure that they retain people they depend on, those with DPD are willing to meet their wishes and demands, even when it entails self-sacrifice such as letting others abuse them. People with DPD may also fear that expressions of disagreement or anger may result in others leaving them.
+
+Causes
+The exact cause of dependent personality disorder is unknown, but has been associated with various genetic and environmental factors. A study in 2012 estimated that between 55% and 72% of the risk of the condition is inherited from one's parents. 
+Dependent traits in children tended to increase with parenting behaviours and attitudes characterized by overprotectiveness and authoritarianism. Thus the likelihood of developing dependent personality disorder increased, since these parenting traits can limit them from developing a sense of autonomy, rather teaching them that others are powerful and competent. Individuals with a history of neglect or an abusive upbringing may have an increased risk of developing DPD, particularly those who have experienced long-term abusive relationships.
+The difference between a "dependent personality" and a "dependent personality disorder" is somewhat subjective, which makes diagnosis sensitive to cultural influences such as gender role expectations. There is a higher frequency of the disorder seen in women than men; hence, expectations relating to gender role may contribute to some extent.
+Research suggests a link between DPD and a family history of anxiety disorders. A 2004 twin study reported a heritability estimate of 0.81 for personality disorders collectively, indicating a strong genetic component in their development. Traumatic or adverse experiences early in an individual's life, such as neglect and abuse or serious illness, can increase the likelihood of developing personality disorders, including dependent personality disorder, later in life. This is especially prevalent for those individuals who also experience high interpersonal stress and poor social support.
+
+Diagnosis
+Clinicians and clinical researchers conceptualize dependent personality disorder in terms of four related components:
+
+Cognitive: a perception of oneself as powerless and ineffectual, coupled with the belief that other people are comparatively powerful and potent.
+Motivational: a desire to obtain and maintain relationships with protectors and caregivers.
+Behavioral: a pattern of relationship-facilitating behavior designed to strengthen interpersonal ties and minimize the possibility of abandonment and rejection.
+Emotional: fear of abandonment, fear of rejection, and anxiety regarding evaluation by figures of authority.
+
+Classification
+Classification of personality disorders differs significantly between the two most prominent frameworks for classification of mental disorders, namely: the Diagnostic and Statistical Manual of Mental Disorders and the International Classification of Diseases, the most recent editions of which are the DSM-5-TR and ICD-11, respectively. While personality disorders, including DPD, are diagnosed as separate entities in the DSM-5; in the ICD-11 classification of personality disorders, they are assessed in terms of severity levels, with trait and pattern specifiers serving to characterize the particular style of pathology. There is also a hybrid model, called the Alternative DSM-5 model for personality disorders (AMPD), which defines personality disorder diagnoses through combinations of pathological traits and areas of overall impairment.
+In the DSM-5, there is one criterion by which there are eight features of dependent personality disorder, at least five of which indicate the presence of DPD. This categorical system, retained from the DSM-IV, was found to be problematic due to reasons such as excessive diagnostic comorbidity, inadequate coverage, arbitrary boundaries with normal psychological functioning, and heterogeneity among individuals within the same categorial diagnosis. As a result of deficits of this system for personality disorders, the AMPD was developed for the DSM-5. The AMPD does not list dependent personality disorder as its own diagnostic entity. However, it is stated in the AMPD that what is conceptualized as DPD can instead be diagnosed as personality disorder – trait specified, which is a dimensional diagnosis that is constructed from the individual expression of personalty disorder, as manifested in both a general impairment in personality functioning along with at least one pathological personality trait.
+The World Health Organization's ICD-11 has replaced the categorical classification of personality disorders in the ICD-10 – in which DPD is a distinct diagnostic category (F60.7) – with a dimensional model containing a unified personality disorder (6D10) with severity specifiers, along with specifiers for prominent personality traits or patterns (6D11). Severity is assessed based on the pervasiveness of impairment in several areas of functioning, as well as on the level of distress and harm caused by the disorder, while trait and pattern specifiers are used for recording the manner in which the disturbance is manifested. Dependent personality disorder shows a consistent association with the ICD-11 trait domain Negative Affectivity (6D11.0), reflecting features such as low self-confidence and reliance on others. It is also frequently linked to Disinhibition (6D11.3), possibly due to ICD-11's inclusion of irresponsibility within that domain. Prior trait-based research and expert sources suggest that impulsivity may also be related to dependent traits.
+
+SWAP-200
+The SWAP-200 is a diagnostic tool that was proposed with the goal of overcoming limitations, such as limited external validity for the diagnostic criteria for dependent personality disorder, to the DSM. It serves as a possible alternative nosological system that emerged from the efforts to create an empirically based approach to personality disorders – while also preserving the complexity of clinical reality. Dependent personality disorder is considered a clinical prototype in the context of the SWAP-200. Rather than discrete symptoms, it provides composite description characteristic criteria – such as personality tendencies.
+Based on the Q-Sort method and prototype matching, the SWAP-200 is a personality assessment procedure relying on an external observer's judgment. It provides:
+
+A personality diagnosis expressed as the matching with ten prototypical descriptions of DSM-IV personality disorders.
+A personality diagnosis based on the matching of the patient with 11 Q-factors of personality derived empirically.
+A dimensional profile of healthy and adaptive functioning.
+The traits that define dependent personality disorder according to SWAP-200 are:
+
+They tend to become attached quickly and/or intensely, developing feelings and expectations that are not warranted by the history or context of the relationship.
+Since they tend to be ingratiating and submissive, people with DPD tend to be in relationships in which they are emotionally or physically abused.
+They tend to feel ashamed, inadequate, and depressed.
+They also feel powerless and tend to be suggestible.
+They are often anxious and tend to feel guilty.
+These people have difficulty acknowledging and expressing anger and struggle to get their own needs and goals met.
+Unable to soothe or comfort themselves when distressed, they require involvement of another person to help regulate their emotions.
+
+Psychodynamic Diagnostic Manual
+The Psychodynamic Diagnostic Manual (PDM) approaches dependent personality disorder in a descriptive, rather than prescriptive sense and has received empirical support. The Psychodynamic Diagnostic Manual includes two different types of dependent personality disorder:
+
+Passive-aggressive
+Counter-dependent 
+The PDM-2 adopts and applies a prototypic approach, using empirical measures like the SWAP-200. It was influenced by a developmental and empirically grounded perspective, as proposed by Sidney Blatt. This model is of particular interest when focusing on dependent personality disorder, claiming that psychopathology comes from distortions of two main coordinates of psychological development:
+
+The anaclitic/introjective dimension.
+The relatedness/self-definition dimension.
+The anaclitic personality organization in individuals exhibits difficulties in interpersonal relatedness, exhibiting the following behaviours:
+
+Preoccupation with relationships
+Fear of abandonment and of rejection
+Seeking closeness and intimacy
+Difficulty managing interpersonal boundaries
+Tend to have an anxious-preoccupied attachment style.
+Introjective personality style is associated with problems in self-definition.
+
+Differential diagnosis
+Similarities between individuals with dependent personality disorder and individuals with borderline personality disorder include having a fear of abandonment. Those with dependent personality disorder do not necessarily exhibit impulsive behaviour or unstable affect experienced by those with borderline personality disorder, differentiating the two disorders.
+
+Treatment
+Treatment of DPD is typically in the form of psychotherapy. The main goal of this therapy is to make the individual more independent and help them form healthy relationships with the people around them. This is done by improving their self-esteem and confidence. Particularly, cognitive-behavioral therapy (CBT) aims to improve self-confidence, autonomy, and coping mechanisms. Medication can be used to treat patients who suffer from depression or anxiety because of their DPD, but this does not treat the core problems caused by the disorder.
+
+Epidemiology
+Based on a recent survey of 43,093 Americans, 0.49% of adults meet diagnostic criteria for DPD (National Epidemiologic Survey on Alcohol and Related Conditions; NESARC; Grant et al., 2004). 
+Traits related to DPD, like most personality disorders, emerge in childhood or early adulthood. Findings from the NESArC study found that 18 to 29 year olds have a greater chance of developing DPD. DPD is more common among women compared to men as 0.6% of women have DPD compared to 0.4% of men.
+A 2004 twin study suggests a heritability of 0.81 for developing dependent personality disorder. Because of this, there is significant evidence that this disorder runs in families.
+Children and adolescents with a history of anxiety disorders and physical illnesses are more susceptible to acquiring this disorder.
+
+Millon's subtypes
+Psychologist Theodore Millon identified five adult subtypes of dependent personality disorder. Any individual dependent may exhibit none or one or more of the following:
+
+History
+The conceptualization of dependency, within classical psychoanalytic theory, is directly related to Sigmund Freud's oral psychosexual stage of development. Frustration or over-gratification was said to result in an oral fixation and in an oral type of character, characterized by feeling dependent on others for nurturing and by behaviors representative of the oral stage. Later psychoanalytic theories shifted the focus from a drive-based approach of dependency to the recognition of the importance of early relationships and establishing separation from these early caregivers, in which the exchanges between the caregiver and the child become internalized, and the nature of these interactions becomes part of the concepts of the self and of others.
+
+References
+Sources
+Beck, Aaron T; Freeman, Arthur (1990). Cognitive Therapy of Personality Disorders. New York: Guilford Press. ISBN 978-0-89862-434-2.
+Millon, Theodore; Davis, Roger Dale (1996). Disorders of Personality: DSM-IV and Beyond. New York: Wiley. ISBN 978-0-471-01186-6.
+Millon, Theodore (1981). Disorders of Personality: DSM-III, Axis II. New York: Wiley. ISBN 978-0-471-06403-9.
+Perry, J. C. (1996). "Dependent personality disorder". In Gabbard, Glen O.; Atkinson, Sarah D. (eds.). Synopsis of Treatments of Psychiatric Disorders. American Psychiatric Press. pp. 995–998. ISBN 978-0-88048-859-4.
+Gjerde, L. C.; Czajkowski, N.; Røysamb, E.; Ørstavik, R. E.; Knudsen, G. P.; Østby, K.; Torgersen, S.; Myers, J.; Kendler, K. S.; Reichborn-Kjennerud, T. (2012). "The heritability of avoidant and dependent personality disorder assessed by personal interview and questionnaire". Acta Psychiatrica Scandinavica. 126 (6): 448–457. doi:10.1111/j.1600-0447.2012.01862.x. PMC 3493848. PMID 22486635.
+Millon, Theodore; Millon, Carrie M.; Meagher, Sarah; Grossman, Seth; Ramnath, Rowena (2004). Personality Disorders in Modern Life. Wiley. ISBN 978-0-471-66850-3.
+Millon, Theodore (2006). "Personality Subtypes".
+Kantor, Martin (1992). Diagnosis and Treatment of the Personality Disorders. Ishiyaku EuroAmerica. ISBN 978-0-912791-89-0.
+Ellison, J. M.; Adler, D. A. (1990). "A strategy for the pharmacotherapy of personality disorders". In Adler, David A. (ed.). Treating Personality Disorders. San Francisco: Jossey-Bass. pp. 43–63. ISBN 978-1-55542-811-2.
+Adler, David A., ed. (1990). Treating Personality Disorders. San Francisco: Jossey-Bass. ISBN 978-1-55542-811-2.
+Richards, Henry Jay (1993). Therapy of the Substance Abuse Syndromes. New York: Jason Aronson. ISBN 978-0-87668-539-6.
+Zimmerman, Mark (1994). Diagnosing DSM-IV-R Psychiatric Disorders in Primary Care Settings: An Interview Guide for the Nonpsychiatrist Physician. Psych Products. ISBN 978-0-9633821-3-9.
+Ekleberry, Sharon (2014). "Dependent Personality Disorder (DPD)". Treating Co-Occurring Disorders. Routledge. pp. 63–64. ISBN 978-1-317-82549-4.
+Oldham, John M.; Morris, Lois B. (1990). The Personality Self-portrait: Why You Think, Work, Love, and Act the Way You Do. Bantam. ISBN 978-0-553-05757-7.
+Sperry, Len (1995). Psychopharmacology and Psychotherapy: Strategies for Maximizing Treatment Outcomes. Psychology Press. ISBN 978-0-87630-787-8.
+Stone, Michael H. (1993). Abnormalities of Personality: Within and Beyond the Realm of Treatment. Norton. ISBN 978-0-393-70127-2.
+Benjamin, Lorna Smith (1993). Interpersonal Diagnosis and Treatment of Personality Disorders. Guilford Press. ISBN 978-0-89862-990-3.
+Benjamin, Lorna Smith (1996). "Dependent Personality Disorder". Interpersonal Diagnosis and Treatment of Personality Disorders. Guilford Press. pp. 221–239. ISBN 978-0-89862-990-3.
+
+External links
+J. Christopher Perry, M.P.H., M.D., 2005 (Dependent Personality Disorder)
+Diagnostic Features, Complications, Prevalence, Associated Laboratory Findings
+MedlinePlus Medical Encyclopedia: Dependent personality disorder

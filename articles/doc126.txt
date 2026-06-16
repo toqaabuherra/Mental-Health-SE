@@ -1,0 +1,63 @@
+Stereotypic movement disorder
+https://en.wikipedia.org/wiki/Stereotypic_movement_disorder
+
+Stereotypic movement disorder (SMD) is a motor disorder with onset in childhood involving restrictive or repetitive, nonfunctional motor behavior (e.g., hand waving or head banging), that markedly interferes with normal activities or results in bodily injury. Unlike stimming in people on the autism spectrum, who may move in repetitive ways either consciously or subconsciously, many with Stereotypic Movement Disorder have mostly or entirely involuntary movements that are outside their conscious control. While stereotypic movements are common in infancy and early childhood, a diagnosis of SMD is made only when such behaviors are prolonged, intense, and cause significant impairment. The diagnosis requires that the behavior in question must not be due to the direct effects of a substance, autism, or another medical condition. 
+The cause of this disorder is not known. However, current research suggests that dysfunction in corticostriatal-thalamo-cortical (CSTC) circuits and imbalances between the direct and indirect pathways of the basal ganglia may play a role in its development. Both environmental and genetic factors have been proposed as potential risk factors. Environmental factors include limited social interaction, neglect, and psychological stress, while a genetic predisposition is suspected, although no specific gene has been identified.
+There are no definitive treatments for SMD. However, behavioral interventions, particularly habit reversal training, have shown promise in reducing symptoms. Pharmacological treatments such as clonazepam and naltrexone have also been identified as potential treatments, but findings remain inconclusive.
+
+Signs and symptoms
+People with SMD display repeated, involuntary motor behavior that appears to serve no clear purpose. Common movements include head banging, arm waving, hand shaking, rocking and rhythmic movements, self-biting, self-hitting, and skin-picking; other stereotypies are thumb-sucking, dermatophagia, nail biting, trichotillomania, bruxism and abnormal running or skipping.
+
+Causes
+The causes of stereotypic movement disorder are still unknown. However, researchers have proposed several models to explain the neurological basis of the condition. A widely supported theory suggests that SMD is linked to dysfunction in the corticostriatal-thalamo-cortical (CSTC) circuits, brain parts involved in regulating voluntary motor movements. In particular, abnormalities in the connections between the supplementary motor area and the putamen may contribute to the repetitive behaviors observed in SMD.
+Additional research has highlighted the role of the basal ganglia. Imbalances between the direct (movement-promoting) and indirect (inhibitory) pathways within the basal ganglia have been identified as possible mechanisms. This imbalance may impair motor inhibition, leading to repetitive, involuntary movements. Support for this theory comes from animal studies, which have shown that mice displaying high levels of stereotypy have increased activity in the direct pathway and lower levels of enkephalin, a chemical marker for the indirect pathway.
+Neuroimaging studies in humans have also provided evidence for structural and chemical differences in individuals with SMD. These include reduced volumes in the putamen and caudate nucleus, and lower levels of the inhibitory neurotransmitter GABA in areas such as the anterior cingulate cortex and striatum.
+
+Risk factors
+Environmental
+Certain environmental conditions, including limited social interaction, neglect, and exposure to psychological stress, have been linked to an increased risk of SMD. These movements are often triggered by emotional states such as boredom, anxiety, excitement, or focused concentration. In many cases, the movements tend to decrease or stop when the child is engaged by external stimuli or distracted through actions like calling their name.
+
+Genetic
+There is evidence suggesting that genetic factors may contribute to the development of SMD. One study found that around one-quarter of children with motor stereotypies had a family history of similar behaviors, indicating a possible hereditary component. However, no specific genes have been identified.
+
+Diagnosis
+Stereotyped movements are common in infants and young children; if the child is not distressed by movements and daily activities are not impaired, diagnosis is not warranted. When stereotyped behaviors cause significant impairment in functioning, an evaluation for stereotypic movement disorder is warranted. To help determine when motor stereotypies reflect a clinical condition, clinicians often categorize them as either simple or complex. Simple stereotypies, such as brief, rhythmic movements, are common in childhood and generally harmless. In contrast, complex stereotypies are more prolonged and intense, with a greater risk of social disruption and self-injury. SMD is most closely associated with complex stereotypies. A longitudinal study of 100 children found that 94% continued to exhibit complex stereotypies nearly seven years after initial diagnosis, suggesting their chronic nature. 
+For a diagnosis of SMD, the symptoms must be present for a minimum of four weeks. There are no specific tests for diagnosing this disorder, although some tests may be ordered to rule out other conditions. SMD may occur with Lesch–Nyhan syndrome, intellectual disability, autistic spectrum disorder, fetal alcohol exposure, or as a result of amphetamine intoxication.
+When diagnosing stereotypic movement disorder, DSM-5 calls for specification of:
+
+with or without self-injurious behavior;
+association with another known medical condition or environmental factor;
+severity (mild, moderate or severe).
+
+Classification
+Stereotypic movement disorder is classified in the fifth revision of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) as a motor disorder, in the category of neurodevelopmental disorders. SMD is often further categorized into primary and secondary forms based on the presence of co-occurring conditions.
+
+Primary SMD occurs in individuals without an identifiable neurological or developmental disorder;
+Secondary SMD is associated with underlying conditions, such as autism spectrum disorder, intellectual disability, and sensory deprivation.
+While this distinction is commonly used in clinical settings, research has not yet identified specific features that reliably differentiate primary from secondary forms.
+
+Differential diagnosis
+Other conditions which feature repetitive behaviors in the differential diagnosis include autism spectrum disorder, obsessive–compulsive disorder (OCD), tic disorders (e.g., Tourette syndrome), and other conditions including dyskinesias.
+A key differentiating feature of SMD is that the repetitive movements are typically experienced as enjoyable or self-soothing, rather than distressing. This contrasts with conditions such as tics, Tourette's syndrome, OCD, and deliberate self-harming behavior, where the movements are often anxiety-driven or associated with emotional distress. 
+SMD is often misdiagnosed as tics or Tourette syndrome (TS). Unlike the tics of TS, which tend to appear around age six or seven, repetitive movements typically start before age three, are more bilateral than tics, and consist of intense patterns of movement for longer runs than tics. Tics are less likely to be stimulated by excitement. Children with stereotypic movement disorder do not always report being bothered by the movements as a child with tics might. Further differentiating evidence comes from motor assessments. One study found that children with primary SMD performed worse on fine motor skills than those diagnosed with tic disorders.
+
+Management
+There is no consistently effective medication for SMD, and there is little evidence for any effective treatment.
+Treatment may not be necessary when movements are not interfering with daily life. In such cases, management strategies may focus on education and support. Parents, teachers, and caregivers may benefit from understanding the nature of a child’s stereotypic behaviors so that they can respond with greater awareness and sensitivity. Children may also be encouraged to express movements in more appropriate contexts, such as private settings. In instances where SMD involves self-injurious behavior, protective measures, such as helmets or padded clothing, may be used to reduce the risk of physical harm.
+
+Medication
+Studies on pharmacological treatments have shown mixed results. Some studies have reported that medications such as clonazepam and opioid antagonist naltrexone may reduce stereotypic movements in certain individuals. However, other studies have found these medications to be ineffective, and no drug has been universally established as beneficial for treating SMD.
+
+Behavioral therapy
+Behavior modification techniques have demonstrated moderate success in reducing stereotypic behaviors. In non-autistic people, habit reversal training (HRT) may be useful as well as decoupling. Among these, HRT has received more attention. HRT focuses on enhancing self-awareness and self-regulation by teaching individuals to recognize early signs of the target behavior and to replace it with a more appropriate, incompatible action. This approach has been shown to help individuals gain greater control over their movements and decrease the frequency of stereotypic movements.
+
+Prognosis
+Prognosis depends on the severity of the disorder. Recognizing symptoms early can help reduce the risk of self-injury, which can be lessened with medications. Stereotypic movement disorder due to head trauma may be permanent.
+
+Epidemiology
+Prevalence estimates vary across studies, ranging from 4% to 16% in different populations. SMD can happen at any age, but symptoms typically begin around the age of 2. It is more common in boys, at a ratio of about 3 to 2. Although not necessary for the diagnosis, individuals with intellectual disability are at higher risk for SMD.
+
+References
+
+
+== External links ==

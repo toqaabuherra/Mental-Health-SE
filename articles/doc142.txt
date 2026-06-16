@@ -1,0 +1,103 @@
+Acceptance and commitment therapy
+https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy
+
+Acceptance and commitment therapy (ACT, typically pronounced as the word "act") is a form of psychotherapy, as well as a branch of clinical behavior analysis. It is an empirically-based psychological intervention that uses acceptance and mindfulness strategies along with commitment and behavior-change strategies to increase psychological flexibility. 
+This approach was first called comprehensive distancing. Steven C. Hayes developed it around 1982 to integrate features of cognitive therapy and behavior analysis, especially behavior analytic data on the often negative effects of verbal rules and how they might be ameliorated.
+The foundational concepts of ACT were formally introduced in Steven C. Hayes’s 1987 article “A contextual approach to therapeutic change: Toward a functional analysis of human language,” published in Behavior Therapy. He did not yet name the approach “Acceptance and Commitment Therapy.” The term ACT began to appear in print in the early 1990s, as the model became more developed. The first major use in a formal publication was in the 1999 book: Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change. 
+ACT protocols vary with the target behavior and the setting. For example, in behavioral health, a brief version of ACT is focused acceptance and commitment therapy (FACT).
+The goal of ACT is not to eliminate difficult feelings but to be present with what life brings and to "move toward valued behavior". Acceptance and commitment therapy invites people to open up to unpleasant feelings, not to overreact to them, and not to avoid situations that cause them.
+Its therapeutic effect aims to be a positive spiral, in which more understanding of one's emotions leads to a better understanding of the truth. In ACT, "truth" is measured through the concept of "workability", or what works to take another step toward what matters (e.g., values, meaning).
+
+Technique
+Basics
+ACT is developed within a pragmatic philosophy, functional contextualism. ACT is based on relational frame theory (RFT), a comprehensive theory of language and cognition that is derived from behavior analysis. Both ACT and RFT are based on B. F. Skinner's philosophy of radical behaviorism.
+ACT differs from some kinds of cognitive behavioral therapy (CBT) in that, rather than try to teach people to control their thoughts, feelings, sensations, memories, and other private events, ACT teaches them to "just notice", accept, and embrace their private events, especially previously unwanted ones. ACT helps the individual get in contact with a transcendent sense of self, "self-as-context"—the one who is always there observing and experiencing and yet distinct from one's thoughts, feelings, sensations, and memories. ACT tries to help the individual clarify values and then use them as the basis for action, bringing more vitality and meaning to life in the process, while increasing psychological flexibility.
+While Western psychology has typically operated under the "healthy normality" assumption, which states that humans naturally are psychologically healthy, ACT assumes that the psychological processes of a normal human mind are often destructive. The core conception of ACT is that psychological suffering is usually caused by experiential avoidance, cognitive entanglement, and resulting psychological rigidity that leads to a failure to take needed behavioral steps in accord with core values. As a simple way to summarize the model, ACT views the core of many problems to be due to the concepts represented in the acronym, FEAR:
+
+Fusion with your thoughts
+Evaluation of experience
+Avoidance of your experience
+Reason-giving for your behavior
+And the healthy alternative is to ACT:
+
+Accept your thoughts and emotions
+Choose a valued direction
+Take action
+
+Core principles
+ACT commonly employs six core principles to help clients develop psychological flexibility:
+
+Cognitive defusion: Learning methods to reduce the tendency to reify thoughts, images, emotions, and memories.
+Acceptance: Allowing unwanted private experiences (thoughts, feelings and urges) to come and go without struggling with them.
+Contact with the present moment: Awareness of the here and now, experienced with openness, interest, and receptiveness. (e.g., mindfulness)
+The observing self: Accessing a transcendent sense of self, a continuity of consciousness which is unchanging.
+Values: Discovering what is most important to oneself.
+Committed action: Setting goals according to values and carrying them out responsibly, in the service of a meaningful life.
+Correlational evidence has found that absence of psychological flexibility predicts many forms of psychopathology. A 2005 meta-analysis showed that the six ACT principles, on average, account for 16–29% of the variance in psychopathology (general mental health, depression, anxiety) at baseline, depending on the measure, using correlational methods. A 2012 meta-analysis of 68 laboratory-based studies on ACT components has also provided support for the link between psychological flexibility concepts and specific components.
+
+Research
+The website of the Association for Contextual Behavioral Science states that there were over 1,300 randomized controlled trials (RCTs) of ACT, over 550 meta-analyses/systematic reviews, and 88 mediational studies of the ACT literature as of January 2025.
+Organizations that have stated that acceptance and commitment therapy is empirically supported in certain areas or as a whole according to their standards include (as of March 2022):
+
+Society of Clinical Psychology (American Psychological Association/APA Division 12)
+World Health Organization
+UK National Institute for Health and Care Excellence
+Australian Psychological Society
+Netherlands Institute of Psychologists: Sections of Neuropsychology and Rehabilitation
+Netherlands National Institute for Public Health and the Environment (RIVM)
+Sweden Association of Physiotherapists
+SAMHSA's National Registry of Evidence-based Programs and Practices
+California Evidence-Based Clearinghouse for Child Welfare
+U.S. Department of Veterans Affairs/Department of Defense
+US Department of Justice - Office of Justice Programs
+Washington State Institute for Public Policy
+American Headache Society
+
+History
+In 2006, only about 30 randomized clinical trials and controlled time series evaluating ACT were known, in 2011 the number had doubled to more than 60 ACT randomized controlled trials, and in 2023 there were more than 1,000 randomized controlled trials  of ACT worldwide. A 2008 meta-analysis concluded that the evidence was still too limited for ACT to be considered a supported treatment. A 2009 meta-analysis found that ACT was more effective than placebo and "treatment as usual" for most problems. A 2012 meta-analysis was more positive and reported that ACT outperformed CBT, except for treating depression and anxiety. A 2015 review found that ACT was better than placebo and typical treatment for anxiety disorders, depression, and addiction. Its effectiveness was similar to traditional treatments like cognitive behavioral therapy (CBT). The authors also noted that research methodologies had improved since the studies described in the 2008 meta-analysis.
+In 2020, a review of meta-analyses examined 20 meta-analyses that included 133 studies and 12,477 participants. The authors concluded ACT is efficacious for all conditions examined, including anxiety, depression, substance use, pain, and transdiagnostic groups. Results also showed that ACT was generally superior to inactive controls, treatment as usual, and most active intervention conditions.
+In 2020–2021, after three RCTs of ACT by the World Health Organization (WHO), WHO released an ACT-based self-help course Self-Help Plus (SH+) for "groups of up to 30 people who have lived through or are living through adversity". As of July 2023, there are six RCTs of Self-Help Plus.
+In 2022, a systematic review of meta-analyses about interventions for depressive symptoms in people living with chronic pain concluded "Acceptance and commitment therapy for general chronic pain, and fluoxetine and web-based psychotherapy for fibromyalgia showed the most robust effects and can be prioritized for implementation in clinical practice".
+
+Professional organizations
+The Association for Contextual Behavioral Science is committed to research and development in the area of ACT, RFT, and contextual behavioral science more generally. As of 2023 it had over 8,000 members worldwide, about half outside of the United States. It holds annual "world conference" meetings each summer, with the location alternating between North America, Europe, and South America.
+The Association for Behavior Analysis International (ABAI) has a special interest group for practitioner issues, behavioral counseling, and clinical behavior analysis ABA:I. ABAI has larger special interest groups for autism and behavioral medicine. ABAI serves as the core intellectual home for behavior analysts. ABAI sponsors three conferences/year—one multi-track in the U.S., one specific to autism and one international.
+The Association for Behavioral and Cognitive Therapies (ABCT) also has an interest group in behavior analysis, which focuses on clinical behavior analysis. ACT work is commonly presented at ABCT and other mainstream CBT organizations.
+The British Association for Behavioural and Cognitive Psychotherapies (BABCP) has a large special interest group in ACT, with over 1,200 members.
+Doctoral-level behavior analysts who are psychologists belong to the American Psychological Association's (APA) Division 25—Behavior analysis. ACT has been called a "commonly used treatment with empirical support" within the APA-recognized specialty of behavioral and cognitive psychology.
+
+Similarities
+ACT, dialectical behavior therapy (DBT), functional analytic psychotherapy (FAP), mindfulness-based cognitive therapy (MBCT) and other acceptance- and mindfulness-based approaches have been grouped by Steven Hayes under the name "the third wave of cognitive behavior therapy". However, this classification has been criticized and not everyone agrees with it. For example, David Dozois and Aaron T. Beck argued that there is no "new wave" and that there are a variety of extensions of cognitive therapy; for example, Jeffrey Young's schema therapy came after Beck's cognitive therapy but Young did not name his innovations "the third wave" or "the third generation" of cognitive behavior therapy.
+According to Hayes' classification, the first wave, behaviour therapy, commenced in the 1920s based on Pavlov's classical (respondent) conditioning and operant conditioning that was correlated to reinforcing consequences. The second wave emerged in the 1970s and included cognition in the form of irrational beliefs, dysfunctional attitudes or depressogenic attributions. In the late 1980s empirical limitations and philosophical misgivings of the second wave gave rise to Steven Hayes' ACT theory which modified the focus of abnormal behaviour away from the content or form towards the context in which it occurs. People's rigid ideas about themselves, their lack of focus on what is important in their life, and their struggle to change sensations, feelings or thoughts that are troublesome only serve to create greater distress.
+Steven C. Hayes described the third wave in his ABCT President Address as follows:
+
+Grounded in an empirical, principle-focused approach, the third wave of behavioral and cognitive therapy is particularly sensitive to the context and functions of psychological phenomena, not just their form, and thus tends to emphasize contextual and experiential change strategies in addition to more direct and didactic ones. These treatments tend to seek the construction of broad, flexible and effective repertoires over an eliminative approach to narrowly defined problems, and to emphasize the relevance of the issues they examine for clinicians as well as clients. The third wave reformulates and synthesizes previous generations of behavioral and cognitive therapy and carries them forward into questions, issues, and domains previously addressed primarily by other traditions, in hopes of improving both understanding and outcomes.
+ACT has also been adapted to create a non-therapy version of the same processes called acceptance and commitment training. This training process, oriented towards the development of mindfulness, acceptance, and valued skills in non-clinical settings such as businesses or schools, has also been investigated in a handful of research studies with good preliminary results.
+The emphasis of ACT on ongoing present moment awareness, valued directions and committed action is similar to other psychotherapeutic approaches that, unlike ACT, are not as focused on outcome research or consciously linked to a basic behavioral science program, including approaches such as Gestalt therapy, Morita therapy, and others. Hayes and colleagues themselves stated in their book that introduced ACT that "many or even most of the techniques in ACT have been borrowed from elsewhere—from the human potential movement, Eastern traditions, behavior therapy, mystical traditions, and the like".
+Wilson, Hayes & Byrd explored at length the compatibilities between ACT and the 12-step treatment of addictions and argued that, unlike most other psychotherapies, both approaches can be implicitly or explicitly integrated due to their broad commonalities. Both approaches endorse acceptance as an alternative to unproductive control. ACT emphasizes the hopelessness of relying on ineffectual strategies to control private experience, similarly the 12-step approach emphasizes the acceptance of powerlessness over addiction. Both approaches encourage a broad life-reorientation, rather than a narrow focus on the elimination of substance use, and both place great value on the long-term project of building of a meaningful life aligned with the clients' values. ACT and 12-step both encourage the pragmatic utility of cultivating a transcendent sense of self (higher power) within an unconventional, individualized spirituality. Finally they both openly accept the paradox that acceptance is a necessary condition for change and both encourage a playful awareness of the limitations of human thinking.
+
+Criticism
+The textbook Systems of Psychotherapy: A Transtheoretical Analysis includes various criticisms of third-wave behaviour therapy, including ACT, from the perspectives of other systems of psychotherapy, including the complaint that third-wave therapies "display an annoying tendency to gather effective methods from other traditions and label them as their own".
+
+Evidence-based practice
+In a 2012 blog post, psychologist James C. Coyne criticized the process and studies initially used by the APA to favorably evaluate ACT for the treatment of psychosis in its labeling system for evidence-based medicine. In particular, it relied on only one full randomized trial, supplemented by a pilot study and a feasibility study, despite the criteria for "strong evidence" requiring a treatment to be supported by many such trials. The main study used (Bach and Hayes, 2002) was alleged not to have clearly specified its hypothesis—that ACT reduces rehospitalization—in advance of the conducted analysis: a practice in which researchers retrospectively cherry-pick the metric showing the largest claim-supporting change post-treatment. In 2016, this and other critiques were cited by William O'Donohue and co-authors in a paper on ACT "weak and pseudo-tests", adding that while "no doubt there are studies of ACT that are quite good", they had examined three trials of ACT that were "weakened and thus made easier to pass", and they listed over 30 ways in which such trials were "weak or pseudo-tests". Drawing on concepts from Karl Popper's philosophy of science and Popper's critique of psychoanalysis as impossible to falsify, O'Donohue and colleagues advocated Popperian severe testing instead.
+
+Excessive promotion over other therapies
+In 2013, psychologist Jonathan W. Kanter said that Hayes and colleagues "argue that empirical clinical psychology is hampered in its efforts to alleviate human suffering and present contextual behavioral science (CBS) to address the basic philosophical, theoretical and methodological shortcomings of the field. CBS represents a host of good ideas but at times the promise of CBS is obscured by excessive promotion of Acceptance and Commitment Therapy (ACT) and Relational Frame Theory (RFT) and demotion of earlier cognitive and behavior change techniques in the absence of clear logic and empirical support." Nevertheless, Kanter concluded that "the ideas of CBS, RFT, and ACT deserve serious consideration by the mainstream community and have great potential to shape a truly progressive clinical science to guide clinical practice".
+Authors of a 2013 paper comparing ACT to cognitive therapy (CT) concluded that "although preliminary research on ACT is promising, we suggest that its proponents need to be appropriately humble in their claims. In particular, like CT, ACT cannot yet make strong claims that its unique and theory-driven intervention components are active ingredients in its effects." The authors of the paper suggested that many of the assumptions of ACT and CT "are pre-analytical, and cannot be directly pitted against one another in experimental tests."
+In 2012, ACT appeared to be about as effective as standard CBT, with some meta-analyses showing small differences in favor of ACT and others not. For example, a meta-analysis published by Francisco Ruiz in 2012 looked at 16 studies comparing ACT to standard CBT. ACT failed to separate from CBT on effect sizes for anxiety, however modest benefits were found with ACT compared to CBT for depression and quality of life. The author found a separation between ACT and CBT on the "primary outcome"—a heterogeneous class of 14 separate outcome measures aggregated into the effect size analysis. However, the study is limited by the highly heterogeneous nature of the outcome variables used in the analysis, which tends to increase the number needed to treat (NNT) to replicate the effect size reported. More limited measures, such as depression, anxiety, and quality of life, decrease the NNT, making the analysis more clinically relevant, and on these measures, ACT did not outperform CBT. A 2012 clinical trial by Forman et al. found that Beckian CBT obtained better results than ACT.
+Several theoretical and empirical concerns have arisen in response to the ascendancy of ACT. One theoretical concern was that ACT's primary authors and the corresponding theories of human behavior, relational frame theory (RFT) and functional contextualism (FC), recommended their approach as the proverbial holy grail of psychological therapies. In 2012, in the preface to the second edition of Acceptance and Commitment Therapy, the primary authors of ACT clarified that "ACT has not been created to undercut the traditions from which it came, nor does it claim to be a panacea."
+
+See also
+Behavioral psychotherapy
+Contextualism
+Decisional balance sheet § Four square tool
+Defence mechanism
+Humanistic psychology
+Positive psychology
+Solution-focused brief therapy
+
+References
+Further reading
+External links
+Contextualscience.org – Home for the Association for Contextual Behavioral Science, a professional organization dedicated to ACT, RFT, and functional contextualism. Also helpful for training opportunities for professionals interested in ACT and RFT. Most ACT workshops worldwide are listed here.

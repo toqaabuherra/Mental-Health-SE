@@ -1,0 +1,87 @@
+Impostor syndrome
+https://en.wikipedia.org/wiki/Impostor_syndrome
+
+Impostor syndrome, also known as impostor phenomenon or impostorism, is a psychological experience in which a person suffers from feelings of intellectual and/or professional fraudulence. One source defines it as "the subjective experience of perceived self-doubt in one's abilities and accomplishments compared with others, despite evidence to suggest the contrary".
+Those who suffer from impostor syndrome often doubt their skills, talents, or accomplishments. They may have a persistent internalized fear of being exposed as frauds. Despite external evidence of their competence, those experiencing this phenomenon do not believe they deserve their success or luck. They may think that they are deceiving others because they feel as if they are not as intelligent as they outwardly portray themselves to be.
+Impostor syndrome is not a recognized psychiatric disorder and is not featured in the American Psychiatric Association's Diagnostic and Statistical Manual (DSM-5) nor is it listed as a diagnosis in the International Classification of Diseases, Tenth Revision (ICD-10). Thus, clinicians lack information on the prevalence, comorbidities, and best practices for assessing and treating impostor syndrome. However, outside the academic literature, impostor syndrome has become widely discussed, especially in the context of achievement in the workplace.
+
+Signs and symptoms
+Impostor syndrome is studied as a reaction to particular stimuli and events. It is an experience that a person has, not a mental disorder. Impostor syndrome is not recognized in the DSM or ICD, although both of these classification systems recognize low self-esteem and sense of failure as associated symptoms of depression.
+Although impostor syndrome is not a pathological condition, it is a distorted system of belief about oneself that can have a powerful negative impact on people's valuation of their own worth.
+
+Comorbidity
+People with impostor syndrome have a higher chance of suffering from depression and anxiety. They are also more likely to experience low self esteem, somatic symptoms, and social dysfunctions.
+
+Associated factors
+Impostor syndrome is associated with several factors. Some of them are considered to be risk factors, while others are considered to be consequences. However, since the associations are documented in correlational studies, it is not possible to identify cause and effect.
+
+Risk factors
+Impostor syndrome is associated with neuroticism, low self-esteem and perfectionism. It is negatively correlated with the personality traits of extraversion, agreeableness, and conscientiousness.
+Impostor syndrome can stem from and result in strained personal relationships and can hinder people from achieving their full potential in their fields of interest. The term "impostorization" shifts the source of the phenomenon away from the supposed impostor to institutions whose policies, practices, or workplace cultures "either make or intend to make individuals question their intelligence, competence, and sense of belonging."
+
+Implications
+People with impostor syndrome tend to be less satisfied at work and have lower job performance. They also show higher rates of burnout.
+
+Diagnosis
+The first scale designated to measure characteristics of impostor phenomenon was designed by Harvey in 1981 and included 14 items.
+In 1985, the Clance Impostor Phenomenon Scale (CIPS) was developed. This 20-item measure, in contrast to the Harvey Impostor Scale, recognizes the anxiety associated with being judged and the sense of inferiority towards peers. The scale is the most frequently used. However, research has not yet conclusively shown its superiority over other scales.
+Other measures include the Perceived Fraudulence Scale (by Kolligian and Sternberg) and the Leary Impostor Scale, a 7-item test that assesses a single facet of the impostor phenomenon: a perception of being an impostor or fraud.
+In 2023 the Impostor Phenomenon Assessment was developed based on three factors:
+
+Doubts about achievement - fear of failure/success and overpreparation. For example: "I often feel that I have to work harder than others to achieve all that I do".
+Perceived discrepancy - discounting achievements and attributing success to external factors such as luck. For example: "I feel that I have attained my present academic or professional position through 'pulling strings' or 'having connections'".
+Self-handicapping behaviours - avoidance and perfectionism. For example: "I find myself often leaving tasks to the last minute".
+
+Management
+Psychology professors dealing with impostor syndrome have suggested several recommendations for people in similar situations. These include:
+
+Try not to let emotions of worthlessness or uncertainty control your actions; instead, embrace your fears and move forward.
+Consider your accomplishments in the past as proof against impostor syndrome, and utilize them as a fallback when you start to doubt your abilities.
+Build a rapport with a counselor who can assist you in identifying false ideas that perpetuate impostor syndrome.
+As a reminder of your belonging, create areas where your identities are honored and expressed.
+Help others reject impostor beliefs by reflecting back to them their values, abilities, and talents; assisting others may also work as a beneficial reminder for you.
+
+Psychosocial interventions
+In 2019, when a systematic review was conducted, none of the 62 studies on impostor syndrome empirically assessed the efficacy of treatment.
+In their 1978 paper, Clance and Imes proposed a therapeutic approach they used for their participants or clients with impostor phenomenon. This technique includes a group setting where people meet others who are also living with this experience. The researchers explained that group meetings made a significant impact on their participants. They proposed that this impact was a result of the realization that they were not the only ones who experienced these feelings. The participants were required to complete various homework assignments as well. In one assignment, participants recalled all of the people they believed they had fooled or tricked in the past. In another take-home task, people wrote down the positive feedback they had received. Later, they would have to recall why they received this feedback and what about it made them perceive it in a negative light. In the group sessions, the researchers also had the participants re-frame common thoughts and ideas about performance. An example would be to change: "I might fail this exam" to "I will do well on this exam".
+The researchers concluded that simply extracting the self-doubt before an event occurs helps eliminate feelings of impostorism. It was recommended that people struggling with this experience seek support from friends and family.
+
+Epidemiology
+Impostor syndrome prevalence rates range considerably from 9 to 82%, depending on the screening method and threshold used. Rates are especially high among ethnic minority groups. The syndrome is common among men and women and in people of all ages (from teenagers to late-stage professionals).
+Impostor phenomenon is not uncommon for students who enter a new academic environment. Feelings of insecurity can come as a result of an unknown, new environment. This can lead to lower self-confidence and belief in their own abilities.
+
+Gender differences
+When impostor syndrome was first conceptualised, it was viewed as a phenomenon that was common among high-achieving women. Further research has shown that it affects both men and women; the proportion affected are more or less equally distributed among the genders. People with impostor syndrome often have corresponding mental health issues, which may be treated with psychological interventions, though the phenomenon is not a formal mental disorder.
+Clance and Imes stated in their 1978 article that, based on their clinical experience, impostor phenomenon was less prevalent in men. However, more recent research has mostly found that impostor phenomenon is spread equally among men and women. This association with women was thought to stem from societal pressures, gender biases, and traditional expectations that shaped self-perceptions. While the manifestation of impostor syndrome may vary across genders such as men being less likely to disclose feelings of inadequacy, both genders experience the phenomenon under similar psychological conditions. Studies have also highlighted how cultural and environmental factors may influence how these individuals experience these feelings. Girls were also more likely to have lower expectations of success than boys, even in a new and different achievement context, though they had actually performed better than boys. Healthy attribution patterns or having a positive way of understanding challenges and successes are particularly beneficial to women in male-dominated or difficult spaces. Further research has also suggested that women may experience higher societal pressure to prove competence in male-dominated fields, potentially amplifying impostor feelings in certain contexts. Additionally, women may experience more gender-based discrimination or harassment especially in male dominated workplaces which may increase feelings of depression and anxiety. Men, on the other hand, may experience stigma against openly discussing insecurities, which can mask the true prevalence of impostor syndrome among male populations.
+
+Settings
+Impostor phenomenon can occur in other various settings. Some examples include a new environment, academic settings, and in the workplace.
+22% to 60% of physicians suffer from impostor phenomenon.
+The worry and emotions the students held, had a direct impact of their performance in the program. Common facets of impostor phenomenon experienced by students include not feeling prepared academically (especially when comparing themselves to classmates).
+Cokley et al. investigated the impact impostor phenomenon has on students, specifically ethnic minority students. They found that the feelings the students had of being fraudulent resulted in psychological distress. Ethnic minority students often questioned the grounds on which they were accepted into the program. They held the false assumption that they only received their acceptance due to affirmative action—rather than an extraordinary application and qualities they had to offer.
+Tigranyan et al. (2021) examined the way impostor phenomenon relates to psychology doctoral students. The purpose of the study was to investigate the Impostor Phenomenon's relationship to perfectionistic cognitions, depression, anxiety, achievement motives, self-efficacy, self-compassion, and self-esteem in clinical and counseling psychology doctoral students. Furthermore, this study sought to investigate how Impostor Phenomenon interferes with academic, practicum, and internship performance of these students and how Impostor Phenomenon manifests throughout a psychology doctoral program. Included were 84 clinical and counseling psychology doctoral students and they were instructed to respond to an online survey. The data was analyzed using a Pearson's product-moment correlation and a multiple linear regression. Eighty-eight percent of the students in the study reported at least moderate feelings of Impostor Phenomenon characteristics. This study also found significant positive correlations between the Impostor Phenomenon and perfectionistic cognitions, depression, anxiety, and self-compassion. This study indicates that clinical faculty and supervisors should take a supportive approach to assist students to help decrease feelings of Impostor Phenomenon, in hopes of increasing feelings of competence and confidence.
+
+History
+The term impostor phenomenon was introduced in an article published in 1978, titled "The Impostor Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention" by Pauline R. Clance and Suzanne A. Imes. Clance and Imes defined impostor phenomenon as "an internal experience of intellectual phoniness". In 1985, Clance published a book on the topic, and the phenomenon became widely known. Initially, Clance identified the syndrome with high-achieving professional women, but later studies found that it is widespread in both men and women and in many professional settings.
+
+Society and culture
+Several famous people have reported suffering from impostor syndrome. These include Michelle Obama and Sheryl Sandberg.
+
+See also
+Dunning–Kruger effect –  a cognitive bias wherein people of non-average ability (both high and low) inaccurately estimate their own abilities
+Explanatory style –  how people typically explain events to themselves
+Fake it till you make it
+Illusory superiority –  a cognitive bias whereby people overestimate their own qualities and abilities
+Inner critic –  a manifestation of the inner voice which demeans and criticises the person it belongs to
+"Fakin' It" (Simon & Garfunkel song) –  1960s-era pop/rock song on the subject
+Inferiority complex
+Jonah complex –  the fear of success which prevents the realisation of one's potential
+Poseur
+Self-handicapping
+Setting oneself up to fail –  a psychological phenomenon where someone intentionally attempts to prevent their own success at a given task
+Tall poppy syndrome –  aspects of a culture where people of high status are resented for having been viewed as superior to their peers
+
+References
+
+
+== External links ==

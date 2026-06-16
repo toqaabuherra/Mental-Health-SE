@@ -1,0 +1,75 @@
+Nootropic
+https://en.wikipedia.org/wiki/Nootropic
+
+Nootropics ( noh-ə-TROHP-iks or  noh-ə-TROP-iks) (colloquially brain supplements, smart drugs, cognitive enhancers, memory enhancers, or brain boosters) are chemical substances which purportedly improve cognitive functions, such as attention, memory, wakefulness, and self-control.
+In the United States, nootropics can be over-the-counter drugs and commonly advertised with unproven claims of effectiveness for improving cognition. The Federal Trade Commission and FDA have warned manufacturers and consumers about possible advertising fraud and marketing scams concerning nootropic supplements. Nootropics include both prescription drugs and dietary supplements marketed to enhance brain function, but while FDA-approved drugs have proven benefits and oversight, many dietary supplements lack evidence, may contain unapproved or hidden drugs, and pose safety and regulatory risks.
+
+History of term
+The term nootropic is derived from Ancient Greek  νόος (nóos) 'mind' and  τροπή (tropḗ) 'turning'.
+The first documented use of "nootropic" in reference to substances purported to increase cognitive functions was by Corneliu E. Giurgea in 1972. When researching a new compound, Giurgea found a spectrum of effects that did not align with any psychotropic drug category, leading to his proposal of a new category and the concept of the term nootropic.
+Giurgea stated that nootropic drugs should have the following characteristics:
+
+They should enhance learning and memory.
+They should enhance the resistance of learned behaviors or memories to conditions which tend to disrupt them (e.g. electroconvulsive shock, hypoxia).
+They should protect the brain against various physical or chemical injuries.
+They should increase the efficacy of the tonic cortical control mechanisms.
+They should lack the usual pharmacology of other psychotropic drugs (e.g. sedation, motor stimulation) and possess few adverse effects and low toxicity.
+However, there is no globally accepted or clinical definition of a nootropic. Most compounds described as nootropic do not correspond to Giurgea's characteristics.
+
+Unproven marketing claims
+Nootropics include both prescription drugs and dietary supplements marketed to enhance brain function, but while FDA-approved drugs have proven benefits and oversight, many dietary supplements lack evidence, may contain unapproved or hidden drugs, and pose safety and regulatory risks.
+In the United States, nootropics are commonly advertised with unproven claims of effectiveness for improving cognition. Manufacturers' marketing claims for dietary supplements are usually not formally tested and verified by independent entities. In 2019, the US FDA and FTC warned manufacturers and consumers about possible advertising fraud and marketing scams concerning nootropic supplement products. The FDA and FTC stated that some nootropic products had not been approved as a prescription drug effective for any medical purpose, were not proven to be safe, and were illegally marketed in the United States under violation of the Federal Food, Drug, and Cosmetic Act.
+In 2018 in the United States, some nootropic supplements were identified as having misleading ingredients and illegal marketing. In 2019, the FDA and FTC warned manufacturers and consumers about possible advertising fraud and marketing scams concerning nootropic supplements.
+Over the years 2010 to 2019, the FDA warned numerous supplement manufacturers about the illegal status of their products as unapproved drugs with no proven safety or efficacy at the doses listed on the products, together with misleading marketing.
+
+Availability and prevalence
+In 2008, stimulants, such as caffeine, were the most commonly used nootropic agent. In 2016, the American Medical Association adopted a policy to discourage prescriptions of nootropics for healthy people, on the basis that the cognitive effects appear to be highly variable among individuals, are dose-dependent, and limited or modest at best. Piracetam, noopept and meclofenoxate have been sold as dietary supplements.
+
+Adverse effects
+The main concern with pharmaceutical drugs and dietary supplements are adverse effects, including the potential for psychological dependence. Long-term safety evidence is typically unavailable for many nootropic compounds. Racetams, piracetam and other compounds that are structurally related to piracetam, have few serious adverse effects and low toxicity, but there is little evidence that they enhance cognition in people having no cognitive impairments.
+In the United States, dietary supplements may be marketed if the manufacturer can show that the supplement is generally recognized as safe, and if the manufacturer does not make any claims about using the supplement to treat or prevent any disease or condition; supplements that contain drugs or advertise health claims are illegal under US law.
+
+Types
+Central nervous system stimulants
+Systematic reviews and meta-analyses of clinical research using low doses of certain central nervous system stimulants found that these drugs may enhance cognition in healthy people. In particular, the classes of stimulants that demonstrate possible cognition-enhancing effects in humans have evidence in vitro as direct agonists or indirect agonists of dopamine receptor D1 or adrenoceptor α2. Relatively high doses of stimulants cause cognitive deficits.
+
+Amphetamine –  systematic reviews and meta-analyses report that low-dose amphetamine may improve cognitive functions (e.g., inhibitory control, episodic memory, working memory, and aspects of attention) in healthy people and in individuals with ADHD. A 2014 systematic review noted that low doses of amphetamine also improve memory consolidation, in turn leading to improved recall of information in non-ADHD youth. It also improves task saliency (motivation to perform a task) and performance on tedious tasks that required a high degree of effort.
+Caffeine –  a meta-analysis found an increase in alertness and attentional performance.
+Eugeroics (armodafinil and modafinil) –  are classified as "wakefulness-promoting agents"; modafinil may increase alertness, particularly in sleep-deprived individuals, and may improve reasoning and problem solving in non-ADHD youth. In a systematic review of small, preliminary studies where the effects of modafinil were examined, when simple psychometric assessments were considered, modafinil intake enhanced executive function. Modafinil does not improve mood or motivation in sleep-deprived or non-sleep deprived individuals.
+Methylphenidate –  a benzylpiperidine derivative that may improve working memory, episodic memory, and inhibitory control, aspects of attention, and planning latency in healthy people. It also may improve task saliency and performance on tedious tasks. At above optimal doses, methylphenidate has off–target effects that decrease learning.
+Nicotine –  has been associated with improved alertness, attention, memory, and motor performance, according to a meta-analysis. However, a 2020 systematic review raised concerns about potential conflicts of interest, noting industry funding in many studies and inconsistent results regarding nicotine's cognitive effects. This review found that over half of the studies published after 2010 had tobacco industry affiliations, often undisclosed.
+
+Cholinergics
+Some supposed nootropic substances are compounds and analogues of choline, a precursor of acetylcholine (a neurotransmitter) and phosphatidylcholine (a structural component of cell membranes).
+
+Choline bitartrate – Choline bitartrate is a tartaric acid salt containing choline (41% choline by molecular weight). One meta-analysis found choline bitartrate to be ineffective at improving any measure of cognitive performance.
+Citicoline – Compound consisting of choline and cytidine. A meta-analysis found that it may be effective for improving memory and learning in older people with mild cognitive decline, and in people recovering from a stroke.
+
+Racetams
+Racetams, such as piracetam, oxiracetam, phenylpiracetam, and aniracetam, are often marketed as cognitive enhancers and sold over the counter. A 2019 study found that piracetam supplements sold in the United States were inaccurately labeled. Racetams are often referred to as nootropics, but this property is not well established in humans, and nootropics are not consistently found in all racetams. The racetams have poorly understood mechanisms, although piracetam and aniracetam are known to act as positive allosteric modulators of AMPA receptors and appear to modulate cholinergic systems. Similar compounds, such as noopept and aloracetam, do not meet the chemical definition for being a racetam, though they are considered "racetam-like" due to their high similarity.
+According to the FDA,
+
+Piracetam is not a vitamin, mineral, amino acid, herb or other botanical, or dietary substance for use by humans to supplement the diet by increasing the total dietary intake. Further, piracetam is not a concentrate, metabolite, constituent, extract or combination of any such dietary ingredient. [...] Accordingly, these products are drugs, under section 201(g)(1)(C) of the Act, 21 U.S.C. § 321(g)(1)(C), because they are not foods and they are intended to affect the structure or any function of the body. Moreover, these products are new drugs as defined by section 201(p) of the Act, 21 U.S.C. § 321(p), because they are not generally recognized as safe and effective for use under the conditions prescribed, recommended, or suggested in their labeling.
+
+Herbs
+Centella asiatica –  A 2017 meta-analysis showed no significant improvement in  cognitive function. Clinical efficacy and safety have not been scientifically confirmed for this herb.
+Ginkgo biloba –  An extract of Ginkgo biloba leaf is marketed in dietary supplement form with claims it can enhance cognitive function in people without known cognitive problems, although there is no high-quality evidence to support such effects on memory or attention in healthy people.
+Panax ginseng –  A Cochrane review found possible "improvement of some aspects of cognitive function, behavior and quality of life", but concluded that "there is a lack of convincing evidence to show a cognitive enhancing effect of Panax ginseng in healthy participants and no high quality evidence about its efficacy in patients with dementia."
+
+Nutrients and dietary supplements
+Folate –  no cognition-enhancing effects in middle-aged and older adults without folate deficiency.
+Omega-3 fatty acids: DHA and EPA –  two Cochrane Collaboration reviews on the use of supplemental omega-3 fatty acids for ADHD and learning disorders conclude that there is limited evidence of treatment benefits for either disorder. Two other systematic reviews found no cognition-enhancing effects in the general population.
+Vitamin B12 –  no cognition-enhancing effects in middle-aged and older adults without B12 deficiency.
+Vitamin B6 –  no cognition-enhancing effects in middle-aged and older adults without B6 deficiency.
+Vitamin E –  no cognition-enhancing effects in middle-aged and older adults without vitamin E deficiency.
+
+See also
+Cosmetic pharmacology
+List of drugs used by militaries
+Neuroenhancement
+Psychoactive drug
+
+References
+External links
+
+ Media related to Nootropics at Wikimedia Commons

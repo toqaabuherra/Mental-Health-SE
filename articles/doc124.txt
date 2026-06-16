@@ -1,0 +1,102 @@
+Communication disorder
+https://en.wikipedia.org/wiki/Communication_disorder
+
+A communication disorder is any disorder that affects an individual's ability to comprehend, detect, or apply language and speech to engage in dialogue effectively with others. This also encompasses deficiencies in verbal and non-verbal communication styles. The delays and disorders can range from simple sound substitution to the inability to understand or use one's native language. This article covers subjects such as diagnosis, the DSM-IV, the DSM-V, and examples like sensory impairments, aphasia, learning disabilities, and speech disorders.
+
+Diagnosis
+Disorders and tendencies included and excluded under the category of communication disorders may vary by source.  For example, the definitions offered by the American Speech–Language–Hearing Association differ from those of the Diagnostic Statistical Manual 4th edition (DSM-IV).
+Gleason (2001) defines a communication disorder as a speech and language disorder which refers to problems in communication and in related areas such as oral motor function. The delays and disorders can range from simple sound substitution to the inability to understand or use one's native language. In general, communication disorders commonly refer to problems in speech (comprehension and/or expression) that significantly interfere with an individual's achievement and/or quality of life.  Knowing the operational definition of the agency performing an assessment or giving a diagnosis may help.
+Persons who speak more than one language or are considered to have an accent in their location of residence do not have a speech disorder if they are speaking in a manner consistent with their home environment or that is a blending of their home and foreign environment.
+Other conditions, as specified in the Cincinnati Children's Health Library (2019), that may increase the risk of developing a communication disorder include:
+
+Cleft lip or cleft palate – a disorder that is caused by the failure of the parts of the mouth and palate to form together while a fetus is developing in the womb, which then creates a deformity. This is often corrected by surgery.
+Craniofacial anomalies – a deformity of a child's facial bone structure and head bones that is caused by early or delayed fusion of the bones.
+Velopharyngeal insufficiency – when the soft palate does not make a tight enough seal against the pharynx and creates a nasally sound while speaking.
+Dental malocclusion – when the top and bottom teeth do not align when the mouth is closed.
+Oral-motor dysfunction – a disconnection between the brain and the mouth that results in the inability to perform tasks such as chewing, blowing, talking, among others.
+Neurological disease/dysfunction – a blanket term that encompasses multiple neurological disorders like dementia, Alzheimer's, epilepsy, and multiple sclerosis.
+Brain injury – when the brain is damaged in a traumatic event that makes the brain move around in the skull.
+Respirator dependency – the inability to breathe without the use of a ventilator machine.
+Respiratory compromise – the declination of respiratory function that can lead to failure or even death if it is left untreated.
+Tracheostomy – a surgical hole created in the trachea to assist in breathing.
+Vocal fold pathology – an abnormality of the cartilage on the vocal folds.
+Developmental delay – when a child fails to develop (whether that be mentally or physically) at the normal rate for children at the same age.
+Autism – a term that includes neurological disorders that inhibit social functioning, communication, sensory processing, and other challenges.
+Prematurity or traumatic birth – an early (before full term) birth, or one with complications.
+Hearing loss or deafness – when the auditory system does not function as it normally should, and there is a decrease in hearing.
+
+DSM-IV
+According to the DSM-IV-TR (no longer used), communication disorders were usually first diagnosed in childhood or adolescence, though they are not limited as childhood disorders and may persist into adulthood.  They may also occur with other disorders.
+Diagnosis involved testing and evaluation during which it is determined if the scores/performance are "substantially below" developmental expectations and if they "significantly" interfere with academic achievement, social interactions, and daily living.  This assessment might have also determined if the characteristic is deviant or delayed.  Therefore, it may have been possible for an individual to have communication challenges but not meet the criteria of being "substantially below" criteria of the DSM IV-TR.
+The DSM diagnoses did not comprise a complete list of all communication disorders, for example, auditory processing disorder is not classified under the DSM or ICD-10.
+The following diagnoses were included as communication disorders:
+
+Expressive language disorder – characterized by difficulty expressing oneself beyond simple sentences and a limited vocabulary. Individuals can better understand than use language; they may have a lot to say, but have more difficulty organizing and retrieving the words than expected for their developmental stage.
+Mixed receptive-expressive language disorder – problems comprehending the commands of others.
+Stuttering – a speech disorder characterized by a break in fluency, where sounds, syllables, or words may be repeated or prolonged.
+Phonological disorder – a speech sound disorder characterized by problems in making patterns of sound errors (e.g., "dat" for "that").
+Communication disorder NOS (not otherwise specified) – the DSM-IV diagnosis in which disorders that do not meet the specific criteria for the disorder listed above may be classified.
+
+DSM-5
+The DSM-5 diagnoses for communication disorders completely rework the ones stated above. The diagnoses are made more general in order to capture the various aspects of communications disorders in a way that emphasizes their childhood onset and differentiate these communications disorders from those associated with other disorders (e.g. autism spectrum disorders).
+
+Language disorder – the important characteristics of a language disorder are difficulties in learning and using language, which is caused by problems with vocabulary, with grammar, and with putting sentences together in a proper manner. Problems can both be receptive (understanding language) and expressive (producing language).
+Speech sound disorder – previously called phonological disorder, for those with problems with pronunciation and articulation of their native language.
+Childhood-Onset Fluency Disorder (Stuttering) – standard fluency and rhythm of speech is interrupted, often causing the repetition of whole words and syllables. May also include the prolongation of words and syllables; pauses within a word; and/or the avoidance of pronouncing difficult words and replacing them with easier words that the individual is better able to pronounce. This disorder causes many communication problems for the individual and may interfere with social communication and performance in work and/or school settings where communication is essential.
+Social (pragmatic) communication disorder – this diagnosis described difficulties in the social uses of verbal and nonverbal communication in naturalistic contexts, which affects the development of social relationships and dialogue comprehension. The difference between this diagnosis and autism spectrum disorder is that in the latter there is also a restricted or repetitive pattern of behavior.
+Unspecified communication disorder – for those who have symptoms of a communication disorder but who do not meet all criteria, and whose symptoms cause distress or impairment.
+
+Examples
+Examples of disorders that may include or create challenges in language and communication and/or may co-occur with the above disorders:
+
+autism spectrum disorders - autistic disorder, pervasive developmental disorder not otherwise specified (PDDNOS), and Asperger disorder – developmental disorders that affect the brain's normal development of social and communication skills.
+expressive language disorder – affects speaking and understanding where there is no delay in non-verbal intelligence.
+mixed receptive-expressive language disorder – affects speaking, understanding, reading and writing where there is no delay in non-verbal intelligence.
+specific language impairment – a language disorder that delays the mastery of language skills in children who have no hearing loss or other developmental delays. SLI is also called developmental language disorder, language delay, or developmental dysphasia.
+
+Sensory impairments
+Blindness – A link between communication skills and visual impairment with children who are blind is currently being investigated.
+Deafness/frequent ear infections – Hearing impairments during language acquisition may lead to spoken language problems.  Children with frequent ear infections may temporarily develop problems pronouncing words correctly. The inability to hear is not in itself a communication disorder.
+
+Aphasia
+Aphasia is loss of the ability to produce or comprehend language. There are acute aphasias which result from stroke or brain injury, and primary progressive aphasias caused by progressive illnesses such as dementia.
+
+Acute aphasias
+Expressive aphasia also known as Broca's aphasia, expressive aphasia is a non-fluent aphasia that is characterized by damage to the frontal lobe region of the brain. A person with expressive aphasia usually speaks in short sentences that make sense but take great effort to produce. Also, a person with expressive aphasia understands another person's speech but has trouble responding quickly.
+Receptive aphasia also known as Wernicke's aphasia, receptive aphasia is a fluent aphasia that is categorized by damage to the temporal lobe region of the brain. A person with receptive aphasia usually speaks in long sentences that have no meaning or content. People with this type of aphasia often have trouble understanding other's speech and generally do not realize that they are not making any sense.
+Conduction aphasia also known as association aphasia, is when there is a difficulty repeating words or phrases. Comprehension and spontaneous speech are usually not limited, just repetition.
+Anomic aphasia is when one has difficulty retrieving words and may take long pauses when trying to recall certain verbs or nouns. This is a mild form of aphasia as comprehension is not limited.
+Global aphasia is the most severe form of aphasia as there is difficulty with speech comprehension, as well as difficulty in responding in meaningful ways. This is caused by several brain injuries in more than one spot.
+Primary progressive aphasias (PPA)
+Progressive nonfluent aphasia also known as PNFA, is a form of PPA that involves a reduction of speech fluency, syntax and grammar impairment, difficulty of articulation and word finding, and long-term comprehension.
+Semantic dementia is a condition in which words and phrases slowly begin to lose meaning, and comprehension is lost because of a deterioration in the semantic memory.  This is usually characterized by behavior changes, fluent speech but with no meaning, preserved syntax and grammar, and the impaired ability to recognize objects.
+Logopenic progressive aphasia also known as LPA, is associated with Alzheimer's disease. This is characterized by difficulty in word retrieval and repetition, phonological errors, anomia, and the preservation of single-word comprehension.
+
+Learning disability
+Dyscalculia – an impairment in the systems used in communicating numbers
+Dyslexia – an impairment in systems used in reading
+Dysgraphia – an impairment in the systems used in writing
+Dyspraxia – an impairment in the systems used in movement
+
+Speech disorders
+cluttering - a syndrome characterized by a speech delivery rate which is either abnormally fast, irregular, or both.
+dysarthria - a condition that occurs when problems with the muscles that helps a person to talk make it difficult to pronounce words.
+esophageal voice - involves the patient injecting or swallowing air into the esophagus. Usually learnt and used by patients who cannot use their larynges to speak. Once the patient has forced the air into their esophagus, the air vibrates a muscle and creates esophageal voice. Esophageal voice tends to be difficult to learn and patients are often only able to talk in short phrases with a quiet voice.
+lisp - a speech impairment that is also known as sigmatism.
+speech sound disorder - Speech-sound disorders (SSD) involve impairments in speech-sound production and range from mild articulation issues involving a limited number of speech sounds to more severe phonologic disorders involving multiple errors in speech-sound production and reduced intelligibility.
+stuttering - a speech disorder in which sounds, syllables, or words are repeated or last longer than normal. These problems cause a break in the flow of speech (called disfluency).
+
+See also
+References
+Further reading
+Cherney LR, Gardner P, Logemann JA, et al. (2010). "The role of speech-language pathology and audiology in the optimal management of the service member returning from Iraq or Afghanistan with a blast-related head injury: position of the Communication Sciences and Disorders Clinical Trials Research Group". J Head Trauma Rehabil. 25 (3): 219–24. doi:10.1097/HTR.0b013e3181dc82c1. PMID 20473095. S2CID 8929365.
+Wong PC, Perrachione TK, Gunasekera G, Chandrasekaran B (August 2009). "Communication disorders in speakers of tone languages: etiological bases and clinical considerations". Semin Speech Lang. 30 (3): 162–73. doi:10.1055/s-0029-1225953. PMC 2805066. PMID 19711234.
+
+External links
+
+Communication Disorders
+Aphasia - National Institute on Deafness and Other Communication Disorders (NIDCD)
+Dysgraphia - National Institute on Deafness and Other Communication Disorders Archived 2016-12-02 at the Wayback Machine
+Voice and Speech Disorder Online Community (VoiceMatters.net)
+List of communication disorder related links
+Child Language Disorders

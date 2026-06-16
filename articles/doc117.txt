@@ -1,0 +1,93 @@
+Neurodevelopmental disorder
+https://en.wikipedia.org/wiki/Neurodevelopmental_disorder
+
+Neurodevelopmental disorders are a group of mental disorders negatively affecting the development of the nervous system, which includes the brain and spinal cord. According to the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) published in 2013, these conditions generally appear in early childhood, usually before children start school, and can persist into adulthood. The key characteristic of all these disorders is that they negatively impact a person's functioning in one or more domains of life (personal, social, academic, occupational) depending on the disorder and deficits it has caused. All of these disorders and their levels of impairment exist on a spectrum, and affected individuals can experience varying degrees of symptoms and deficits, despite having the same diagnosis.
+The DSM-5 classifies neurodevelopmental disorders into six overarching groups: intellectual, communication, autism, attention deficit hyperactivity, motor, and specific learning disorders. Often one disorder is accompanied by another.
+
+Classification
+Intellectual disability
+Intellectual disability, also known as general learning disability is a disorder that affects the ability to learn, retain, or process information; to  think critically or abstractly, and to solve problems. Adaptive behaviour is limited, affecting daily living activities. Global developmental delay is categorized under intellectual disability and is diagnosed when several areas of intellectual functioning are affected.
+
+Communication disorders
+A communication disorder is any disorder that affects an individual's ability to comprehend, detect, or apply language and speech to engage in dialogue effectively with others. This also encompasses deficiencies in verbal and nonverbal communication styles. Examples include stuttering, sound substitution,  inability to understand or use one's native language.
+
+Autism spectrum disorder
+Autism, also called autism spectrum disorder (ASD) or autism spectrum condition (ASC), is a neurodevelopmental disorder characterized by symptoms of deficient reciprocal social communication and the presence of restricted, repetitive, and inflexible patterns of behavior. While its severity and specific manifestations vary widely across the spectrum, autism generally affects a person's ability to understand and connect with others and adapt to everyday situations. Like most developmental disorders, autism exists along a continuum of symptom severity, subjective distress, and functional impairment. A consequence of this dimensionality is substantial variability across autistic persons with respect to both the nature and the extent of required supports.
+A formal diagnosis of ASD requires not merely the presence of ASD symptoms, but symptoms that cause significant impairment in multiple domains of functioning, in addition to being excessive or atypical enough to be developmentally and socioculturally inappropriate.
+
+Attention deficit hyperactivity disorder
+Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterised by executive dysfunction occasioning symptoms of inattention, hyperactivity, impulsivity and emotional dysregulation that are excessive and pervasive, impairing in multiple contexts, and developmentally-inappropriate.
+ADHD symptoms arise from executive dysfunction, and emotional dysregulation is often considered a core symptom. Difficulties in self-regulation such as time management, inhibition and sustained attention may cause poor professional performance, relationship difficulties and numerous health risks, collectively predisposing to a diminished quality of life and a direct average reduction in life expectancy of 13 years. ADHD is associated with other neurodevelopmental and mental disorders as well as non-psychiatric disorders, which can cause additional impairment.
+
+Motor disorders
+Motor disorders including developmental coordination disorder, stereotypic movement disorder, and tic disorders (such as Tourette's syndrome), and apraxia of speech.
+
+Specific learning disorders
+Deficits in any area of information processing can manifest in a variety of  specific learning disabilities (SLD). It is possible for an individual to have more than one of these difficulties. This is referred to as comorbidity or co-occurrence of learning disabilities.
+
+Currently being researched
+There are neurodevelopmental research projects examining potential new classifications of disorders including:
+
+Nonverbal learning disorder (NLD or NVLD), a neurodevelopmental disorder thought to be linked to white matter in the right hemisphere of the brain and generally considered to include (a) low visuospatial intelligence; (b) discrepancy between verbal and visuospatial intelligence; (c) visuoconstructive and fine-motor coordination skills; (d) visuospatial memory tasks; (e) reading better than mathematical achievement; and (f) socioemotional skills. While Nonverbal learning disorder is not categorized in the ICD or DSM as a discrete classification, "the majority of researchers and clinicians agree that the profile of NLD clearly exists (but see Spreen, 2011, for an exception), but they disagree on the need for a specific clinical category and on the criteria for its identification."
+
+Presentation
+Consequences
+The multitude of neurodevelopmental disorders spans a wide range of associated symptoms and severity, resulting in different degrees of mental, emotional, physical, and economic consequences for individuals, and in turn families, social groups, and society.
+
+Causes
+The development of the nervous system is tightly regulated and timed; it is influenced by both genetic programs and the prenatal environment. Any significant deviation from the normal developmental trajectory early in life can result in missing or abnormal neuronal architecture or connectivity. Because of the temporal and spatial complexity of the developmental trajectory, there are many potential causes of neurodevelopmental disorders that may affect different areas of the nervous system at different times and ages. These range from social deprivation, genetic and metabolic diseases, immune disorders, infectious diseases, nutritional factors, physical trauma, and toxic and prenatal environmental factors. Some neurodevelopmental disorders, such as autism and other pervasive developmental disorders, are considered multifactorial syndromes which have many causes that converge to a more specific neurodevelopmental manifestation. Some deficits may be predicted from observed deviations in the maturation patterns of the infant gut microbiome.
+
+Social deprivation
+Deprivation from social and emotional care causes severe delays in brain and cognitive development. Studies with children growing up in Romanian orphanages during Nicolae Ceauşescu's regime reveal profound effects of social deprivation and language deprivation on the developing brain. These effects are time-dependent. The longer children stayed in negligent institutional care, the greater the consequences. By contrast, adoption at an early age mitigated some of the effects of earlier institutionalization.
+
+Genetic disorders
+A prominent example of a genetically determined neurodevelopmental disorder is trisomy 21, also known as Down syndrome. This disorder usually results from an extra chromosome 21, although in uncommon instances it is related to other chromosomal abnormalities such as translocation of the genetic material. It is characterized by short stature, epicanthal (eyelid) folds, abnormal fingerprints and palm prints, heart defects, poor muscle tone (delay of neurological development), and intellectual disabilities (delay of intellectual development).
+Less commonly known genetically determined neurodevelopmental disorders include Fragile X syndrome. Fragile X syndrome was first described in 1943 by Martin and Bell, studying persons with family history of sex-linked "mental defects". Rett syndrome, another X-linked disorder, produces severe functional limitations. Williams syndrome is caused by small deletions of genetic material from chromosome 7.
+The most common recurrent copy number variation disorder is DiGeorge syndrome (22q11.2 deletion syndrome), followed by Prader-Willi syndrome and Angelman syndrome.
+
+Immune dysfunction
+Immune reactions during pregnancy, both maternal and of the developing child, may produce neurodevelopmental disorders. One typical immune reaction in infants and children is PANDAS, or Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infection. Another disorder is Sydenham's chorea, which results in more abnormal movements of the body and fewer psychological sequellae. Both are immune reactions against brain tissue that follow infection by Streptococcus bacteria. Susceptibility to these immune diseases may be genetically determined, so sometimes several family members may have one or both of them following an epidemic of Strep infection.
+
+Infectious diseases
+Systemic infections can result in neurodevelopmental consequences, when they occur in infancy and childhood of humans, but would not be called a primary neurodevelopmental disorder. For example HIV Infections of the head and brain, like brain abscesses, meningitis or encephalitis have a high risk of causing neurodevelopmental problems and eventually a disorder. For example, measles can progress to subacute sclerosing panencephalitis.
+A number of infectious diseases can be transmitted congenitally (either before or at birth), and can cause serious neurodevelopmental problems, as for example the viruses HSV, CMV, rubella (congenital rubella syndrome), Zika virus, or bacteria like Treponema pallidum in congenital syphilis, which may progress to neurosyphilis if it remains untreated. Protozoa like Plasmodium or Toxoplasma which can cause congenital toxoplasmosis with multiple cysts in the brain and other organs, leading to a variety of neurological deficits.
+Some cases of schizophrenia may be related to congenital infections, though the majority are of unknown causes.
+
+Metabolic disorders
+Metabolic disorders in either the mother or the child can cause neurodevelopmental disorders. Two examples are diabetes mellitus (a multifactorial disorder) and phenylketonuria (an inborn error of metabolism). Many such inherited diseases may directly affect the child's metabolism and neural development but less commonly they can indirectly affect the child during gestation. (See also teratology).
+In a child, type 1 diabetes can produce neurodevelopmental damage by the effects of excess or insufficient glucose. The problems continue and may worsen throughout childhood if the diabetes is not well controlled. Type 2 diabetes may be preceded in its onset by impaired cognitive functioning.
+A non-diabetic fetus can also be subjected to glucose effects if its mother has undetected gestational diabetes. Maternal diabetes causes excessive birth size, making it harder for the infant to pass through the birth canal without injury or it can directly produce early neurodevelopmental deficits. Usually the neurodevelopmental symptoms will decrease in later childhood.
+Phenylketonuria, also known as PKU, can induce neurodevelopmental problems and children with PKU require a strict diet to prevent intellectual disability and other disorders. In the maternal form of PKU, excessive maternal phenylalanine can be absorbed by the fetus even if the fetus has not inherited the disease. This can produce intellectual disability and other disorders.
+
+Nutrition
+Nutrition disorders and nutritional deficits may cause neurodevelopmental disorders, such as spina bifida, and the rarely occurring anencephaly, both of which are neural tube defects with malformation and dysfunction of the nervous system and its supporting structures, leading to serious physical disability and emotional sequelae. The most common nutritional cause of neural tube defects is folic acid deficiency in the mother, a B vitamin usually found in fruits, vegetables, whole grains, and milk products. (Neural tube defects are also caused by medications and other environmental causes, many of which interfere with folate metabolism, thus they are considered to have multifactorial causes.) Another deficiency, iodine deficiency, produces a spectrum of neurodevelopmental disorders ranging from mild emotional disturbance to severe intellectual disability. (see also congenital iodine deficiency syndrome).
+Excesses in both maternal and infant diets may cause disorders as well, with foods or food supplements proving toxic in large amounts. For instance in 1973 K.L. Jones and D.W. Smith of the University of Washington Medical School in Seattle found a pattern of "craniofacial, limb, and cardiovascular defects associated with prenatal onset growth deficiency and developmental delay" in children of alcoholic mothers, now called fetal alcohol syndrome, It has significant symptom overlap with several other entirely unrelated neurodevelopmental disorders.
+
+Physical trauma
+Brain trauma in the developing human is a common cause (over 400,000 injuries per year in the US alone, without clear information as to how many produce developmental sequellae) of neurodevelopmental syndromes. It may be subdivided into two major categories, congenital injury (including injury resulting from otherwise uncomplicated premature birth) and injury occurring in infancy or childhood. Common causes of congenital injury are asphyxia (obstruction of the trachea), hypoxia (lack of oxygen to the brain), and the mechanical trauma of the birth process itself.
+
+Placenta
+Although it not clear yet as strong is the correlation between placenta and brain, a growing number of studies are linking placenta to fetal brain development.
+
+Diagnosis
+Neurodevelopmental disorders are diagnosed by evaluating the presence of characteristic symptoms or behaviors in a child, typically after a parent, guardian, teacher, or other responsible adult has raised concerns to a doctor.
+Neurodevelopmental disorders may also be confirmed by genetic testing. Traditionally, disease related genetic and genomic factors are detected by karyotype analysis, which detects clinically significant genetic abnormalities for 5% of children with a diagnosed disorder. As of 2017, chromosomal microarray analysis (CMA) was proposed to replace karyotyping because of its ability to detect smaller chromosome abnormalities and copy-number variants, leading to greater diagnostic yield in about 20% of cases. The American College of Medical Genetics and Genomics and the American Academy of Pediatrics recommend CMA as standard of care in the US.
+
+Management
+Managing these disorders requires the involvement of professionals.
+After diagnosis, Parents or caregivers should engage the services of therapists depending on the challenges the individual is faced with, it is also important that they get help, as early intervention can help them overcome these challenges and generally improve their well-being.
+
+See also
+Developmental disability
+Epigenetics
+Microcephaly
+SCN2A-Related Disorders (epilepsy and autism)
+Teratology
+TRPM3-related neurodevelopmental disorder
+Channelopathies
+
+References
+Further reading
+External links
+A Review of Neurodevelopmental Disorders – Medscape review
+SCN2A-Related Disorders - Cambridge Elements review

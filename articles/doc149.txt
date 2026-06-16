@@ -1,0 +1,108 @@
+Exposure therapy
+https://en.wikipedia.org/wiki/Exposure_therapy
+
+Exposure therapy is a technique in behavior therapy to treat anxiety disorders. Exposure therapy involves exposing the patient to the anxiety source or its context (without the intention to cause any danger). Doing so is thought to help them overcome their anxiety or distress. Numerous studies have demonstrated its effectiveness in the treatment of disorders such as generalized anxiety disorder, social anxiety disorder, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and specific phobias. 
+As of 2024, focus is particularly on exposure and response prevention (ERP or ExRP) therapy, in which exposure is continued and the resolution to refrain from the escape response is maintained at all times (not just during specific therapy sessions).
+
+Techniques
+Exposure therapy is based on the principle of respondent conditioning often termed Pavlovian extinction. The exposure therapist identifies the cognitions, emotions and physiological arousal that accompany a fear-inducing stimulus and then tries to break the pattern of escape that maintains the fear. This is done by exposing the patient to fear-inducing stimuli. 
+This may be done:
+
+using progressively stronger stimuli. Fear is minimized at each of a series of steadily escalating steps or challenges (a hierarchy), which can be explicit ("static") or implicit ("dynamic" — see Method of Factors) until the fear is finally gone. The patient is able to terminate the procedure at any time.
+using flooding therapy, which exposes the patient to feared stimuli starting at the most feared item in a fear hierarchy.
+There are several types of exposure procedures:
+
+In vivo or "real life". This type exposes the patient to actual fear-inducing situations. For example, if someone fears public speaking, the person may be asked to give a speech to a small group of people.
+Virtual reality, in which technology is used to simulate in vivo exposure. Studies suggest that immersive virtual reality has the ability to mimic feared stimuli and patients actually perceive them as real threats.
+Imaginal, where patients are asked to imagine a situation that they are afraid of. This procedure is helpful for people who need to confront feared thoughts and memories.
+Written exposure therapy, where patients write down their account of the traumatic event
+Interoceptive, in which patients confront feared bodily symptoms such as increased heart rate and shortness of breath. This may be used for more specific disorders such as panic or post-traumatic stress disorder.
+Self Distancing- A cognitive strategy typically used alongside exposure therapy where an individual refers to themselves in third person allowing them take a step back and see the fearful stimulus through a less intimidating perspective. 
+The various types of exposure may be used together or separately. Discussion continues on how best to carry out exposure therapy, including on whether safety behaviours should be discontinued.
+
+Exposure and response prevention (ERP)
+In the exposure and response prevention (ERP or EX/RP) form of exposure therapy, the resolution to refrain from the escape response is to be maintained at all times (not just during specific practice sessions). Thus, not only does the subject experience habituation to the feared stimulus, but they also practice a fear-incompatible behavioral response to the stimulus. The distinctive feature is that individuals confront their fears and discontinue their escape response.
+While this type of therapy typically causes some short-term anxiety, this facilitates long-term reduction in obsessive and compulsive symptoms. 
+The American Psychiatric Association recommends ERP for the treatment of OCD, citing that ERP has the richest empirical support. As of 2019, ERP is considered a first-line psychotherapy for OCD. A 2024 systematic review found that ERP is highly effective in treating pediatric OCD using both in-person and telehealth-based modailites.
+Effectiveness is heterogeneous. Higher efficacy correlates with lower avoidance behaviours, and greater adherence to homework. Using SSRI meds whilst doing ERP does not appear to correlate with better outcomes. Discussion continues on how to best conduct ERP.
+Generally, ERP incorporates a relapse prevention plan toward the end of the course of therapy. This can include being ready to re-apply ERP if an anxiety does occur.
+
+Mechanism
+Mechanism research has been limited in the field.
+Habituation was seen as a mechanism in the past, but is seen more recently as a model of therapeutic process.
+
+Inhibitory learning
+As of 2022, the inhibitory learning model is the most common conjecture of the mechanism which causes exposure therapy efficacy. This model posits that in exposure therapy the unpleasant reactions such as anxiety (that were previously learned during fear conditioning) remain intact - they are not expected to be eliminated - but that they are now inhibited or balanced or overcome by new learning about the situation (for instance that the feared result will not necessarily happen). More research is needed.
+
+Inhibitory retrieval
+This model posits that additional associative learning processes, such as counterconditioning and novelty-enhanced extinction may contribute to exposure therapy.
+
+Under-use and barriers to use
+Exposure therapy is seen as under-used in relation to its efficacy. Barriers to use of exposure therapy by psychologists include it appearing antithetical to mainline psychology, lack of confidence, and negative beliefs about exposure therapy.
+
+Uses
+Phobia
+Exposure therapy is the most successful known treatment for phobias. Several published meta-analyses included studies of one-to-three-hour single-session treatments of phobias, using imaginal exposure. At a post-treatment follow-up four years later 90% of people retained a considerable reduction in fear, avoidance, and overall level of impairment, while 65% no longer experienced any symptoms of a specific phobia.
+Agoraphobia and social anxiety disorder are examples of phobias that have been successfully treated by exposure therapy.
+
+Post-traumatic stress disorder
+Exposure therapy in PTSD involves exposing the patient to PTSD-anxiety triggering stimuli, with the aim of weakening the neural connections between triggers and trauma memories (a.k.a. desensitisation). Exposure may involve:
+
+a real-life trigger ("in vivo")
+an imagined trigger ("imaginal")
+Virtual reality exposure
+a triggered feeling generated in a physical way ("interoceptive")
+Forms include:
+
+Flooding – exposing the patient directly to a triggering stimulus, while simultaneously making them not feel afraid.
+Systematic desensitisation (a.k.a. "graduated exposure") – gradually exposing the patient to increasingly vivid experiences that are related to the trauma, but do not trigger post-traumatic stress.
+Narrative exposure therapy - creates a written account of the traumatic experiences of a patient or group of patients, in a way that serves to recapture their self-respect and acknowledges their value. Under this name it is used mainly with refugees, in groups. It also forms an important part of cognitive processing therapy and is conditionally recommended for treatment of PTSD by the American Psychological Association.
+Prolonged exposure therapy (PE) - a form of behavior therapy and cognitive behavioral therapy designed to treat post-traumatic stress disorder, characterized by two main treatment procedures – imaginal and in vivo exposures. Imaginal exposure is a repeated 'on-purpose' retelling of the trauma memory. In vivo exposure is gradually confronting situations, places, and things that are reminders of the trauma or feel dangerous (despite being objectively safe). Additional procedures include processing of the trauma memory and breathing retraining. The American Psychological Association strongly recommends PE as a first-line psychotherapy treatment for PTSD.
+S.H.A.R.E (Survivors Healing from Abuse: Recovery through Exposure) - exposure-based group therapy that specifically focuses on providing services for previously incarcerated women that are at high risk of developing PTSD because of them being sexually assaulted.
+Researchers began experimenting with Virtual reality exposure (VRE) therapy in PTSD exposure therapy in 1997 with the advent of the "Virtual Vietnam" scenario. Virtual Vietnam was used as a graduated exposure therapy treatment for Vietnam veterans meeting the qualification criteria for PTSD. A 50-year-old Caucasian male was the first veteran studied. The preliminary results concluded improvement post-treatment across all measures of PTSD and maintenance of the gains at the six-month follow up. Subsequent open clinical trial of Virtual Vietnam using 16 veterans, showed a reduction in PTSD symptoms.
+This method was also tested on several active duty Army soldiers, using an immersive computer simulation of military settings over six sessions. Self-reported PTSD symptoms of these soldiers were greatly diminished following the treatment.  Exposure therapy has shown promise in the treatment of co-morbid PTSD and substance abuse.
+In the area of PTSD, historic barriers to the use of exposure therapy include that clinicians may not understand it, are not confident in their own ability to use it, or more commonly, see significant contraindications for their client.
+
+Obsessive compulsive disorder
+Exposure and response prevention (also known as exposure and ritual prevention; ERP or EX/RP) is a variant of exposure therapy that is recommended by the American Academy of Child and Adolescent Psychiatry (AACAP), the American Psychiatric Association (APA), and the Mayo Clinic as first-line treatment of OCD citing that it has the richest empirical support for both youth and adolescent outcomes.
+ERP is predicated on the idea that a therapeutic effect is achieved as subjects confront their fears, but refrain from engaging in the escape response or ritual that delays or eliminates distress. In the case of individuals with OCD or an anxiety disorder, there is a thought or situation that causes distress. Individuals usually combat this distress through specific behaviors that include avoidance or rituals. However, ERP involves purposefully evoking fear, anxiety, and or distress in the individual by exposing him/her to the feared stimulus. The response prevention then involves having the individual refrain from the ritualistic or otherwise compulsive behavior that functions to decrease distress. The patient is then taught to tolerate distress until it fades away on its own, thereby learning that rituals are not always necessary to decrease distress or anxiety. Over repeated practice of ERP, patients with OCD expect to find that they can have obsessive thoughts and images but not have the need to engage in compulsive rituals to decrease distress.
+The AACAP's practice parameters for OCD recommends cognitive behavioral therapy, and more specifically ERP, as first line treatment for youth with mild to moderate severity OCD and combination psychotherapy and pharmacotherapy for severe OCD. The Cochrane Review's examinations of different randomized control trials echoes repeated findings of the superiority of ERP over waitlist control or pill-placebos, the superiority of combination ERP and pharmacotherapy, but similar effect sizes of efficacy between ERP or pharmacotherapy alone.
+
+Generalized anxiety disorder
+There is empirical evidence that exposure therapy can be an effective treatment for people with generalized anxiety disorder, citing specifically in vivo exposure therapy (exposure through a real-life situation), which has greater effectiveness than imaginal exposure in regards to generalized anxiety disorder. The aim of in vivo exposure treatment is to promote emotional regulation using systematic and controlled therapeutic exposure to traumatic stimuli. Exposure is used to promote fear tolerance.
+Exposure therapy is also a preferred method for children who struggle with anxiety. Researchers suggest that it is cruical for children to start this form of therapy from an early age to provide effective treatment that will follow them through adulthood.
+
+Other possible uses of exposure therapy
+Exposure therapy has been posited as potentially helpful for other uses, including substance abuse disorders, overeating, binge eating, and obesity, and depression. Eating disorders and post traumatic disorders seem to occur coherently, therefore it is pivotal for an individual to get a better sense of their emotions.  Interventions such as H.O.M.E (How to Observe and Modify Emotions) have been created and are specifically designed to help regulate ones emotions and those that may be at risk for getting an eating disorder.  This also has the ability to help those that may be going through depression by allowing them to safely be exposed to certain triggers. 
+Exposure therapy has also been found effective in treating separation anxiety and panic disorder. In cases of separation anxiety, gradual exposure helps individuals become more comfortable with being apart from attachment figures. For panic disorder, exposure techniques can reduce sensitivity to physical sensations that might otherwise trigger panic attacks.
+
+History
+The 9th century Persian polymath Abu Zayd al-Balkhi wrote about 'tranquilizing fear' by 'forcing oneself to repeatedly expose one's hearing and sight to noxious things' and to 'moved again and again near the thing it is scared of until it becomes used to it and loses its fear.'
+The use of exposure as a mode of therapy began in the 1950s, at a time when psychodynamic views dominated Western clinical practice and behavioral therapy was first emerging. South African psychologists and psychiatrists first used exposure as a way to reduce pathological fears, such as phobias and anxiety-related problems, and they brought their methods to England in the Maudsley Hospital training program.
+Joseph Wolpe (1915–1997) was one of the first psychiatrists to spark interest in treating psychiatric problems as behavioral issues. He sought consultation with other behavioral psychologists, among them James G. Taylor (1897–1973), who worked in the psychology department of the University of Cape Town in South Africa. Although most of his work went unpublished, Taylor was the first psychologist known to use exposure therapy treatment for anxiety, including methods of situational exposure with response prevention—a common exposure therapy technique still being used.
+Since the 1950s, several sorts of exposure therapy have been developed, including systematic desensitization, flooding, implosive therapy, prolonged exposure therapy, in vivo exposure therapy, and imaginal exposure therapy.
+Exposure and response prevention (ERP) traces its roots back to the work of psychologist Vic Meyer in the 1960s. Meyer devised this treatment from his analysis of fear extinguishment in animals via flooding and applied it to human cases in the psychiatric setting that, at the time, were considered intractable. The success of ERP clinically and scientifically has been summarized as "spectacular" by prominent OCD researcher Stanley Rachman decades following Meyer's creation of the method.
+
+Possibly related psychological techniques
+Mindfulness
+A 2015 review pointed out parallels between exposure therapy and mindfulness, stating that mindful meditation "resembles an exposure situation because [mindfulness] practitioners 'turn towards their emotional experience', bring acceptance to bodily and affective responses, and refrain from engaging in internal reactivity towards it." Imaging studies have shown that the ventromedial prefrontal cortex, hippocampus, and the amygdala are all affected by exposure therapy; imaging studies have shown similar activity in these regions with mindfulness training.
+
+EMDR
+Eye movement desensitization and reprocessing (EMDR) includes an element of exposure therapy (desensitization), though whether this is an effective method or not, is controversial.
+
+Other
+Desensitization and extinction also involve exposure to a cause of disturbance.
+
+Research; Expectations violation
+Research has been undertaken on the therapy impact of a focus on the mismatch between threat expectancy before exposure and what actually occurs in exposure, but this has not produced clearly positive results.
+
+See also
+Catharsis
+EMDR
+Desensitization (psychology)
+Extinction (psychology)
+
+Explanatory footnotes
+
+
+== References ==

@@ -1,0 +1,130 @@
+Dysthymia
+https://en.wikipedia.org/wiki/Dysthymia
+
+Dysthymia ( dihss-THY-mee-ə), known as persistent depressive disorder (PDD) in the DSM-5-TR and dysthymic disorder in ICD-11, is a psychiatric condition marked by symptoms that are similar to those of major depressive disorder, but which persist for at least two years in adults and one year among pediatric populations. The term was introduced by Robert Spitzer in the late 1970s as a replacement for the concept of "depressive personality."
+With the DSM-5's publication in 2013, the condition assumed its current name (i.e., PDD), having been called dysthymic disorder in the DSM's previous edition (DSM-IV), and remaining so in ICD-11. PDD is defined by a 2-year history of symptoms of major depression not better explained by another health condition, as well as significant distress or functional impairment.
+Individuals with PDD, defined in part by its chronicity, may experience symptoms for years before receiving a diagnosis, if one is received at all. Consequently, they might perceive their dysphoria as a character or personality trait rather than a distinct medical condition and never discuss their symptoms with healthcare providers. PDD subsumed prior DSM editions' diagnoses of chronic major depressive disorder and dysthymic disorder. The change arose from a continuing lack of evidence of a clinically meaningful distinction between chronic major depression and dysthymic disorder.
+
+History
+Terminology evolution
+The terminology of chronic depression has greatly changed as time passed. Historically, symptoms now related to dysthymia were, at times, marked as "neurotic depression" or depressive neurosis." The term dysthymia (from Greek: "bad state of mind" or "ill-humor") was officially introduced into the Diagnostic and Statistical Manual of Mental Disorders (DSM-III) in 1980 to describe a long-term, less severe but still disabling, form of depression. Later, the American Psychiatric Association, or APA, revised the terminology in the DSM-IV and then in the DSM-5 (2013). Renaming the diagnosis to persistent depressive disorder, or PDD, to combine dysthymia and chronic major depressive disorder under a whole, unified category. The DSM-5 rework showcased the significance of the practical impact and prolongation over symptom severity, encouraging wider clinical recognition of chronic symptoms and better consistency in diagnosis and research.
+
+Milestones of Diagnostics
+Early Recognition
+In the late 19th and early 20th centuries, chronic low grade depressive symptoms began to be treated differently from episodic major depression, although there was little consensus on terminology or treatment. The concept of chronic depression stayed almost unrecognized in the first half of the 20th century.
+
+Standardization & Epidemiological Impact
+The official introduction of dysthymia as a distinct disorder in the DSM-III created more systematic study. In the early 2000s, major population based research efforts, such as the National Comorbidity Survey Replication (NCS-R), quantified the gender distribution and social burden of dysthymia in the United States. The NCS-R, led by Harvard and sponsored by NIMH, estimated the lifetime prevalence of dysthymia at 2.5%; women were found to be disproportionately affected. Another critical point, the National Comorbidity Survey Adolescent Supplement (NCS-A), extended this research to youth, showing that chronic depressive symptoms do occur in children and adolescents and are linked to academic struggles, increased peer conflict, and elevated risk for later psychological and behavioral disorders.
+
+Impairment and Disability
+For the first time, robust functional impairment scores were attached to dysthymia using the Sheehan Disability Scale: approximately half of diagnosed adults reported severe disability, with the rest experiencing moderate or mild impacts on their ability to work, socialize, or manage responsibilities. The relation with early life trauma, chronic stress, and comorbid psychiatric disorders (like anxiety or substance use) has become more documented during this research phase.
+
+Developments of Research
+Expanded Understanding
+All through the 1990s and 2000s, a growing body of NIMH-sponsored research showed that dysthymia is not simply "milder" depression but a chronic, high burden illness. Longitudinal studies discovered that PDD often begins early, sometimes in adolescence or even childhood, and may last for years to decades without adequate treatment, sometimes dispersed with major depressive episodes ("double depression"). Such findings transferred the clinical focus toward early intervention and long term management.
+
+Impact on Treatment Standards
+The increasing emphasis on functional impairment (not just symptom counts) in both clinical trials and public health data led professional organizations to update treatment guidelines, supporting a combination of psychotherapy (such as cognitive-behavioral therapy or interpersonal therapy) and, where appropriate, pharmacological interventions. The relapse risk documented in these studies feature the importance of ongoing support and monitoring.
+
+Recognition for Children
+Changing Views
+In children, chronic depression went heavily unaccounted for by clinicians for much of the 20th century. Assumed to be not common or misdiagnosed as behavioral issues or adjustment disorders, though, by the late 1990s and early 2000s, research from pediatric centers, most notably Boston Children's Hospital, started to reveal the effect of dysthymia in the young. This research highlighted that persistent irritability, academic fall off, somatic complaints, and social withdrawal could be signs of underlying PDD rather than just "growing pains".
+
+Diagnostic Standards & Family Assessment
+Modern methods, as mentioned by MedlinePlus and leading hospitals, now warrant a full developmental and family psychiatric history as part of a pediatric depression test. Just one year of symptoms is needed for a child or adolescent to meet requirements, while two years is the criteria for adults. Clinicians are now trained to consider family risk, collaborate with schools and families, and even look for the most subtle signs, for comprehensive care planning. Early intervention is now a main concern---both to reduce long-term disability and to intercept the risk of leading to later mental and behavioral health issues.
+
+Signs and symptoms
+Dysthymia is characterized by a 2-year history of depressed mood, as well as at least two of the following symptoms: poor appetite or overeating, hypersomnia or insomnia, fatigue or low energy, low self-esteem, poor concentration or difficulty making decisions, and hopelessness. Irritability, rather than sadness, may predominate in the pediatric setting.
+Mild degrees of dysthymia may result in withdrawal from stress-inducing activities and avoidance of opportunities for failure. In more severe cases of dysthymia, the patient may withdraw from daily activities. They will usually find little pleasure in usual activities and pastimes, a symptom of depression known as anhedonia.
+Diagnosis of dysthymia can be difficult because of the subtle nature of the symptoms and patients can often hide them in social situations, making it challenging for others to detect symptoms. Additionally, dysthymia is often comorbid with other psychological conditions, adding complexity to dysthymia recognition due to overlapping symptoms. Dysthymia is frequently comorbid with anxiety disorders, substance use disorders, and personality disorders, and suicidal ideation is common.
+
+Causes
+There are no known biological causes that apply consistently to all cases of dysthymia, which suggests diverse origin of the disorder. However, there are some indications that there is a genetic predisposition to dysthymia: "The rate of depression in the families of people with dysthymia is as high as fifty percent for the early-onset form of the disorder." More recent studies have indicated that the frequency of dysthymia is likely influenced more heavily by "family environmental and non-shared environmental factors," rather than genetic or neurobiological factors. Part of the reason for the uncertainty with regard to understanding the biological basis of dysthymia is due to the lack of genetic and neurobiological research, genome wide studies, and "grossly underpowered sample sizes." Other factors linked with dysthymia include stress, social isolation, and lack of social support.
+In a 1998 study using identical and fraternal twins, results indicated that there was not a stronger likelihood of identical twins both having dysthymia than fraternal twins. This provides support for the idea that dysthymia does not have a consistent genetic basis.
+
+Co-occurring conditions
+Dysthymia often co-occurs with other mental disorders. A "double depression" is the occurrence of episodes of major depression in addition to dysthymia. Switching between periods of dysthymic moods and periods of hypomanic moods is indicative of cyclothymia, which is a mild variant of bipolar disorder.
+"At least three-quarters of patients with dysthymia also have a chronic physical illness or another psychiatric disorder such as one of the anxiety disorders, cyclothymia, drug addiction, or alcoholism". Common co-occurring conditions include major depression (up to 75%), anxiety disorders (up to 50%), personality disorders (up to 40%), somatoform disorders (up to 45%) and substance use disorders (up to 50%). People with dysthymia have a higher-than-average chance of developing major depression. A 10-year follow-up study found that 95% of dysthymia patients had an episode of major depression. When an intense episode of depression occurs on top of dysthymia, the state is called "double depression."
+
+Double depression
+Double depression occurs when a person experiences a major depressive episode on top of the already-existing condition of dysthymia. It is difficult to treat, as patients accept these major depressive symptoms as a natural part of their personality or as a part of their life that is outside of their control. The fact that people with dysthymia may accept these worsening symptoms as inevitable can delay treatment. When and if such people seek out treatment, the treatment may not be very effective if only the symptoms of the major depression are addressed, but not the dysthymic symptoms.
+Patients with double depression tend to report significantly higher levels of hopelessness than is normal. This can be a useful symptom for mental health services providers to focus on when working with patients to treat the condition. Additionally, cognitive therapies can be effective for working with people with double depression in order to help change negative thinking patterns and give individuals a new way of seeing themselves and their environment.
+It has been suggested that the best way to prevent double depression is by treating the dysthymia. A combination of antidepressants and cognitive therapies can be helpful in preventing major depressive symptoms from occurring. Additionally, exercise and good sleep hygiene (e.g., improving sleep patterns) are thought to have an additive effect on treating dysthymic symptoms and preventing them from worsening.
+
+Pathophysiology
+There is evidence that there may be neurological indicators of early onset dysthymia. There are several brain structures (corpus callosum and frontal lobe) that are different in women with dysthymia than in those without dysthymia. This may indicate that there is a developmental difference between these two groups.
+Another study, which used fMRI techniques to assess the differences between individuals with dysthymia and other people, found additional support for neurological indicators of the disorder. This study found several areas of the brain that function differently. The amygdala (associated with processing emotions such as fear) was more activated in dysthymia patients. The study also observed increased activity in the insula (which is associated with sad emotions). Finally, there was increased activity in the cingulate gyrus (which serves as the bridge between attention and emotion).
+A study comparing healthy individuals to people with dysthymia indicates there are other biological indicators of the disorder. An anticipated result appeared as healthy individuals expected fewer negative adjectives to apply to them, whereas people with dysthymia expected fewer positive adjectives to apply to them in the future. Biologically these groups are also differentiated in that healthy individuals showed greater neurological anticipation for all types of events (positive, neutral, or negative) than those with dysthymia. This provides neurological evidence of the dulling of emotion that individuals with dysthymia have learned to use to protect themselves from overly strong negative feelings, compared to healthy people.
+There is some evidence of a genetic basis for all types of depression, including dysthymia. A study using identical and fraternal twins indicated that there is a stronger likelihood of identical twins both having depression than fraternal twins. This provides support for the idea that dysthymia is caused in part by heredity.
+A new model has recently surfaced in the literature regarding the HPA axis (structures in the brain that get activated in response to stress) and its involvement with dysthymia (e.g., phenotypic variations of corticotropin releasing hormone (CRH) and arginine vasopressin (AVP), and down-regulation of adrenal functioning) as well as forebrain serotonergic mechanisms. Since this model is highly provisional, further research is still needed.
+
+Diagnosis
+The Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV), published by the American Psychiatric Association, characterizes dysthymic disorder. The essential symptom involves the individual feeling depressed for the majority of days, and parts of the day, for at least two years. Low energy, disturbances in sleep or in appetite, and low self-esteem typically contribute to the clinical picture as well. Those with the condition have often experienced dysthymia for many years before it is diagnosed. People around them often describe them in words similar to "just a moody person". The following are the diagnostic criteria:
+
+During a majority of days for two years or more, the adult patient reports depressed mood, or appears depressed to others for most of the day.
+When depressed, the patient has two or more of:
+decreased or increased appetite;
+decreased or increased sleep (insomnia or hypersomnia);
+fatigue or low energy;
+reduced self-esteem;
+decreased concentration or problems making decisions;
+feelings of hopelessness or pessimism.
+During this two-year period, the above symptoms are never absent longer than two consecutive months.
+During the duration of the two-year period, the patient may have had a perpetual major depressive episode.
+The patient has not had any manic, hypomanic, or mixed episodes.
+The patient has never fulfilled criteria for cyclothymic disorder.
+The depression does not exist only as part of a chronic psychosis (such as schizophrenia or delusional disorder).
+The symptoms are often not directly caused by a medical illness or by substances, including substance use or other medications.
+The symptoms may cause significant problems or distress in social, work, academic, or other major areas of life functioning.
+In children and adolescents, mood can be irritable, and duration must be at least one year, in contrast to two years needed for diagnosis in adults.
+Early onset (diagnosis before age 21) is associated with more frequent relapses, psychiatric hospitalizations, and more co-occurring conditions. For younger adults with dysthymia, there is a higher co-occurrence in personality abnormalities and the symptoms are likely chronic. However, in older adults with dysthymia, the psychological symptoms are associated with medical conditions and/or stressful life events and losses.
+Dysthymia can be contrasted with major depressive disorder by assessing the acute nature of the symptoms. Dysthymia is far more chronic (long lasting) than major depressive disorder, in which symptoms may be present for as little as two weeks. Also dysthymia often presents itself at an earlier age than major depressive disorder.
+
+Prevention
+Though there is no clear-cut way to prevent dysthymia from occurring, there are some suggestions to help reduce its effects. Since dysthymia often appears first in childhood, it is important to identify children who may be at risk. It may be beneficial to work with children in helping to control their stress, increase resilience, boost self-esteem, and provide strong social support networks. These tactics may be helpful in warding off or delaying dysthymic symptoms.
+
+Treatments
+Persistent depressive disorder can be treated with psychotherapy and pharmacotherapy. The overall rate and degree of treatment success is somewhat lower than for non-chronic depression, and a combination of psychotherapy and pharmacotherapy shows the best results.
+
+Therapy
+Psychotherapy can be effective in treating dysthymia.
+In a meta-analytic study from 2010, psychotherapy had a small but significant effect when compared to control groups. However, psychotherapy is significantly less effective than pharmacotherapy in direct comparisons.
+There are many different types of psychotherapy, and some are more effective than others.
+
+The empirically most studied type of treatment is cognitive-behavioral therapy. This type of therapy is very effective for non-chronic depression, and it also appears to be effective for chronic depression.
+Cognitive behavioral analysis system of psychotherapy (CBASP) has been designed specifically to treat PDD. Empirical results on this form of therapy are inconclusive: While one study showed remarkably high treatment success rates, a later, even larger study, showed no significant benefit of adding CBASP to treatment with antidepressants.
+Schema therapy and psychodynamic psychotherapy have been used for PDD, though good empirical results are lacking.
+Interpersonal psychotherapy has also been said to be effective in treating the disorder, though it only shows marginal benefit when added to treatment with antidepressants.
+
+Medications
+In a 2010 meta-analysis, the benefit of pharmacotherapy was limited to selective serotonin reuptake inhibitors (SSRIs) rather than tricyclic antidepressants (TCA).
+According to a 2014 meta-analysis, antidepressants are at least as effective for persistent depressive disorder as for major depressive disorder.
+The first line of pharmacotherapy is usually SSRIs due to their purported more tolerable nature and reduced side effects compared to the irreversible monoamine oxidase inhibitors or tricyclic antidepressants. Studies have found that the mean response to antidepressant medications for people with dysthymia is 55%, compared with a 31% response rate to a placebo. The most commonly prescribed antidepressants/SSRIs for dysthymia are escitalopram, citalopram, sertraline, fluoxetine, paroxetine, and fluvoxamine. It often takes an average of 6–8 weeks before the patient begins to feel these medications' therapeutic effects. Additionally, STAR*D, a multi-clinic governmental study, found that people with overall depression will generally need to try different medications before finding one that works specifically for them. Research shows that 1 in 4 of those who switch medications get better results regardless of whether the second medication is an SSRI or some other type of antidepressant.
+In a meta-analytic study from 2005, it was found that SSRIs and TCAs are equally effective in treating dysthymia. They also found that MAOIs have a slight advantage over the use of other medication in treating this disorder. However, the author of this study cautions that MAOIs should not necessarily be the first line of defense in the treatment of dysthymia, as they are often less tolerable than their counterparts, such as SSRIs.
+Tentative evidence supports the use of amisulpride to treat dysthymia but with increased side effects.
+
+Combination treatment
+When pharmacotherapy alone is compared with combined treatment with pharmacotherapy plus psychotherapy, there is a strong trend in favour of combined treatment. Working with a psychotherapist to address the causes and effects of the disorder, in addition to taking antidepressants to help eliminate the symptoms, can be extremely beneficial. This combination is often the preferred method of treatment for those who have dysthymia. Looking at various studies involving treatment for dysthymia, 75% of people responded positively to a combination of cognitive behavioral therapy (CBT) and pharmacotherapy, whereas only 48% of people responded positively to just CBT or medication alone.
+A 2019 Cochrane review of 10 studies involving 840 participants could not conclude with certainty that continued pharmacotherapy with antidepressants (those used in the studies) was effective in preventing relapse or recurrence of persistent depressive disorder. The body of evidence was too small for any greater certainty although the study acknowledges that continued psychotherapy may be beneficial when compared to no treatment.
+
+Treatment resistance
+Because of dysthymia's chronic nature, treatment resistance is somewhat common. In such a case, augmentation is often recommended. Such treatment augmentations can include lithium pharmacology, thyroid hormone augmentation, amisulpride, buspirone, bupropion, guanfacine, stimulants, and mirtazapine. Additionally, if the person also has seasonal affective disorder, light therapy can be useful in helping augment therapeutic effects.
+
+Epidemiology
+Globally, the one-year incidence is about 105 million people (1.53% of the global population). As of 2012, research suggests incidence rates of 1.8% for women and 1.3% for men. In the U.S. general population, research suggests a lifetime prevalence rate of 3 to 6 percent. In primary care settings the lifetime prevalence rate is 5 to 15 percent.
+
+See also
+Anhedonia, a symptom of dysthymia characterized by a decreased or absent ability to experience a sense of pleasure
+Atypical depression
+Depression (mood)
+Major depressive disorder
+Cyclothymia
+Blunted affect, a symptom of PTSD, schizophrenia, and ASPD involving decreased or absent emotional response
+Dysphoria, a state of feeling unwell, unhappy or sad
+Epigenetics of depression
+List of medications used to treat major depressive disorder or dysthymia
+Endorphins
+
+References
+External links
+NIMH Depression Page

@@ -1,0 +1,89 @@
+Delusional disorder
+https://en.wikipedia.org/wiki/Delusional_disorder
+
+Delusional disorder is a mental disorder in which a person has delusions, but with no accompanying prominent hallucinations, thought disorder, mood disorder, or significant flattening of affect. Delusions are a specific symptom of psychosis. Delusions can be bizarre or non-bizarre in content; non-bizarre delusions are fixed false beliefs that involve situations that could occur in real life, such as being harmed or poisoned. Apart from their delusion or delusions, people with delusional disorder may continue to socialize and function in a normal manner and their behavior may not necessarily seem odd. However, the preoccupation with delusional ideas can be disruptive to their overall lives.
+For the diagnosis to be made, auditory and visual hallucinations cannot be prominent, though olfactory or tactile hallucinations related to the content of the delusion may be present. The delusions cannot be due to the effects of a drug, medication, or general medical condition, and delusional disorder cannot be diagnosed in an individual previously properly diagnosed with schizophrenia. A person with delusional disorder may be high-functioning in daily life as measured, for example, by the Global Assessment of Functioning. Recent and comprehensive meta-analyses of scientific studies point to an association with a deterioration in aspects of IQ in psychotic patients, in particular, perceptual reasoning, although the between-group differences were small. 
+According to German psychiatrist Emil Kraepelin, patients with delusional disorder remain coherent, sensible, and reasonable. The Diagnostic and Statistical Manual of Mental Disorders (DSM) defines six subtypes of the disorder: erotomanic (belief that someone is in love with one), grandiose (belief that one is the greatest, strongest, fastest, richest, or most intelligent person ever), jealous (belief that one is being cheated on), persecutory (delusions that one or someone one is close to is being malevolently treated in some way), somatic (belief that one has a disease or medical condition), and mixed (i.e., having features of more than one subtype). Delusions also occur as symptoms of many other mental disorders, especially the other psychotic disorders.
+The DSM-IV and psychologists agree that personal beliefs should be evaluated with great respect to cultural and religious differences, as some cultures have normalized beliefs that may be considered delusional in other cultures.
+An earlier, now-obsolete, nosological name for delusional disorder was "paranoia". This should not be confused with the modern definition of paranoia (i.e., persecutory ideation specifically).
+
+Classification
+The International Classification of Diseases classifies delusional disorder as a mental and behavioural disorder.
+Diagnosis of a specific type of delusional disorder can sometimes be made based on the content of the delusions, to wit,  the Diagnostic and Statistical Manual of Mental Disorders (DSM) enumerates seven types:
+
+Erotomanic type (erotomania): delusion that another person, often a prominent figure, is in love with the individual. The individual may breach the law as they try to obsessively make contact with the desired person.
+Grandiose type (megalomania): delusion of inflated worth, power, knowledge, identity or believing oneself to be a famous person, claiming the actual person is an impostor or an impersonator.
+Jealous type: delusion that the individual's sexual partner is unfaithful when it is untrue. The patient may follow the partner, check text messages, emails, phone calls etc. in an attempt to find "evidence" of the infidelity.
+Persecutory type: This delusion is a common subtype. It includes the belief that the person (or someone to whom the person is close) is being malevolently treated in some way. The patient may believe that they have been drugged, spied upon, harmed, harassed and so on and may seek "justice" by making reports, taking  action or even acting violently.
+Somatic type: delusions that the person has some physical defect or general medical condition
+Mixed type: delusions with characteristics of more than one of the above types but with no one theme predominating.
+Unspecified type: delusions that cannot be clearly determined or characterized in any of the categories in the specific types.
+
+Signs and symptoms
+The following can indicate a delusion:
+
+An individual expresses an idea or belief with unusual persistence or force, even when evidence suggests the contrary.
+That idea appears to have an undue influence on the person's life, and the way of life is often altered to an inexplicable extent.
+Despite their profound conviction, there is often a quality of secretiveness or suspicion when the person is questioned about it.
+The individual tends to be humorless and oversensitive, especially about the belief.
+There is a quality of centrality: no matter how unlikely it is that these strange things are happening to the person, they accept them relatively unquestioningly.
+An attempt to contradict the belief is likely to arouse an inappropriately strong emotional reaction, often with irritability and hostility. They will not accept any other opinions.
+The belief is, at the least, unlikely, and out of keeping with the individual's social, cultural, and religious background.
+The person is emotionally over-invested in the idea and it overwhelms other elements of their psyche.
+The delusion, if acted out, often leads to behaviors which are abnormal, and out of character, although perhaps understandable in light of the delusional beliefs.
+Other people who know the individual observe that the belief and behavior are uncharacteristic and alien.
+Additional characteristic of delusional disorder include the following:
+
+It is a primary disorder.
+It is a stable disorder characterized by the presence of delusions to which the patient clings with extraordinary tenacity.
+The illness is chronic and frequently lifelong.
+The delusions are logically constructed and internally consistent.
+The delusions do not interfere with general logical reasoning (although within the delusional system the logic is perverted) and there is usually no general disturbance of behavior. If disturbed behavior does occur, it is directly related to the delusional beliefs.
+The individual experiences a heightened sense of self-reference.  Events which, to others, are nonsignificant are of enormous significance to them, and the atmosphere surrounding the delusions is highly charged.
+However, this should not be confused with gaslighting, where a person denies the truth, and causes the one being gaslit to think that they are being delusional.
+
+Causes
+The cause of delusional disorder is unknown, but genetic, biochemical, and environmental factors may play a significant role in its development. Some people with delusional disorders may have an imbalance in neurotransmitters, the chemicals that send and receive messages to the brain. There does seem to be some familial component, and immigration (generally for persecutory reasons), drug abuse, excessive stress, being married, being employed, low socioeconomic status, celibacy among men, and widowhood among women may also be risk factors. Delusional disorder is currently thought to be on the same spectrum or dimension as schizophrenia, but people with delusional disorder, in general, may have less symptomatology and functional disability.
+
+Diagnosis
+Differential diagnosis includes ruling out other causes such as drug-induced conditions, dementia, infections, metabolic disorders, and endocrine disorders. Other psychiatric disorders must then be ruled out. In delusional disorder, mood symptoms tend to be brief or absent, and unlike schizophrenia, delusions are non-bizarre and hallucinations are minimal or absent.
+Interviews are important tools to obtain information about the patient's life situation and history to help make a diagnosis. Clinicians generally review earlier medical records to gather a full history. Clinicians also try to interview the patient's immediate family, as this can be helpful in determining the presence of delusions. The mental status examination is used to assess the patient's current mental condition.
+A psychological questionnaire used in the diagnosis of the delusional disorder is the Peters Delusion Inventory (PDI) which focuses on identifying and understanding delusional thinking. However, this questionnaire is more likely used in research than in clinical practice.
+In terms of diagnosing a non-bizarre delusion as a delusion, ample support should be provided through fact checking. In case of non-bizarre delusions,  Psych Central notes, "All of these situations could be true or possible, but the person suffering from this disorder knows them not to be (e.g., through fact-checking, third-person confirmation, etc.)."
+
+Treatment
+A challenge in the treatment of delusional disorders is that most patients have limited insight, and do not acknowledge that there is a problem.  Most patients are treated as out-patients, although hospitalization may be required in some cases if there is a risk of harm to self or others. Individual psychotherapy is recommended rather than group psychotherapy, as patients are often quite suspicious and sensitive.  Antipsychotics are not well tested in delusional disorder, but they do not seem to work very well, and often have no effect on the core delusional belief. Antipsychotics may be more useful in managing agitation that can accompany delusional disorder. Until further evidence is found, it seems reasonable to offer treatments which have efficacy in other psychotic disorders.
+There is a certain amount of evidence that alternative treatment-regimes (beyond conventional attempted treatment with antipsychotics) may include clomipramine for people with the somatic subtype of paranoia. There is a dearth of well-published studies investigating the effectiveness of trimipramine; another derivative of tricyclic-antidepressant imipramine and one which has modest anti-psychotic properties weakly analogous to those of clozapine; in delusional disorder per-se. However, trimipramine was compared to a combination of amitriptyline and haloperidol in a double-blinded trial involving patients with severe, psychotic depression (specifically with customary delusional features) and appeared favourable in its treatment.
+Psychotherapy for patients with delusional disorder can include cognitive therapy which is conducted with the use of empathy. During the process, the therapist can ask hypothetical questions in a form of therapeutic Socratic questioning. This therapy has been mostly studied in patients with the persecutory type. The combination of pharmacotherapy with cognitive therapy integrates treating the possible underlying biological problems and decreasing the symptoms with psychotherapy as well. Psychotherapy has been said to be the most useful form of treatment because of the trust formed in a patient and therapist relationship.
+Supportive therapy has also been shown to be helpful. Its goal is to facilitate treatment adherence and provide education about the illness and its treatment.
+Furthermore, providing social skills training has been found to be helpful for many people. It can promote interpersonal competence as well as confidence and comfort when interacting with those individuals perceived as a threat.
+Insight-oriented therapy is rarely indicated or contraindicated; yet there are reports of successful treatment. Its goals are to develop therapeutic alliance, containment of projected feelings of hatred, powerlessness, and badness; measured interpretation as well as the development of a sense of creative doubt in the internal perception of the world. The latter requires empathy with the patient's defensive position.
+
+Epidemiology
+Delusional disorders are uncommon in psychiatric practice, though this may be an underestimation due to the fact that those with the condition lack insight and thus avoid psychiatric assessment. The prevalence of this condition stands at about 24 to 30 cases per 100,000 people while 0.7 to 3.0 new cases per 100,000 people are reported every year. Delusional disorder accounts for 1–2% of admissions to inpatient mental health facilities. The incidence of first admissions for delusional disorder is lower, from 0.001 to 0.003%.
+Delusional disorder tends to appear in middle to late adult life, and for the most part first admissions to hospital for delusional disorder occur between age 33 and 55. It is more common in women than men, and immigrants seem to be at higher risk.
+
+Criticism
+In some situations, the delusion may turn out to be a true belief. For example, in delusional jealousy, where a person believes that the partner is being unfaithful (in extreme cases perhaps going so far as to follow the partner into the bathroom, believing the other to be seeing a lover even during the briefest of separations), it may actually be valid that the partner is having sexual relations with another person. In this case, the delusion does not cease to be a delusion because the content later turns out to be true, or because the partner actually chose to engage in the behavior of which they were being accused.
+In other cases, a belief may be incorrectly deemed delusional by a doctor or psychiatrist who subjectively concludes that a patient's assertions are unlikely, bizarre, or held with excessive conviction. Psychiatrists rarely have the time or resources to check the validity of a person's claims leading some true beliefs to be erroneously classified as delusional. This is known as the Martha Mitchell effect, named after the wife of US Attorney General John Mitchell and derived from the initial response to her allegations of illegal activity taking place in the White House. At the time, her claims were thought to be signs of mental illness; only after the Watergate scandal broke were her claims corroborated and her sanity thus confirmed.
+Similar factors have led to criticisms of Karl Jaspers's definition of delusion as being ultimately 'un-understandable'. Critics (such as R. D. Laing) have argued that this leads to the diagnosis of delusions being based on the subjective understanding of a particular psychiatrist, who may not have access to all the information that might make a belief otherwise interpretable.
+Another difficulty with the diagnosis of delusions is that almost all of these features can be found in "normal" beliefs. Many religious beliefs share the same features yet are not universally considered delusional. For instance, if a person held a true belief, they would, of course, persist with it. This can cause the disorder to be misdiagnosed by psychiatrists. These factors have led the psychiatrist Anthony David to write that "there is no acceptable (rather than accepted) definition of a delusion."
+
+In popular culture
+In the 2010 psychological thriller Shutter Island, directed by Martin Scorsese and starring Leonardo DiCaprio, delusional disorder is portrayed along with other disorders. An Indian movie Anantaram (Thereafter) directed by Adoor Gopalakrishnan also portrays the complex nature of delusions. The plot of the French movie He Loves Me... He Loves Me Not revolves around a case of erotomania, as does the plot of the Ian McEwan novel, Enduring Love.
+
+See also
+Delusional parasitosis
+Monothematic delusions
+Robert Scott Lazar
+
+References
+Further reading
+Arnold, K.; Vakhrusheva, J. (2015). "Resist the negation reflex: Minimizing reactance in psychotherapy of delusions" (PDF). Psychosis. 8 (2): 1–10. doi:10.1080/17522439.2015.1095229. S2CID 146386637.
+McDermott, Sarah (22 February 2018), "'The story of a weird world I was warned never to tell'", BBC News. [A related case study.]
+Munro, A. (1999) Delusional Disorder: Paranoia and Related Illnesses. Cambridge: Cambridge University Press. ISBN 0-521-58180-X.
+Sims, A. (1995) Symptoms in the mind: An introduction to descriptive psychopathology. Edinburgh: Elsevier Science Ltd. ISBN 0-7020-2627-1.
+
+External links
+
+ Media related to Delusional disorders at Wikimedia Commons

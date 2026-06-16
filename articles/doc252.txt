@@ -1,0 +1,71 @@
+Bobo doll experiment
+https://en.wikipedia.org/wiki/Bobo_doll_experiment
+
+The Bobo doll experiment was used by psychologist Albert Bandura to test his social learning theory. Between 1961 and 1963, he studied children's behaviour after watching an adult model act aggressively towards a Bobo doll. The most notable variation of the experiment measured the children's behavior after seeing the adult model rewarded, punished, or experience no consequence for physically abusing the Bobo doll.
+Social learning theory proposes that people learn largely through observation, imitation, and modelling. The Bobo doll experiment demonstrates that people learn not only by being rewarded or punished but they can also learn from watching someone else being rewarded or punished. These studies have practical implications, such as providing evidence of how children can be influenced by watching violent media.
+
+Experiment of 1961
+Method
+The participants in these experiments consisted of 72 children from the Stanford University nursery school between the ages of 37 months and 69 months. For the experiments, a third of the children were exposed to an aggressive model. Another third were exposed to a non-aggressive model. The rest of the participants formed the control group.
+For the experiment, each child was exposed to the scenario individually to avoid being influenced or distracted by classmates. The first part of the experiment involved bringing a child and an adult model into a playroom. In the playroom, the child was seated in one corner filled with appealing activities such as stickers and stamps. The adult model was sitting in another corner with a toy set, a mallet, and an inflatable Bobo doll. Before leaving the room, the experimenter explained to the child that the toys in the adult corner were only for the adult to play with.
+During the aggressive model scenario, the adult would begin to play with the Bobo doll and then start to show aggressive behaviour towards the doll. Examples of this aggressive behaviour include hitting or punching the Bobo doll and using the toy mallet to hit the Bobo doll in the face. The aggressive model would also verbally assault the Bobo doll, yelling phrases such as "Sock him," "Hit him down," "Kick him," "Throw him in the air," or "Pow." After about 10 minutes, the experimenter returned to the room, dismissed the adult model, and took the child into another playroom. The non-aggressive adult model simply played with other toys for the entire 10-minute period. In this situation, the model ignored the Bobo doll entirely; the child was taken out of the room.
+The following experiment stage was performed with the child and experimenter in another room filled with interesting toys such as trucks, dolls, and a spinning top. The child was invited to play with them. After 2 minutes of playtime, the child was told they were no longer allowed to play with the toys because they were reserved for other children. This was done to build frustration. They were told they could instead play with the toys in the experimental room (the aggressive and non-aggressive toys). The child was allowed to play for 20 minutes in the experimental room while an experimenter evaluated the child's play.
+The first measure recorded was based on physical aggression such as punching, kicking, sitting on the Bobo doll, hitting it with a mallet, and tossing it around the room. The second measure recorded was verbal aggression. The judges counted each time the children imitated the aggressive adult model and recorded their results. The third measure was the number of times the mallet was used to display other forms of aggression than hitting the doll. The final measure included modes of aggression shown by the child that were not directly imitating the role model's behaviour.
+
+Results
+Bandura found that the children exposed to the aggressive model were more likely to pursue physically aggressive behaviour than those who were not exposed to the aggressive model. The results concerning gender differences strongly satisfied Bandura's prediction that same-sex models have more influence over children. Results also showed that boys exhibited more aggression when exposed to aggressive male models than aggressive female models. While the results for the girls show similar findings, they were less drastic.
+Bandura also found that the children exposed to the aggressive model were more likely to act in verbally aggressive ways than those who were not exposed to the aggressive model. The number of imitative verbal aggressions exhibited by the boys was much more than by the girls. Additionally, the results indicated that the boys and girls who observed the non-aggressive model exhibited much less non-imitative aggression than those in the control group, which did not have a model. Lastly, the evidence demonstrates that males tend to be more aggressive than females. When all instances of aggression were tallied, males exhibited 270 aggressive instances compared to 128 aggressive instances exhibited by females.
+
+Experiment of 1963: live vs. filmed models
+Introduction
+For his 1963 study, Albert Bandura wanted to vary his original 1961 study by seeing if there were any differences in imitated aggressive behaviour after witnessing a filmed or cartoon model compared to a live model. He also wished to see if children watching aggressive behaviour from a filmed or cartoon model would experience a cathartic effect, or in other words, if they would experience a release of aggressive emotions from seeing a model carrying out aggressive behaviours.
+
+Method
+For the experiment, 96 children, 48 girls, and 48 boys, from the Stanford University nursery were divided into three groups. The first group watched a live model become aggressive towards a Bobo doll. The second group watched a movie version of the human model becoming aggressive toward a Bobo doll, and the third group watched a cartoon version of a cat becoming aggressive towards a Bobo doll. Each child watched the aggressive acts individually to control for group biases. Data from the original 1961 study was used for the control group where children did not view a model. After being exposed to their respective models, all three groups of children were then placed individually in a room with an experimenter. They were exposed to a mildly frustrating situation to elicit aggression. Next, the children were allowed to play freely in an adjoining room full of toys, including the Bobo doll and the "weapons" that the models used. The researchers observed the children and noted any interaction with the Bobo doll.
+
+Results
+The study results show that compared to the control group, all three groups showed similar increases in aggressive behaviour. From this, Bandura concluded that children would imitate aggressive behaviour they witness from a model regardless of who or how it is presented. He also found that watching aggressive behaviour does not cause a cathartic effect. The results of this study are of particular significance because of their contributions to the controversial topic of whether or not violent media can influence children to become more aggressive.
+
+Experiment of 1965: reinforcement and punishment
+Introduction
+For his 1965 study, Albert Bandura wanted to see if children's learned behaviour would be influenced by vicarious reinforcement, or the act of imitating a behaviour observed in another person after witnessing that person be reinforced for said behaviour.
+
+Method
+In the experiment, 66 children, 33 boys and 33 girls were divided into one of three groups. The first group would witness a model display aggressive behaviours toward a Bobo doll, followed by a researcher praising the model for his behaviour and rewarding him with candy. The second group would witness the same scripted scenario of aggressive behaviours, but the model was instead reprimanded for his actions and hit with a rolled wooden golf club. The third group served as the control group, and the model was neither rewarded nor punished after his displayed behaviour. The children would watch individually to control for group biases. Afterwards, each child would be placed individually in a room structured similarly to the one they saw for 10 minutes. Experimenters would score children based on the number and variation of aggressive behaviours they acted in. The experiment would be repeated a second time, and this time the children would be incentivized with various rewards including candy, juice, and stickers to mimic the behaviour they just witnessed.
+
+Results
+The study showed little difference between the reward and control groups; however, the punishment group displayed much less aggressive behavior, especially girls. In all three groups, personal incentives substantially increased aggressive behavior for both boys and girls. An analysis of the study shows that reinforcement and punishment do not influence learned aggressive behavior, only the outward expression of it.
+
+Social learning theory
+The findings of these experiments support the principles of social learning theory proposed by Bandura. His research found that behavior is influenced by observing the behavior of others and imitating it. Central to this theory is the idea that the inclination to imitate behavior increases with the presence of an admirable model. Models are a crucial component to the learning of new behaviors and achieving change across different institutions, they drive individuals to shape their own behavior after the actions of models. Unlike behaviorism, in which learning is directly influenced by reinforcement and punishment, social learning theory suggests that watching others be rewarded and punished can indirectly influence behavior. This is known as vicarious reinforcement. If a model receives validation for exhibiting certain behaviors, someone who looks up to the model will be likelier to imitate those behaviors to receive the same validation. The role of vicarious reinforcement is shown through the Bobo Doll Experiment, which demonstrates how the behavior of adults easily influences children. During the experiment, adults received praise for their aggressive behavior, and as a result, the likelihood of the children striking the doll increased. However, when adults were punished for behaving aggressively towards the doll, the children stopped hitting the doll. The Bobo Doll experiment enhanced people's understanding of the factors and issues that contribute to aggression.
+
+Criticism of the experiments
+Laboratory studies of imitation often have low ecological validity, meaning key contextual features are absent; in a Bobo doll experiment, the child and the model do not have a prior relationship and do not interact with each other, even in the in-person environment. However, studies have found its approach to be well applied to aggression in institutions and the workplace, which implies that the larger study may have external validity and illustrates its relevance to real-world aggression.
+When the Bobo doll experiment was repeated in 1990, findings showed that children who had not previously been exposed to a Bobo doll were up to five times more likely to imitate aggressive behavior compared to children who had been. Researchers proposed that the sheer novelty of the Bobo doll alone could be a potential third variable that increases the probability that a child imitates the adult.
+The experiment was based upon the principles of social learning theory, which focuses on environmental influences and eliminates the possibility of any biological or evolutionary drives that may underpin aggressive behavior. Biological theorists argue that social learning theory ignores a person's biological state, particularly the uniqueness of an individual's DNA, brain development, and learning differences.
+Some psychologists claim the study would not be in line with modern ethics standards, including those held by the APA and Stanford. Arguments generally fall into four categories:
+Informed consent: children could not give valid consent to participate in the study. It is assumed that their parents consented for them.
+Long-term wellbeing of participants: participants may model aggressive behavior and learn to act in ways that might be detrimental to their long-term wellbeing.
+Right to withdraw: there was no opportunity for the children to withdraw from the study.
+Right to a debriefing: at no point were the participants provided with a debriefing in which the experimenter explained the study, or in particular, the reason for the aggression displayed by the adults.
+Bar-on et al. (2001) described the frontal lobe of children under eight as underdeveloped, which contributes to an inability to separate reality from fantasy.
+An analysis of the 1961 study noted that children's imitations of aggressive behavior occur almost immediately after observing the model. Due to such a short period between observation and imitation, conclusions cannot be made regarding the long-term effects of exposure to violence.
+
+See also
+Behaviorism
+Developmental psychology
+Imitation
+Observational learning
+Role model
+Social learning theory
+
+References
+Sources
+Further reading
+A. Bandura & R.H. Walters (1959). Adolescent Aggression, New York, New York, US:Ronald Press.
+A. Bandura, (1962) Social Learning through Imitation, Lincoln, Nebraska, US:University of Nebraska Press.
+Bandura, A., & Walters, R. (1963). Social learning and personality development. New York: Holt, Rinehart, and Winston
+A. Bandura (1975) Social Learning & Personality Development, New York :Holt, Rinehart & Winston.
+A. Bandura (1976) Social Learning Theory. New Jersey, US: Prentice-Hall.
+A. Bandura (1986) Social Foundations of Thought and Action.
+McGloin, Farrar & Fishlock (2015). "Triple whammy! Violent games and violent controllers". Journal of Communication.

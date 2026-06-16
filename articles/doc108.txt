@@ -1,0 +1,63 @@
+Factitious disorder
+https://en.wikipedia.org/wiki/Factitious_disorder
+
+A factitious disorder is a mental disorder in which a person, without a malingering motive, acts as if they have an illness by deliberately producing, feigning, or exaggerating symptoms, purely to attain (for themselves or for another) a patient's role. People with a factitious disorder may produce symptoms by contaminating urine samples, taking hallucinogens, injecting fecal material to produce abscesses, and similar behaviour. The word factitious derives from the Latin word factītius, meaning "human-made".
+Factitious disorder imposed on self (also called Munchausen syndrome) was for some time the umbrella term for all such disorders. Factitious disorder imposed on another (also called Munchausen syndrome by proxy, Munchausen by proxy, or factitious disorder by proxy) is a condition in which a person deliberately produces, feigns, or exaggerates the symptoms of someone in their care. In either case, the perpetrator's motive is to attain (for themselves or for another) a patient's role. Malingering differs fundamentally from factitious disorders in that the malingerer simulates illness intending to obtain a material benefit or avoid an obligation or responsibility. 
+These should not be confused with somatic symptom disorders or functional neurological disorders; while both are also diagnoses of exclusion, they are characterized by physical complaints that are not produced intentionally.
+
+Etiology
+What causes factitious disorder is not well understood, however there is a handful of possible motives that drive this pattern of behavior. 
+Individuals may experience a heightened thrill from medical procedures, a desire for attention and care, or feelings of control or accomplishment when deceiving medical professionals. They may partake in this behavior in order to seek and maintain relationships or use the sick-patient role as a coping strategy in response to stressful life events.
+If an individual did not form a healthy attachment to a caregiver as a child, there is a possibility that the person may develop factitious disorder in order to fulfill the need of receiving care. Attention from medical professionals may act as a replacement in satisfying important needs that the person never received as a child. Individuals may also use invasive or painful tests or procedures as a way to punish oneself for past mistakes or to cope with guilt associated with abuse. This is considered masochistic behavior.
+Individuals diagnosed with this disorder are more likely to have a history of emotional or physical abuse, neglect, and/or turbulent childhoods. This upbringing can cause an unstable sense of identity and low self-esteem. Abuse may prompt a feeling of lack of control, and the person may use faked symptoms and a fabricated medical history to gain back a sense of autonomy.
+Those with factitious disorder are also more likely to have experienced a severe illness in childhood, with the early exposure to healthcare being a major contributor to the onset of the disorder.
+There is a significant correlation found between factitious disorders and personality disorders, specifically borderline personality disorder. Depressive disorders are also often diagnosed concurrently with factitious disorder. The causality cannot be known about whether one disorder causes the other, but it can be deduced that these diagnoses share similar etiologies and some overlapping symptoms.
+Each particular case of factitious disorder presents itself differently and is derived from various etiologies. However, there is an overarching belief that patients experience the uncontrollable urge to maintain the sick-patient role, acting as a type of behavioral addiction. This contributes to the prolonged behaviors associated with the disorder.
+
+Diagnosis
+Criteria for diagnosis include intentionally fabricating to produce physical or psychological signs or symptoms and the absence of any other mental disorder. Motivation for their behavior must be to assume the "sick" role, and they do not act sick for personal gain as in the case of malingering sentiments. When the individual applies this pretended sickness to a dependent, for example, a child, it is often referred to as "factitious disorder by proxy".
+The DSM-5 differentiates among two types:
+
+Factitious disorder imposed on self (Munchausen syndrome)
+Factitious disorder imposed on another (Munchausen syndrome by proxy), defined as: When an individual falsifies illness in another, whether that be a child, pet, or older adult.
+
+Factitious disorder imposed on self
+Factitious disorder imposed on self, previously called Munchausen syndrome, or factitious disorder with predominantly physical signs and symptoms, has specified symptoms. Factitious disorder symptoms may seem exaggerated; individuals undergo major surgery repeatedly, and they "hospital jump" or migrate to avoid detection.
+
+Factitious disorder imposed on another
+Factitious disorder imposed on another, previously Munchausen syndrome by proxy, is the involuntary use of another individual to play the patient role. This disorder is relatively rare. False symptoms have been produced in children by perpetrator caregivers or parents. Less frequently they are produced in one adult by another adult. The disorder produces the "appearance" of illness, which "appearance" may be augmented by the perpetrator by providing an intentionally misleading medical history, or even by tampering with laboratory tests to make the targeted individual appear sick. 
+Occasionally in cases of this disorder, caregivers have been known to actually injure a child or to medically harm another adult in order to ensure that the targeted individual is medically treated. For instance, a mother whose son has celiac disease might knowingly introduce gluten into the son's diet. Such parents may be validated by the attention that they receive from having a sick child. When the disorder occurs between adults, a perpetrator may gain sympathy for their supposedly "heroic efforts" to care for the other targeted adult.  For example a wife has been found to have induced a "manufactured" illness in her husband via the surreptitious injection of a harmful substance into her husband.
+
+Ganser syndrome
+Ganser syndrome was once considered a separate factitious disorder, but is now considered a dissociative disorder. It is a disorder of extreme stress or an organic condition. The patient experiences approximation or giving absurd answers to simple questions. The syndrome is sometimes diagnosed as merely malingering—however, it is more often defined as a factitious disorder. This has been seen in prisoners following solitary confinement, and the symptoms are consistent in different prisons, though the patients do not know one another.
+Symptoms include a clouding of consciousness, somatic conversion symptoms, confusion, stress, loss of personal identity, echolalia, and echopraxia. Individuals also give approximate answers to simple questions such as, "How many legs on a cat?" "Three"; "What's the day after Wednesday?" "Friday"; and so on. The disorder is extraordinarily rare with fewer than 100 recorded cases. While individuals of all backgrounds have been reported with the disorder, there is a higher inclination towards males (75% or more). The average age of those with Ganser syndrome is 32, though it stretches from ages 15–62 years old.
+
+Differential diagnosis
+Factitious disorder should be distinguished from somatic symptom disorder (formerly called somatization disorder), in which the patient is truly experiencing the symptoms and has no intention to deceive.
+In conversion disorder (previously called hysteria), a neurological deficit appears with no organic cause. The patient, again, is truly experiencing the symptoms and signs and has no intention to deceive.
+The differential also includes body dysmorphic disorder and pain disorder.
+
+Treatment
+No true psychiatric medications are prescribed for factitious disorder. However, selective serotonin reuptake inhibitors (SSRIs) can help manage underlying problems. Medicines such as SSRIs that are used to treat mood disorders can be used to treat factitious disorder, as a mood disorder may be the underlying cause of factitious disorder. Some authors (such as Prior and Gordon 1997) also report good responses to antipsychotic drugs such as Pimozide. Family therapy can also help. In such therapy, families are helped to better understand patients (the individual in the family with factitious disorder) and that person's need for attention.
+In this therapeutic setting, the family is urged not to condone or reward the factitious disorder individual's behavior. This form of treatment can be unsuccessful if the family is uncooperative or displays signs of denial and/or antisocial disorder. Psychotherapy is another method used to treat the disorder. These sessions should focus on the psychiatrist's establishing and maintaining a relationship with the patient. Such a relationship may help to contain symptoms of factitious disorder. Monitoring is also a form that may be indicated for the factitious disorder patient's own good; factitious disorder (especially proxy) can be detrimental to an individual's health—if they are, in fact, causing true physiological illnesses. Even faked illnesses and injuries can be dangerous and might be monitored for fear that unnecessary surgery may subsequently be performed.
+
+Prognosis
+Some individuals experience only a few outbreaks of the disorder. However, in most cases, factitious disorder is a chronic long-term condition that is difficult to treat. There are relatively few positive outcomes for this disorder; in fact, treatment provided a lower percentage of positive outcomes than did the treatment of individuals with obvious psychotic symptoms such as people with schizophrenia. In addition, many individuals with factitious disorder do not present for treatment, often insisting their symptoms are genuine. Some degree of recovery, however, is possible. The passage of time seems to help the disorder greatly. There are many possible explanations for this occurrence, although none are currently considered definitive. It may be that a factitious disorder individual has mastered the art of feigning sickness over so many years of practice that the disorder can no longer be discerned. Another hypothesis is that many times a factitious disorder individual is placed in a home, or experiences health issues that are not self-induced or feigned. In this way, the problem with obtaining the "patient" status is resolved because symptoms arise without any effort on the part of the individual.
+
+History
+Previously, the DSM-IV differentiated among three types:
+
+Factitious disorders with predominantly psychological signs and symptoms: if psychological signs and symptoms predominate in the clinical presentation
+Factitious disorders with predominantly physical signs and symptoms: if physical signs and symptoms predominate in the clinical presentation
+Factitious disorders with combined psychological and physical signs and symptoms: if both psychological and physical signs and symptoms are present and neither predominates in the clinical presentation
+
+See also
+Attention seeking
+Somatic symptom disorder
+Victim playing
+Hypochondriasis
+
+References
+
+
+== External links ==

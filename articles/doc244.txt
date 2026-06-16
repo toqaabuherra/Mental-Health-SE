@@ -1,0 +1,37 @@
+Endorphins
+https://en.wikipedia.org/wiki/Endorphins
+
+Endorphins (contracted from endogenous morphine) are peptides produced in the brain that block the perception of pain and increase feelings of wellbeing. They are produced and stored in the pituitary gland of the brain. Endorphins are endogenous painkillers often produced in the brain and adrenal medulla during physical exercise or orgasm and inhibit pain, muscle cramps, and relieve stress.
+
+History
+Opioid peptides in the brain were first discovered in 1973 by investigators at the University of Aberdeen, John Hughes and Hans Kosterlitz. They isolated "enkephalins" (from the Greek εγκέφαλος) from pig brain, identified as Met-enkephalin and Leu-enkephalin.  This came after the discovery of a receptor that was proposed to produce the pain-relieving analgesic effects of morphine and other opioids, which led Kosterlitz and Hughes to their discovery of the endogenous opioid ligands. Research during this time was focused on the search for a painkiller that did not have the addictive character or overdose risk of morphine.
+Rabi Simantov and Solomon H. Snyder isolated morphine-like peptides from calf brain. Eric J. Simon, who independently discovered opioid receptors, later termed these peptides as endorphins. This term was essentially assigned to any peptide that demonstrated morphine-like activity. In 1976, Choh Hao Li and David Chung recorded the sequences of α-, β-, and γ-endorphin isolated from camel pituitary glands for their opioid activity. Li determined that β-endorphin produced strong analgesic effects. Wilhelm Feldberg and Derek George Smyth in 1977 confirmed this, finding β-endorphin to be more potent than morphine. They also confirmed that its effects were reversed by naloxone, an opioid antagonist.
+Studies have subsequently distinguished between enkephalins, endorphins, and endogenously produced true morphine, which is not a peptide.  Opioid peptides are classified based on their precursor propeptide: all endorphins are synthesized from the precursor proopiomelanocortin (POMC), encoded by proenkephalin A, and dynorphins encoded by pre-dynorphin.
+
+Etymology
+The word endorphin is derived from ἔνδον / Greek: éndon meaning "within" (endogenous, ἐνδογενής / Greek: endogenes, "proceeding from within"), and morphine, from Morpheus (Ancient Greek: Μορφεύς, romanized: Morpheús), the god of dreams in the Greek mythology. Thus, endorphin is a contraction of 'endo(genous) (mo)rphin' (morphin being the old spelling of morphine).
+
+Types
+The class of endorphins consists of three endogenous opioid peptides: α-Endorphin, β-endorphin, and γ-endorphin.  The endorphins are all synthesized from the precursor protein, proopiomelanocortin, and all contain a Met-enkephalin motif at their N-terminus: Tyr-Gly-Gly-Phe-Met. α-endorphin and γ-endorphin result from proteolytic cleavage of β-endorphin between the Thr(16)-Leu(17) residues and Leu(17)-Phe(18) respectively. α-endorphin has the shortest sequence, and β-endorphin has the longest sequence.
+α-Endorphin and γ-endorphin are primarily found in the anterior and intermediate pituitary. While β-endorphin is studied for its opioid activity, α-endorphin and γ-endorphin both lack affinity for opiate receptors and thus do not affect the body in the same way that β-endorphin does. Some studies have characterized α-endorphin activity as similar to that of psychostimulants and γ-endorphin activity to that of neuroleptics separately.
+
+Synthesis
+Endorphin precursors are primarily produced in the pituitary gland. All three types of endorphins are fragments of the precursor protein proopiomelanocortin (POMC). At the trans-Golgi network, POMC binds to a membrane-bound protein, carboxypeptidase E (CPE). CPE facilitates POMC transport into immature budding vesicles. In mammals, pro-peptide convertase 1 (PC1) cleaves POMC into adrenocorticotropin (ACTH) and beta-lipotropin (β-LPH). β-LPH, a pituitary hormone with little opiate activity, is then continually fragmented into different peptides, including α-endorphin, β-endorphin, and γ-endorphin. Peptide convertase 2 (PC2) is responsible for cleaving β-LPH into β-endorphin and γ-lipotropin. Formation of α-endorphin and γ-endorphin results from proteolytic cleavage of β-endorphin.
+
+Regulation
+Noradrenaline has been shown to increase endorphins production within inflammatory tissues, resulting in an analgesic effect; the stimulation of sympathetic nerves by electro-acupuncture is believed to be the cause of its analgesic effects.
+
+Mechanism of action
+Endorphins are released from the pituitary gland, typically in response to pain, and can act in both the central nervous system (CNS) and the peripheral nervous system (PNS). In the PNS, β-endorphin is the primary endorphin released from the pituitary gland. Endorphins inhibit transmission of pain signals by binding μ-receptors of peripheral nerves, which block their release of neurotransmitter substance P.  The mechanism in the CNS is similar but works by blocking a different neurotransmitter: gamma-aminobutyric acid (GABA). In turn, inhibition of GABA increases the production and release of dopamine, a neurotransmitter associated with reward learning.
+
+Functions
+Endorphins play a major role in the body's inhibitory response to pain. Research has demonstrated that meditation by trained individuals can be used to trigger endorphin release. Laughter may also stimulate endorphin production and elevate one's pain threshold.
+Endorphin production can be triggered by vigorous aerobic exercise. The release of β-endorphin has been postulated to contribute to the phenomenon known as "runner's high". However, experimental blockade of the mu opioid receptor has shown that endorphins are not strictly necessary for the development of exercise-induced euphoria. It has been suggested that other neurotransmitters, namely endocannabinoids, are more likely contributors. Endorphins may partially mediate exercise-induced analgesia.
+
+See also
+Neurobiological effects of physical exercise
+Enkephalin
+
+References
+External links
+Endorphins at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

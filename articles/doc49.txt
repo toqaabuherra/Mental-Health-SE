@@ -1,0 +1,82 @@
+Psychoanalytic theory
+https://en.wikipedia.org/wiki/Psychoanalytic_theory
+
+Psychoanalytic theory is the theory of the innate structure of the human soul and the dynamics of personality development relating to the practice of psychoanalysis, a method of research and for treating of mental disorders (psychopathology). Laid out by Sigmund Freud in the late 19th century (s. The Interpretation of Dreams), he developed the theory and practice of psychoanalysis until his death in 1939. Since then, it has been further refined, also divided into various sub-areas, but independent of this, Freuds structural distinction of the soul into three functionally interlocking instances has been largely retained. 
+Psychoanalysis with its theoretical core came to full prominence in the last third of the twentieth century, as part of the flow of critical discourse regarding psychological treatments in the 1970s. Freud himself had ceased his physiological research of the neural brain organization in 1906 (cf. history). shifting his focus to psychology and the treatment of mental health issues by using free associations and the phenomenon of transference. Psychoanalysis is based on the distinction between unconscious and conscious processes, and emphasized the recognition of childhood events that influence the mental functioning of adults. Freud's consideration of human evolutionary history (genetics) and then the aspect of individual psychological development in cultural contexts gave the psychoanalytic theory its characteristics.
+
+Definition
+Psychoanalytic and psychoanalytical are used in English. The latter is the older term, and at first, simply meant 'relating to the analysis of the human psyche.' But with the emergence of psychoanalysis as a distinct clinical practice, both terms came to describe that. Although both are still used, today, the normal adjective is psychoanalytic.
+Psychoanalysis is defined in the Oxford English Dictionary as
+
+A therapeutic method, originated by Sigmund Freud, for treating mental disorders by investigating the interaction of conscious and unconscious elements in the patient's mind and bringing repressed fears and conflicts into the conscious mind, using techniques such as dream interpretation and free association. Also: a system of psychological theory is associated with this method.
+
+The beginnings
+Freud began his studies on psychoanalysis in collaboration with Dr. Josef Breuer, most notably in relation to the case study of Anna O. Anna O. was subject to a number of psychosomatic disturbances, such as not being able to drink out of fear.  Breuer and Freud found that hypnosis was a great help in discovering more about Anna O. and her treatment. Freud frequently referred to the study on Anna O. in his lectures on the origin and development of psychoanalysis.
+Observations in the Anna O. case led Freud to theorize that the problems faced by hysterical patients could be associated with painful childhood experiences that could not be recalled. The influence of these lost memories shaped the feelings, thoughts, and behaviors of patients. These studies contributed to the development of the psychoanalytic theory.
+
+The unconscious
+In psychoanalytic theory, the unconscious mind consists of ideas and drives that have been subject to the mechanism of Repression: anxiety-producing impulses in childhood are barred from consciousness, but do not cease to exist, and exert a constant pressure in the direction of consciousness. However, the content of the unconscious is only knowable to consciousness through its representation in a disguised or distorted form, by way of dreams and neurotic symptoms, as well as in slips of the tongue and jokes. The psychoanalyst seeks to interpret these conscious manifestations in order to understand the nature of the repressed. In psychoanalytic terms, the unconscious does not include all that is not conscious, but rather that which is actively repressed from conscious thought. Freud viewed the unconscious as a repository for socially unacceptable ideas, anxiety-producing wishes or desires, traumatic memories, and painful emotions put out of consciousness by the mechanism of repression. Such unconscious mental processes can only be recognized through analysis of their effects in consciousness. Unconscious thoughts are not directly accessible to ordinary introspection, but they are capable of partially evading the censorship mechanism of repression in a disguised form, manifesting, for example, as dream elements or neurotic symptoms. Dreams and symptoms are supposed to be capable of being "interpreted" during psychoanalysis, with the help of methods such as free association, dream analysis, and analysis of verbal slips.
+
+Personality structure
+In Freud's model the psyche consists of three different elements, the id, ego, and the superego. The id is the aspect of personality that is driven by internal and basic drives and needs, such as hunger, thirst, and the drive for sex, or libido. The id acts in accordance with the pleasure principle. Due to the instinctual quality of the id, it is impulsive and unaware of the implications of actions. The superego is driven by the morality principle. It enforces the morality of social thought and action on an intrapsychic level. It employs morality, judging wrong and right and using guilt to discourage socially unacceptable behavior.
+The ego is driven by the reality principle. The ego seeks to balance the conflicting aims of the id and superego, by trying to satisfy the id's drives in ways that are compatible with reality. The Ego is how we view ourselves: it is what we refer to as 'I' (Freud's word is the German ich, which simply means 'I').
+
+Defense mechanisms
+The ego balances demands of the id, the superego, and of reality to maintain a healthy state of consciousness, where there is only minimal intrapsychic conflict. It thus reacts to protect the individual from stressors and from anxiety by distorting internal or external reality to a lesser or greater extent. This prevents threatening unconscious thoughts and material from entering the consciousness. The ten different defence mechanisms initially enumerated by Anna Freud are: repression, regression, reaction formation, isolation of affect, undoing, projection, introjection, turning against the self, reversal into the opposite, and sublimation. In the same work, however, she details other manoeuvres such as identification with the aggressor and intellectualisation that would later come to be considered defence mechanisms in their own right. Furthermore, this list has been greatly expanded upon by other psychoanalysts, with some authors claiming to enumerate in excess of one hundred defence mechanisms.
+
+Psychology theories
+Psychosexual development
+Freud's take on the development of the personality (psyche). It is a stage theory that believes progress occurs through stages as the libido is directed to different body parts. The different stages, listed in order of progression, are Oral, Anal, Phallic (Oedipus complex), Latency, and Genital. The Genital stage is achieved if people meet all their needs throughout the other stages with enough available sexual energy. Individuals who do not meet their needs in a given stage become fixated or "stuck" in that stage.
+
+Neo-analytic theory
+Freud's theory and work with psychosexual development led to Neo-Analytic/Neo-Freudians who also believed in the importance of the unconscious, dream interpretations, defense mechanisms, and the integral influence of childhood experiences but had objections to the theory as well. They do not support the idea that personality development stops at age 6. Instead, they believe development spreads across the lifespan. They extended Freud's work and encompassed more influence from the environment and the importance of conscious thought and the unconscious. The most important theorists are Erik Erikson (Psychosocial Development), Anna Freud, Carl Jung, Alfred Adler and Karen Horney, and including the school of object relations. Erikson's Psychosocial Development theory is based on eight stages of development. The stages are trust vs. mistrust, autonomy vs. shame, initiative vs. guilt, industry vs. inferiority, identity vs. confusion, intimacy vs. isolation, generatively vs. stagnation, and integrity vs. despair. These are important to the psychoanalytic theory because they describe the different stages that people go through in life. Each stage has a major impact on their life outcomes since they are going through conflicts at each stage and whichever route they decide to take, will have certain outcomes.
+
+Criticisms
+Some claim that the theory is lacking in empirical data and too focused on pathology. Other criticisms are that the theory lacks consideration of culture and its influence on personality.
+Psychoanalytic theory comes from Freud and is focused on childhood. This might be an issue since most believe studying children can be inconclusive. One major concern lies in if observed personality will be a lifelong occurrence or if the child will shed it later in life.
+
+Application to the arts and humanities
+Psychoanalytic theory is a major influence in Continental philosophy and in aesthetics in particular. Freud is sometimes considered a philosopher. The psychoanalyst Jacques Lacan, and the philosophers Michel Foucault, and Jacques Derrida, have written extensively on how psychoanalysis informs philosophical analysis. Other philosophers such as Alain Badiou and Rafael Holmberg have argued that the meaning of psychoanalysis for philosophy was not immediately clear, but that they have come to reciprocally define each other.
+When analyzing literary texts, the psychoanalytic theory is sometimes used (often specifically with regard to the motives of the author and the characters) to reveal purported concealed meanings or to purportedly better understand the author's intentions.
+
+See also
+Freud's psychoanalytic theories
+Metapsychology
+
+References
+Further reading
+Books
+Brenner, C. (1973). An Elementary Textbook of Psychoanalysis – Revised edition. New York: International Universities Press. ISBN 0-385-09884-7
+Ellman, S. (2010). When Theories Touch:  A Historical and Theoretical Integration of Psychoanalytic Thought. London: Karnac Books. ISBN 1-85575-868-7
+Laplanche, J. & Pontalis, J. B. (1974). The Language of Psycho-Analysis. W. W. Norton & Company, ISBN 0-393-01105-4
+
+Online papers
+Benjamin, J. (1995). Recognition and destruction: An outline of intersubjectivity
+Boesky, D. (2005). Psychoanalytic controversies contextualized
+Boston Process of Change Study Group. (2005). The "something more" than interpretation
+Brenner, C. (1992). The mind as conflict and compromise formation
+Eagle, M. (1984). Developmental deficit versus dynamic conflict
+Gill, M. (1984). Psychoanalysis and psychotherapy: A revision
+Kernberg, O. (2000). Psychoanalysis, psychoanalytic psychotherapy and supportive psychotherapy: contemporary controversies
+Mitchell, Stephen A. (1984). Object relations theories and the developmental tilt
+Rubinstein, B. (1975). On the clinical psychoanalytic theory and its role in the inference and confirmation of particular clinical hypotheses
+Schwartz, W. (2013) Essentials of Psychoanalytic Theory and Practice
+Sprenger, Scott (2002) Freudian Psychoanalytic Theory
+
+Others
+Freud, Sigmund 1900, Interpretation of Dreams (Chapter 2). Standard Edition.
+Grünbaum, Adolf 1986. Precis of Foundations of Psycho-Analysis. Behavioral and Brain Sciences 9 : 217–284.
+Greenberg, J. and Mitchell, S.A. (1983). Object Relations in Psychoanalytic Theory. Cambridge MASS and London: Harvard University Press.
+Klein, Melanie 1932. Chapter 2, The Psychoanalysis of Children. In The Writings of Melanie Klein Volume 2. London: Hogarth Press.
+Klein, Melanie (1935), A contribution to the psychogenesis of manic-depressive states, International Journal of Psycho-Analysis 16: 145–74. Republished: Hogarth Press.
+Bion, W. (1957), 'On Arrogance', in Second Thoughts. London: Heinemann, pp. 86–92, 161–6.
+Benjamin, J. (1990). An Outline of Intersubjectivity: the development of recognition. Psychoanalytic Psychology 7S:33–46.
+
+External links
+
+PSY-LOG: Psychoanalytic Web Directory (in French, German and English)
+René Major article on Foucault and psychoanalysis (in French)
+The États Generaux de la psychanalyse, which was organized in part by Jacques Derrida and René Major (in French)
+Critical psychology glossary
+American Psychoanalytic Association's official website
+Psychoanalysis – Techniques and Practice

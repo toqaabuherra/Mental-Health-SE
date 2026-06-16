@@ -1,0 +1,71 @@
+Mood stabilizer
+https://en.wikipedia.org/wiki/Mood_stabilizer
+
+A mood stabilizer is a psychiatric medication used to treat mood disorders characterized by intense and sustained mood shifts, such as bipolar disorder and the bipolar type of schizoaffective disorder.
+
+Uses
+Mood stabilizers are considered a cornerstone in the treatment of bipolar disorder, where they help prevent relapses into both manic and depressive episodes and maintain long-term mood stability.
+They are also prescribed for the bipolar type of schizoaffective disorder, and in some cases are used as adjuncts for treatment-resistant major depressive disorder. In addition, certain mood stabilizers have been shown to reduce impulsivity and aggression in selected psychiatric and neurological conditions.
+Evidence also suggests that lithium, in particular, reduces the risk of suicide in patients with mood disorders, making it a unique therapeutic option among mood stabilizers.
+
+Examples
+The term "mood stabilizer" does not describe a mechanism but an effect. More precise terminology based on pharmacology is used to further classify these agents. Drugs commonly classed as mood stabilizers include:
+
+Mineral
+Lithium
+Lithium is the "classic" mood stabilizer, the first to be approved by the US FDA, and still popular in treatment. Therapeutic drug monitoring is required to ensure lithium levels remain in the therapeutic range: 0.6 to 0.8 or 0.8–1.2 mEq/L (or millimolar). Signs and symptoms of toxicity include nausea, vomiting, diarrhea, and ataxia. The most common side effects are lethargy and weight gain (up to 2 kilograms (4.4 lb)). The less common side effects of using lithium are blurred vision, a slight tremble in the hands, and a feeling of being mildly ill (malaise). In general, these side effects occur in the first few weeks after commencing lithium treatment. These symptoms can often be improved by lowering the dose. Long-term lithium therapy also carries risks such as hypothyroidism and chronic kidney disease, requiring periodic monitoring of thyroid and renal function.
+It is also one of the few mood stabilizers with proven anti-suicidal properties, making it unique among psychiatric medications.
+
+Anticonvulsants
+Anticonvulsants, also known as antiseizure medications, are agents originally developed for treating epilepsy and seizure disorders. In the 1970s, clinical trials demonstrated that certain anticonvulsants were effective in mood stabilization, subsequently, these medications were adopted in psychiatry for treating mood disorders.
+This class of medication is divided into first generation and second generation agents based on the time of their development, with the second generation agents having lesser adverse effects and better tolerability compared to the first generation.
+
+Valproate
+Valproate is a first generation anticonvulsant agent. This drug is considered as the first line treatment for both acute mania and maintenance of bipolar disorder. It primarily acts by inhibiting GABA transaminase and increasing GABAergic activity, thereby decreasing neuronal excitability. It can also inactivate sodium and calcium channels.
+This drug can be very irritating to the stomach, especially when taken as a free acid. Requires regular hepatic panels and full blood count monitoring. Common side effects include sleepiness, nausea, and dry mouth. More serious side effects include liver dysfunction, pancreatitis, and polycystic ovary syndrome. Weight gain is possible.
+It is recommended that women of childbearing age should avoid using valproate due its teratogenic potential, including the increased risk of neural tube defects, even with folic acid supplementation.
+
+Carbamazepine
+
+Carbamazepine is also a first generation anticonvulsant. It is considered second-line for bipolar disorder due to its side effects, including gastrointestinal symptoms, Stevens‐Johnson syndrome, toxic epidermal necrolysis, and weight gain. It primarily acts by inhibiting sodium channels.
+Carbamazepine can rarely cause a dangerous decrease in neutrophils, a type of white blood cell, called agranulocytosis. It interacts with many medications, including other mood stabilizers (e.g., lamotrigine) and antipsychotics (e.g., quetiapine).
+While using carbamazepine, the effectiveness of oral contraceptive is significantly decreased, and it also has
+teratogenic potential.
+
+Lamotrigine (brand name Lamictal)
+FDA-approved for bipolar disorder maintenance therapy, not for acute mood problems like acute depression or mania, including hypomania. The usual target dose is 100–200 mg daily, titrated to by 25 mg increments every 2 weeks. Lamotrigine can cause Stevens–Johnson syndrome, a very rare but potentially fatal skin condition.
+
+There is insufficient evidence to support the use of various other anticonvulsants, such as gabapentin and topiramate, as mood stabilizers.
+
+Antipsychotics
+Some atypical antipsychotics (aripiprazole, asenapine, cariprazine, lurasidone, olanzapine, paliperidone, quetiapine, risperidone, and ziprasidone) also have mood-stabilizing effects and are thus commonly prescribed even when psychotic symptoms are absent.
+
+Other
+Omega-3 fatty acids
+It is also conjectured that omega-3 fatty acids may have mood-stabilizing effects. Compared with placebo, omega-3 fatty acids appear better able to augment known mood stabilizers in reducing depressive—but perhaps not manic—symptoms of bipolar disorder; additional trials would be needed to establish the effects of omega-3 fatty acids alone.  Recent studies suggest that preparations with a higher ratio of eicosapentaenoic acid (EPA) to docosahexaenoic acid (DHA) -types of omega-3 fatty acids- are more effective in improving depressive symptoms, while effects on mania remain inconsistent.
+Levothyroxine
+It is known that even subclinical hypothyroidism can blunt a patient's response to both mood stabilizers and antidepressants. Furthermore, preliminary research into the use of thyroid augmentation in patients with refractory and rapid-cycling bipolar disorder has been positive, showing a slowing in cycle frequency and reduction in symptoms. Most studies have been conducted on an open-label basis. One large, controlled study of a 300 mcg daily dose of levothyroxine (T4) found it superior to placebo in the setting of bipolar disorder. In general, studies have shown T4 to be well tolerated and to show effectiveness even in patients without overt hypothyroidism.  It is reported that supraphysiological doses of levothyroxine may be particularly beneficial in women with treatment-resistant bipolar depression, although long-term safety still needs further evaluation. Hypothyroidism is common among patients with bipolar disorder regardless of the mood stabilizer used.
+
+Combination therapy
+In routine practice, monotherapy is often insufficiently effective for acute and/or maintenance therapy. Thus, most patients are placed on combination therapy. Combination therapy (e.g., an atypical antipsychotic with lithium or valproate) has demonstrated better effectiveness over monotherapy in the control of manic episodes, as well as the prevention of relapse. However, side effects are more frequent and discontinuation rates are higher due to adverse events with combination therapy than with monotherapy.
+
+Relationship to Antidepressants
+Most mood stabilizers are primarily antimanic agents, meaning that they are effective at treating mania and mood cycling and shifting, but are not effective at treating acute depression. The principal exceptions to that rule, because they treat both manic and depressive symptoms, are lamotrigine, lithium carbonate, olanzapine and quetiapine. There is a need for caution when treating bipolar patients with antidepressant medication due to the risks that they pose.
+
+Nevertheless, antidepressants are still often prescribed in addition to mood stabilizers during depressive phases. This brings some risks, however, as antidepressants can induce mania (increases risk by 34%), psychosis (relative risk not reported), cycle acceleration, and other disturbing problems in people with bipolar disorder—in particular, when taken alone. The risk of antidepressant-induced mania when given to patients concomitantly on antimanic agents is not known for certain but may still exist. SSRIs and bupropion appear to have lower chances of switching, while SNRIs and tricyclics are more likely to cause switching. A single large, population based study reports that the manic "switch" risk is not increased over regular mood stabilizer treatment when an antidepressant is combined with a mood stabilizer. When an antidepressant is used alone, the risk is about 3 times the regular value. Gitlin (2018) notes that "the potential issue of worsening suicidality in adolescents and young adults treated with antidepressants [...] both controversial and infrequently seen."
+Equally critical is the question of whether adding antidepressant has any effect on bipolar depression. High-quality data is lacking in this field, and simply using different analytical approaches can lead to different conclusions. It's also possible that the effect depends on the mood stabilizer used: one study finds no effect when antidepressant is added to lithium or valporate, but some efficacy when it's added to atypical antipsychotics.
+
+Pharmacodynamics
+Pharmacodynamics refers to the study of the biochemical and cellular effects of medications, as well as their mechanisms of action.  As noted, "mood stabilizers" do not share a single way of working; the term simply indicates how these drugs are used in treatment. However, some research shows that Lithium, Valproate, and Carbamazepine may share a common mechanism of action, but not tricyclic antidepressants. This mechanism includes the reduction of inositol, a compound involved in many pathways that lead to increased cell signaling in the brain. When these pathways are inhibited or blocked, the mood stabilizing effect is accomplished. Another possible target of several mood stabilizers is the arachidonic acid cascade.
+Lithium's exact mechanism of action remains unknown; it likely affects several sites within the neuron including the nucleus and the synapse. As mentioned, lithium is thought to cause inositol reduction. It does this by being an uncompetitive inhibitor to the enzymes inositol monophosphatase 1 and inositol polyphosphate 1-phosphatase. Lithium is also known to inhibit the enzyme GSK-3B, which helps regulate the circadian rhythm. If the circadian rhythm is disrupted, it may lead to key traits of Bipolar Disorder, like mood episodes. Chronic use of lithium helps regulate gene transcription of brain-derived neurotrophic factor (BDNF). This boosts neural plasticity; which may be key to lithium's therapeutic effects. Lithium's role in the human body isn't fully clear. However, its benefits likely connect to its impact on electrolytes like potassium, sodium, calcium, and magnesium. Lithium is generally neuroprotective.
+Valproate, also known as Valproic Acid, is an anticonvulsant. It affects brain activity in several ways. Valproate's main effect is the indirect inhibition of the breakdown of GABA, which is an inhibitory neurotransmitter. It works by reducing the activity of enzymes that break down GABA. This includes GABA transaminase and succinate semialdehyde dehydrogenase.  It also decreases the expression of glutamate receptors; thus decreasing neuronal excitability. In addition, valproate blocks sodium, potassium and calcium voltage-gated channels, and this reduces how often neurons fire. Research has since shown valproate to have several cellular effects. These include the inhibition of histone deacetylases and upregulation of LEF1. These mechanisms hint at possible uses in cancer therapy. It is also neuroprotective.
+Carbamazepine is another anticonvulsant that functions mainly as a sodium channel blocker. Voltage-gated sodium channels are found on the cell membrane of neurons and help create action potentials. Carbamazepine keeps these channels inactivated, which stops continuous action potential firing. The liver breaks down carbamazepine through the liver enzyme CYP3A4. Many drugs can change how CYP3A4 works. They can either boost or reduce its activity. This is why carbamazepine needs careful monitoring when other medications are used with it, with a possible need for dosage adjustment.
+Lamotrigine lowers excitatory nerve signaling in the central nervous system by lowering glutamate release. In addition, it  increases inhibitory nerve signaling by boosting GABA release. Recent studies suggest the lamotrigine is relatively safe during pregnancy, but does need close monitoring by a specialist. This is important because researchers have linked it to neonatal malformations, such as oral clefts.
+
+See also
+Treatment of bipolar disorder
+
+Categories
+References
+External links
+ Media related to Mood stabilizers at Wikimedia Commons

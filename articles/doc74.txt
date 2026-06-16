@@ -1,0 +1,87 @@
+Adjustment disorder
+https://en.wikipedia.org/wiki/Adjustment_disorder
+
+Adjustment disorder is a mental disorder defined by a maladaptive response to a psychosocial stressor. The maladaptive response usually involves otherwise normal emotional and behavioral reactions that manifest more intensely than usual (considering contextual and cultural factors), causing marked distress, preoccupation with the stressor and its consequences, and functional impairment. 
+Diagnosis of adjustment disorder is common, with lifetime prevalence estimates for adults ranging from 5 to 21%. Adult women are diagnosed twice as often as men. Among children and adolescents, girls and boys are equally likely to be diagnosed with an adjustment disorder. 
+Adjustment disorder was introduced into the Diagnostic and Statistical Manual of Mental Disorders, Third Edition (DSM-III) in 1980.
+Another name for adjustment disorder is stress response syndrome, as well as situational depression, since depression is one of the most common symptoms.
+
+Signs and symptoms
+Signs of adjustment disorder include sadness, hopelessness, lack of enjoyment, crying spells, nervousness, anxiety, desperation, feeling overwhelmed and thoughts of suicide, performing poorly in school or work, among others.
+Common characteristics of adjustment disorder include mild depressive symptoms, anxiety, and traumatic stress symptoms or a combination of the three. According to the DSM-5, there are six types of adjustment disorder, which are characterized by the following predominant symptoms: depressed mood, anxiety, mixed depression and anxiety, disturbance of conduct, mixed disturbance of emotions and conduct, and unspecified. However, the criteria for these symptoms are not specified in greater detail. Adjustment disorder may be acute or chronic, depending on whether it lasts more or less than six months. According to the DSM-5, if the adjustment disorder lasts less than six months, then it may be considered acute, or it may persist for a longer period if the stressor has long term consequences and it may be considered chronic. Moreover, the symptoms cannot last longer than six months after the stressor(s), or its consequences, have terminated. However, the stress-related disturbance does not only exist as an exacerbation of a pre-existing mental disorder.
+Unlike major depressive disorder, adjustment disorder is caused by an outside stressor and generally resolves once the individual is able to adapt to the situation. The condition is different from anxiety disorder, which lacks the presence of a stressor, or post-traumatic stress disorder and acute stress disorder, which usually are associated with a more intense stressor.
+Suicidal behavior is prominent among people with adjustment disorder of all ages, and up to one-fifth of adolescent suicide victims may have an adjustment disorder. Bronish and Hecht (1989) found  that 70% of a series of patients with adjustment disorder attempted suicide immediately before their index admission and they remitted faster than a comparison group with major depression. Asnis et al. (1993) found that adjustment disorder patients report persistent ideation or suicide attempts less frequently than those diagnosed with major depression. According to a study on 82 adjustment disorder patients at a clinic, Bolu et al. (2012) found that 22 (26.8%) of these patients were admitted due to suicide attempt, consistent with previous findings. In addition, it was found that 15 of these 22 patients chose suicide methods that involved high chances of being saved. Henriksson et al. (2005) states statistically that the stressors are of one-half related to parental issues and one-third in peer issues.
+One hypothesis about adjustment disorder is that it may represent a sub-threshold clinical syndrome.
+The syndrome of occupational burnout is considered to be adjustment disorder by some national health authorities.
+
+Subtypes
+Adjustment disorder has six different subtypes, all of which are based on what the main symptoms are.
+The subtypes are as follows:
+
+With depressed mood: depression, hopelessness, lack of interest or joy from previously enjoyed hobbies, tearfulness
+With anxiety: anxiousness, being overwhelmed, trouble concentrating, worry, separation anxiety (common in children)
+With anxiety and depressed mood: combination of symptoms from both subtypes above
+With disturbance of conduct: acting destructive, reckless behavior, rebellious
+With mixed disturbance of emotions and conduct: combination of symptoms from both subtypes above
+Unspecified: symptoms that do not fall into above subtypes; often include physical symptoms and withdrawal from everyday activities
+
+Risk factors
+Those exposed to repeated trauma are at greater risk, even if that trauma is in the past. Age can be a factor due to young children having fewer coping resources and because they are less likely to realize the consequences of a potential stressor.
+A stressor is generally an event of a serious, unusual nature that an individual or group of individuals experience. Adjustment disorders can come from a wide range of stressors that can be traumatic or relatively minor, like the loss of a girlfriend/boyfriend, a poor report card, or moving to a new neighborhood. It is thought that the more often the stressor occurs, the more likely it is to produce adjustment disorder. The objective nature of the stressor is of secondary importance. A stressor gains its pathogenic potential when the patient perceives it as stressful. The identification of a causal stressor is necessary if a diagnosis of adjustment disorder is to be made.
+There are certain stressors that are more common in different age groups:
+Adulthood:
+
+Marital conflict
+Financial conflict
+Health issues with oneself, partner, or dependent children
+Personal tragedy such as death or personal loss
+Loss of job or unstable employment conditions e.g., corporate takeover or redundancy
+Adolescence and childhood:
+
+Family conflict or parental separation
+School problems or changing schools
+Sexuality issues
+Death, illness, or trauma in the family
+In a study conducted from 1990 to 1994 on 89 psychiatric outpatient adolescents, 25% had attempted suicide in which 37.5% had misused alcohol, 87.5% displayed aggressive behaviour, 12.5% had learning difficulties, and 87.5% had anxiety symptoms.
+
+Diagnosis
+DSM-5 classification
+The basis of the diagnosis is the presence of a precipitating stressor and a clinical evaluation of the possibility of symptom resolution on removal of the stressor due to the limitations in the criteria for diagnosing adjustment disorder. In addition, the diagnosis of adjustment disorder is less clear when patients are exposed to stressors long-term, because this type of exposure is associated with adjustment disorder and major depressive disorder (MDD) and generalized anxiety disorder (GAD).
+Some signs and criteria used to establish a diagnosis are important. First, the symptoms must clearly follow a stressor. The symptoms should be more severe than would be expected. There should not appear to be other underlying disorders. The symptoms that are present are not part of a normal grieving for the death of family member or other loved one.
+Adjustment disorders have the ability to be self-limiting. Within five years of when they are originally diagnosed, approximately 20–50% go on to be diagnosed with psychiatric disorders that are considered as more serious.
+
+Treatment
+Individuals with an adjustment disorder and depressive or anxiety symptoms may benefit from treatments usually used for depressive or anxiety disorders. The use of different therapies can be beneficial for any age group. There is also a list of medications that can be used to help people with adjustment disorder whose symptoms are too severe for therapy alone. If a person is considering taking medication, they should talk to their doctor.
+Specific treatment is based on factors of each individual separately. These factors include but are not limited to age, severity of symptoms, type of adjustment disorder, and personal preference.
+Different ways to help with the disorder include:
+
+individual psychotherapy
+family therapy
+peer group therapy
+medication
+In addition to professional help, parents and caregivers can help their children with their difficulty adjusting by:
+
+offering encouragement to talk about their emotions
+offering support and understanding
+reassuring the child that their reactions are normal
+involving the child's teachers to check on their progress in school
+letting the child make simple decisions at home, such as what to eat for dinner or what show to watch on television
+having the child engage in a hobby or activity they enjoy
+
+Criticism
+It has been criticized for its lack of specificity of symptoms, behavioral parameters, and close links with environmental factors has been criticized from a minority of the professional community as well as those in semi-related professions outside the healthcare field. Relatively little research has been done on this condition.
+An editorial in the British Journal of Psychiatry described adjustment disorder as being so "vague and all-encompassing… as to be useless," but it has been retained in the DSM-5 because of the belief that it serves a useful clinical purpose for clinicians seeking a temporary, mild, non-stigmatizing label, particularly for patients who need a diagnosis for insurance coverage of therapy.
+In the US military, there has been concern about its diagnosis in active duty military personnel.
+
+In relation to the COVID-19 pandemic
+A study was conducted in Poland during the first phase of the pandemic. The study used self-report surveys to measure the prevalence and severity of symptoms of adjustment disorder compared to PTSD, depression, and anxiety. The data was collected in the first quarantine period between March 25 to April 27, 2020.
+Results from the study:
+
+The COVID-19 pandemic was a highly stressful event for 75% of the participants and the most powerful predictor of adjustment disorder.
+49% reported an increase in adjustment disorder symptoms, which were more common among females and those without a full-time job; 14% of the sample met the criteria for a diagnosis of adjustment disorder.
+A significant proportion of the sample was also positive for generalized anxiety (44%) and depression (26%): the presumptive diagnosis rate of PTSD was 2.4%
+
+References
+
+
+== Further reading ==

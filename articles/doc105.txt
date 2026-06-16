@@ -1,0 +1,110 @@
+Somatic symptom disorder
+https://en.wikipedia.org/wiki/Somatic_symptom_disorder
+
+Somatic symptom disorder (SSD) is a mental health condition characterised by an excessive focus on physical symptoms—such as pain or shortness of breath—that cause significant distress or impairment. Individuals with SSD experience disproportionate thoughts, emotions, and behaviors related to their symptoms. The symptoms themselves are not deliberately produced or feigned (as they are in malingering and factitious disorders), and their underlying cause—whether organic, psychogenic or unexplained—is irrelevant to the diagnosis.
+Manifestations of somatic symptom disorder are variable; symptoms can be widespread, specific, and often fluctuate. Somatic symptom disorder corresponds to how an individual views and reacts to symptoms rather than the symptoms themselves, and it can develop in the setting of existing chronic illness or newly onset conditions.
+Several studies have found a high frequency of comorbidity with major depressive disorder, generalized anxiety disorder, and phobias. Somatic symptom disorder is frequently associated with functional pain syndromes, such as fibromyalgia and irritable bowel syndrome (IBS). Somatic symptom disorder typically leads to poor overall functioning, interpersonal issues, unemployment or problems at work, and financial strain as a result of frequent healthcare visits.
+The etiology of somatic symptom disorder is unknown. Symptoms may result from a heightened awareness of specific physical sensations alongside health anxiety. There is some controversy surrounding the diagnosis, since symptom perception and response are inherently subjective, and may depend on the clinician's interpretation. Additionally, people with known physical illnesses can sometimes be misdiagnosed with it.
+
+Signs and symptoms
+Somatic symptom disorder is characterized by unclear and inconsistent symptom histories that seldom improve with medical treatments. Key signs include misinterpreting normal sensations as abnormal, avoiding physical activity, heightened sensitivity to medication side effects, and seeking care from multiple providers for the same issues.
+Manifestations of somatic symptom disorder are highly variable. Recurrent ailments usually begin before age 30; most patients have many somatic symptoms, while others only experience one. The severity may fluctuate, but symptoms rarely go away completely for long periods. Symptoms might be specific, such as regional pain and localized sensations, or general, such as fatigue, myalgia, and malaise.
+Individuals with somatic symptom disorder have obsessive worries about their health. They often misinterpret normal sensations as severe illnesses, believe their symptoms are serious despite no medical basis, feel medical evaluations are inadequate, fear physical activity will harm them, and spend excessive time focused on their symptoms.
+Somatic symptom disorder pertains to how an individual interprets and responds to symptoms instead of the symptoms themselves. Somatic symptom disorder can occur even in those who have an underlying chronic illness or medical condition. When somatic symptom disorder is comorbid with another ailment, individuals may hyperreact to the presence of the other condition's features. They may be unresponsive to treatment or unusually sensitive to drug side effects. Those with somatic symptom disorder who also have another physical ailment may experience significant impairment that is not expected from the condition.
+
+Comorbidities
+Research on comorbid mental disorders and self-reported psychopathology in individuals with somatic symptom disorder has revealed a substantial frequency of comorbidity with depression and anxiety; however, other psychiatric comorbidities have often been overlooked. Major depressive disorder, generalized anxiety disorder, and phobias were the most commonly concurrent conditions.
+In studies evaluating physical ailments, 41.5% of those with semantic dementia, 11.2% of those with Alzheimer's disease, 25% of female patients with non-HIV lipodystrophy, and 18.5% of patients with congestive heart failure fulfilled somatic symptom disorder criteria. Among those with fibromyalgia, 25.6% met somatic symptom disorder criteria and exhibited higher rates of depression than those who did not meet the criteria. In one study, 28.8% of those with somatic symptom disorder had asthma, 23.1% had cardiovascular disease, and 13.5% had gout, rheumatoid arthritis, or osteoarthritis.
+
+Complications
+Alcohol and other substance abuse are frequently observed, sometimes being used to alleviate symptoms but simultaneously increasing individuals' risk of substance dependence over baseline. Other complications include poor overall functioning, problems with relationships, unemployment or difficulties at work, and financial stress due to excessive clinical visits.
+
+Causes
+Somatic symptoms can stem from heightened awareness of normal body sensations alongside a tendency to interpret those sensations as abnormal. Studies suggest that risk factors of somatic symptoms include a history of childhood neglect, sexual abuse, a chaotic lifestyle, and a history of substance abuse. Psychosocial stressors, such as unemployment and poor job performance, may also be risk factors. There could also be a genetic element: A 2010 study of monozygotic and dizygotic twins found that genetics explained 7% to 21% of participants' risk for somatic symptoms, with the remainder related to environmental factors. In another study, various single-nucleotide polymorphisms were linked to somatic symptoms.
+
+Psychological
+Evidence suggests that along with more broad factors such as early childhood trauma or insecure attachment, negative psychological factors including catastrophizing, negative affectivity, rumination, avoidance, health anxiety, or a poor physical self-concept have a significant impact on the shift from unproblematic somatic symptoms to a severely debilitating somatic symptom disorder. Those who experience more negative psychological characteristics may regard medically unexplained symptoms to be more threatening and, therefore, exhibit stronger cognitive, emotional, and behavioral awareness of such symptoms. In addition, evidence suggests that negative psychological factors have a significant impact on the impairments and behaviors of people suffering from somatic symptom disorder, as well as the long-term stability of such symptoms.
+
+Psychosocial
+Psychosocial stresses and cultural norms influence how patients present to their physicians.  American and Koreans engaged in a study to measure somatization within the cultural context. It was discovered that Korean participants used more body-related phrases while discussing their connections with stressful events and experienced more sympathy when asked to read texts using somatic expressions when discussing their emotions.
+Those raised in environments where expressing emotions during stages of development is discouraged face the highest risk of somatization. In primary care settings, studies indicated that somaticizing patients had much greater rates of unemployment and decreased occupational functioning than non-somaticizing patients.
+Traumatic life events may cause the development of somatic symptom disorder. Most people with somatic symptom disorder originate from dysfunctional homes. A meta-analysis study revealed a connection between sexual abuse and functional gastrointestinal syndromes, chronic pain, non-epileptic seizures, and chronic pelvic pain.
+
+Physiological
+The hypothalamo pituitary adrenal axis (HPA) has a crucial role in stress response. While the HPA axis may become more active with depression, there is evidence of hypocortisolism in somatization. In somatic disorder, there is a negative connection between elevated pain scores and 5-hydroxy indol acetic acid (5-HIAA) and tryptophan levels.
+It has been suggested that proinflammatory processes may have a role in somatic symptom disorder, such as an increase of non-specific somatic symptoms and sensitivity to painful stimuli. Proinflammatory activation and anterior cingulate cortex activity have been shown to be linked in those who experienced stressful life events for an extended period of time. It is further claimed that increased activity of the anterior cingulate cortex, which acts as a bridge between attention and emotion, leads to increased sensitivity of unwanted stimuli and bodily sensations.
+Pain is a multifaceted experience, not just a sensation. While nociception refers to afferent neural activity that transmits sensory information in response to stimuli that may cause tissue damage, pain is a conscious experience requiring cortical activity and can occur in the absence of nociception. Those with somatic symptom disorder are thought to exaggerate their symptoms through choice perception and perceive them in accordance with an ailment. This idea has been identified as a cognitive style known as "somatosensorial amplification". The term "central sensitization" has been created to describe the neurobiological notion that those predisposed to somatization have an overly sensitive neural network. Harmless and mild stimuli stimulate the nociceptive specific dorsal horn cells after central sensitization. As a result, pain is felt in response to stimuli that would not typically cause pain.
+
+Neuroimaging evidence
+Some literature reviews of cognitive–affective neuroscience on somatic symptom disorder suggested that catastrophization in patients with somatic symptom disorders tends to present a greater vulnerability to pain. The relevant brain regions include the dorsolateral prefrontal, insular, rostral anterior cingulate, premotor, and parietal cortices.
+
+Genetic
+Genetic investigations have suggested modifications connected to the monoaminergic system, in particular, may be relevant while a shared genetic source remains unknown. Researchers take into account the various processes involved in the development of somatic symptom disorder as well as the interactions between various biological and psychosocial factors. Given the high occurrence of trauma, particularly throughout childhood, it has been suggested that the epigenetic changes could be explanatory. Another study found that the glucocorticoid receptor gene (NR3C1) is hypomethylated in those with somatic symptom disorder and in those with depression.
+
+Diagnosis
+Because those with somatic syndrome disorder typically have comprehensive previous workups, minimal laboratory testing is encouraged. Excessive testing increases the possibility of false positive results, which may result in further interventions, associated risks, and greater expenses. While some practitioners order tests to reassure patients, research shows that diagnostic testing fails to alleviate SSD symptoms.
+Specific tests, such as thyroid function assessments, urine drug screens, restricted blood studies, and minimal radiological imaging, may be conducted to rule out somatization because of medical issues.
+
+Somatic Symptom Scale – 8
+The Somatic Symptom Scale – 8 (SSS-8) is a short self-report questionnaire that is used to evaluate somatic symptoms. It examines the perceived severity of common somatic symptoms. The SSS-8 is a condensed version of the well-known Patient Health Questionnaire-15 (PHQ-15).
+On a five-point scale, respondents rate how much stomach or digestive issues, back discomfort, pain in the legs, arms, or joints, headaches, chest pain or shortness of breath, dizziness, feeling tired or having low energy, and trouble sleeping impacted them in the preceding seven days. Ratings are added together to provide a sum score that ranges from 0 to 32 points.
+
+DSM-5
+The fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) modified the entry titled "somatoform disorders" to "somatic symptom and related disorders", and modified other diagnostic labels and criteria.
+The DSM-5 criteria for somatic symptom disorder includes "one or more somatic symptoms which are distressing or result in substantial impairment of daily life." Additional criteria, often known as B criteria, include "excessive thoughts, feelings, or behaviors regarding somatic symptoms or corresponding health concerns manifested by disproportionate and persistent thoughts about the severity of one's symptoms." It continues: "Although any one somatic symptom might not be consistently present, one's state of being symptomatic is continuous (typically lasting more than 6 months)."
+The DSM-5 includes five distinct descriptions for somatic symptom disorder. These include somatic symptom disorder with predominant pain, formally referred to as pain disorder, as well as classifications for mild, moderate, and severe symptoms.
+
+International Classification of Diseases
+The ICD-11 includes bodily distress disorder, which bears similarities to somatic symptom disorder. While both conditions involve somatic symptoms, bodily distress disorder appears to be more strongly associated with the experience of physical symptoms, whereas somatic symptom disorder is more closely linked to psychological distress. Patients meeting the criteria for both diagnoses tend to exhibit greater symptom severity across various psychosocial domains.
+Bodily distress disorder is characterized by the presence of distressing bodily symptoms and excessive attention devoted to those symptoms. The ICD-11 further specifies that if another health condition is causing or contributing to the symptoms, the level of attention must be clearly excessive in relation to the nature and course of the condition.
+
+Differential diagnosis
+Somatic symptom disorder's widespread, non-specific symptoms may obscure and mimic the manifestations of other medical disorders, making diagnosis and therapy challenging. For example, conditions such as adjustment disorder, body dysmorphic disorder, obsessive–compulsive disorder (OCD), hypochondriasis can also exhibit excessive and exaggerated emotional and behavioral responses. Other functional diseases with unknown etiology, such as fibromyalgia and irritable bowel syndrome (IBS), tend not to present with excessive thoughts, feelings, or maladaptive behavior.
+Somatic symptom disorder overlaps with hypochondriasis and functional neurologic symptom disorder (FNsD), previously known as conversion disorder. Hypochondriasis is characterized by an obsession with having or developing a dangerous, undetected medical ailment, despite the absence of bodily symptoms. FNsD may present with one or more symptoms of various sorts: motor symptoms, which may involve weakness or paralysis; aberrant movements, including tremor or dystonic movements; abnormal gait patterns; and abnormal limb posture. The presenting symptoms in FNsD is loss of function, but in somatic symptom disorder, the emphasis is on the discomfort that specific symptoms produce. FNsD often lacks the overwhelming thoughts, feelings, and behaviors that characterize somatic symptom disorder.
+
+Treatment
+Rather than focusing on treating the symptoms, the key objective is to support the patient in coping with symptoms, including both physical symptoms and psychological/behavioral (such as health anxiety and harmful behaviors).
+Early psychiatric treatment is advised. Evidence suggests that SSRIs and SNRIs can lower pain perception. Because people with somatic symptom disorder may have a low threshold for adverse reactions, medication should be started at the lowest possible dose and gradually increased to produce a therapeutic effect.
+Cognitive behavioral therapy (CBT) has been linked to significant improvements in patient-reported function and somatic symptoms, a reduction in healthcare expenses, and a reduction in symptoms of depression. CBT aims to help patients realize their ailments are not catastrophic and to enable them to gradually return to activities they previously engaged in, without fear of "worsening their symptoms". Consultation and collaboration with a primary care physician also demonstrated some effectiveness. Furthermore, brief psychodynamic interpersonal psychotherapy (PIT) for patients with somatic symptom disorder has been proven to improve the physical quality of life in patients with many difficult-to-treat and medically unexplained symptoms over time
+CBT can help in some of the following ways:
+
+Learn to reduce stress
+Learn to cope with physical symptoms
+Learn to deal with depression and other psychological issues
+Improve quality of life
+Reduce preoccupation with symptom
+Overall, psychologists recommend addressing a common difficulty in patients with somatic symptom disorder in the reading of their own emotions.  This may be a central feature of treatment; as well as developing a close collaboration between the GP, the patient and the mental health practitioner.
+
+Prognosis
+Somatic symptom disorder is typically persistent, with symptoms that wax and wane. Chronic limitations in general function, substantial psychological impairment, and a reduction in quality of life are all common. Some investigations suggest people can recover; the natural history of the illnesses implies that around 50% to 75% of patients with medically unexplained symptoms improve, whereas 10% to 30% deteriorate. Fewer physical symptoms and better baseline functioning are stronger prognostic indicators. A strong, positive relationship between the physician and the patient is crucial, and it should be accompanied by frequent, supportive visits to avoid the temptation to medicate or test when these interventions are not obviously necessary.
+
+Epidemiology
+Somatic symptom disorder affects 5% to 7% of the general population, with a higher female representation, and can arise throughout childhood, adolescence, or adulthood. 
+A 2015 study found prevalence of 11% (n = 5738). 
+Evidence suggests that the emergence of prodromal symptoms often begins in childhood and that symptoms fitting the criteria for somatic symptom disorder are common during adolescence. A community study of adolescents found that 5% had persistent distressing physical symptoms paired with psychological concerns.  In the primary care patient population, the rate rises to around 17%. Patients with functional illnesses such as fibromyalgia, irritable bowel syndrome, and chronic fatigue syndrome have a greater prevalence of somatic symptom disorder. The reported frequency of somatic symptom disorder, as defined by the DSM-5 criteria, ranges from 25 to 60% among these patients.
+There are cultural differences in the prevalence of somatic symptom disorder. For example, somatic symptom disorder and symptoms were found to be significantly more common in Puerto Rico. In addition, the diagnosis is also more prevalent among African Americans and those with less than a high school education or lower socioeconomic status.
+There is usually co-morbidity with other psychological disorders, particularly mood disorders or anxiety disorders. Research also showed comorbidity between somatic symptom disorder and personality disorders, especially antisocial, borderline, narcissistic, histrionic, avoidant, and dependent personality disorder.
+About 10–20% of female first degree relatives also have somatic symptom disorder and male relatives have increased rates of alcoholism and sociopathy.
+
+History
+The Egyptians and Sumerians were reported to have utilized the notions of melancholia and hysteria as early as 2600 BC. For many years, somatization was used in conjunction with the terms hysteria, melancholia, and hypochondriasis.
+Wilhelm Stekel, a German psychoanalyst, was the first to introduce the term somatization, while Paul Briquet was the first to characterize what is now known as somatic symptom disorder. Briquet reported respondents who had been unwell for most of their lives and complained of a variety of symptoms from various organ systems. Despite many appointments, hospitalizations, and tests, symptoms continue. Somatic symptom disorder was later dubbed "Briquet Syndrome" in his honor.
+
+Controversy
+Somatic symptom disorder replaced the somatoform disorder found in DSM-IV. Somatoform disorder required many symptoms, that were all medically unexplained, whereas the scope of somatic symptom disorder is much broader: one symptom is enough and explained medical symptoms are also included. Somatoform disorder was based solely on negative criteria, namely the absence of a medical explanation for the presenting physical problems. As a result, any person suffering from a poorly understood illness may meet the criteria for this psychological diagnosis, regardless of whether they exhibit psychiatric symptoms in the traditional sense.
+
+Misdiagnosis
+Allen Frances, chair of the DSM-IV task force, argued that the DSM-5's somatic symptom disorder brings with it a risk of mislabeling a sizable proportion of the population as mentally ill. Millions of people could be mislabeled, with the burden falling disproportionately on women, because they are more likely to be casually dismissed as 'catastrophizers' when presenting with physical symptoms.
+
+See also
+Conversion disorder
+Jurosomatic illness
+Munchausen syndrome
+Nocebo
+Psychosomatic medicine
+Psychoneuroimmunology
+Functional neurological disorder
+
+References
+Further reading
+O'Sullivan S (2017). Is It All in Your Head?: True Stories of Imaginary Illness. Other Press. ISBN 978-1-59051-795-6.
