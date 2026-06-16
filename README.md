@@ -17,27 +17,6 @@ Unlike primitive boolean tracking setups or heavy black-box database systems, th
 
 ---
 
-## 📸 Dynamic Interface & Visual Showcase
-
-The web interface is engineered with a modern, responsive mint-green layout, offering a smooth user experience, active keyword matching mechanics, and direct integration with live external resources.
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <b>🔍 Main UI & Token Stemming Pipeline</b><br><br>
-      <img src="image_d0d77d.jpg" alt="Mental Health Search Landing Page" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
-      <p><i>The home dashboard displaying the interactive text search interface, quick tracking metrics, and intuitive placeholder suggestions.</i></p>
-    </td>
-    <td width="50%" align="center">
-      <b>🎯 Algorithmic Ranking & Dynamic Highlighting</b><br><br>
-      <img src="image_d0d7c4.jpg" alt="Ranked Results Framework" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
-      <p><i>Active search query calculations displaying precise document confidence percentages, token context filtering, and direct links to live Wikipedia medical records.</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## ⚙️ System Architecture & Backend Pipeline
 
 Below are the engineering blueprints and logical workflows of the engine, detailing how unstructured raw JSON metadata maps into a serialized inverted matrix and vectors.
@@ -51,7 +30,7 @@ Below are the engineering blueprints and logical workflows of the engine, detail
     </td>
     <td width="50%" align="center">
       <b>🔄 Data Processing & Query Matching Execution</b><br><br>
-      <img src="image_d05b40.png" alt="Query Search Data Flow Pipeline" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
+      <img src="image_d05b40.png" alt="Search Execution Pipeline" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
       <p><i>Step-by-step technical pipeline tracking NLP tokens through cleaning, mathematical calculation, vector similarity matrix extraction, and dynamic sorting.</i></p>
     </td>
   </tr>
@@ -99,7 +78,5 @@ $$\text{Similarity}(\vec{q}, \vec{d}) = \frac{\vec{q} \cdot \vec{d}}{\|\vec{q}\|
 ├── setup_articles.py       # Extract script converting raw JSON data files to readable disk space files
 ├── articles_data.json      # Global knowledge source data including titles and external source URLs
 ├── inverted_index.json     # Compressed serialized dictionary mapping terms to specific document targets
-├── image_d0d77d.jpg        # Main UI Search view image asset
-├── image_d0d7c4.jpg        # Query results dashboard image asset
 ├── image_d05b22.png        # System architecture flow chart image asset
 └── image_d05b40.png        # Search execution pipeline chart image asset
