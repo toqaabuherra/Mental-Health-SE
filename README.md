@@ -1,4 +1,4 @@
-# 🧠 Mental Health Search: Advanced IR Vector Space Matching Engine
+# Mental Health Information Retrieval Engine
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -9,74 +9,77 @@
 
 ---
 
-## 📖 Introduction & Core Paradigm
+## Overview
 
-**Mental Health Search** is a specialized, production-grade **Information Retrieval (IR) System** designed to index and query dense, highly clinical medical and psychological text corpuses. 
+A domain-specific search and retrieval system engineered to index, rank, and query mental health and psychological literature using a native Vector Space Model (VSM) and algebraic text representation.
 
-Unlike primitive boolean tracking setups or heavy black-box database systems, this platform implements a fully native **Vector Space Model (VSM)** from scratch. It algorithmically standardizes multi-paragraph datasets, transforms text into algebraic coordinate grids using an explicit mathematical **TF-IDF** structure, and matches compound textual entries against complex keyword queries using **Cosine Similarity Measures** with sub-millisecond runtime latency.
+The platform processes unstructured clinical and informational texts, converts document collections into term-frequency multidimensional vector spaces, and evaluates user queries using cosine similarity metrics. The implementation builds the core Information Retrieval (IR) pipeline from first principles, ensuring low memory consumption and deterministic scoring without external search library dependencies.
 
 ---
 
-## ⚙️ System Architecture & Backend Pipeline
+## Architecture and Execution Pipeline
 
-Below are the engineering blueprints and logical workflows of the engine, detailing how unstructured raw JSON metadata maps into a serialized inverted matrix and vectors.
+Below are the engineering blueprints and execution workflows of the system:
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>🏗️ Core System Architectural Flow</b><br><br>
-      <img src="image_d05b22.png" alt="System Architectural Blueprint" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
-      <p><i>Comprehensive end-to-end framework layout tracing data initialization from raw storage to index building and final user retrieval interface routing.</i></p>
+      <b>Core System Architectural Flow</b><br><br>
+      <img src="image_d05b22.png" alt="Core System Architectural Flow" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
+      <p><i>End-to-end data pipeline from raw corpus ingestion to inverted index generation and user interface routing.</i></p>
     </td>
     <td width="50%" align="center">
-      <b>🔄 Data Processing & Query Matching Execution</b><br><br>
-      <img src="image_d05b40.png" alt="Search Execution Pipeline" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
-      <p><i>Step-by-step technical pipeline tracking NLP tokens through cleaning, mathematical calculation, vector similarity matrix extraction, and dynamic sorting.</i></p>
+      <b>Data Processing & Query Matching Execution</b><br><br>
+      <img src="image_d05b40.png" alt="Data Processing & Query Matching Execution" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
+      <p><i>NLP preprocessing, algebraic vector transformation, cosine scoring, and result ranking.</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ⚡ Key Architectural Highlights
+## Core Technical Features
 
-* 🔍 **Linguistic Extraction Pipeline:** Normalizes vocabulary structures by dropping high-frequency English stopwords (`nltk.corpus`) and applying the **Porter Stemming Algorithm** to accurately parse contextual root queries (e.g., matching "Depressing" to structural corpus nodes like "Depression").
-* 🗄️ **Optimized Inverted Index Schema:** Builds and manages a structured mapping registry (`inverted_index.json`) correlating target text distributions against document identifiers to guarantee lightning-fast analytical queries.
-* 📐 **Explicit Mathematical Vector Modeling:** Dynamically vectorizes multi-paragraph files and query structures, avoiding unoptimized external abstractions to maintain highly efficient, clean system memory footprints.
-* 🌐 **Live Knowledge Base Linking:** Every retrieved result links automatically and dynamically to its corresponding verbatim Wikipedia article database endpoint, providing an immediate reference point for users.
-* 🎯 **Dynamic Context Snippets & Highlighting:** Intelligently extracts short relevant summary clauses from long documents and renders them using synchronized yellow HTML text-shadow highlighting tags for unmatched readability.
+- **Linguistic Preprocessing:** Normalizes input text by removing common stop words using NLTK resources and applying the Porter Stemming Algorithm to map morphological variants to single lexical roots.
+- **Serialized Inverted Index:** Generates and maintains a structured mapping file (`inverted_index.json`) correlating terms with document occurrences to enable fast lookups.
+- **Vector Space Scoring:** Dynamically builds sparse TF-IDF weight representations for queries and documents, calculating geometric alignment via vector dot products.
+- **Context Snippets and Highlighting:** Locates matching query terms within target documents, extracting context windows and applying inline styling tags for clear snippet rendering.
+- **Direct Source Verification:** Automatically maps query results to corresponding reference endpoints for verification and extended reading.
 
 ---
 
-## 🧮 Mathematical & Algorithmic Foundations
+## Mathematical Formulation
 
-The retrieval matrix transforms text string sequences into continuous multi-dimensional matrix dimensions:
+Vector weights and query alignments are computed through standard Information Retrieval formulations:
 
 ### 1. Term Frequency ($TF$)
-Quantifies the occurrence distribution weight of a filtered word stem $t$ inside a single corpus file structure $d$:
-$$\text{TF}(t, d) = \text{frequency count of } t \text{ in } d$$
+Quantifies the occurrence frequency of term $t$ within document $d$:
+
+$$\text{TF}(t, d) = f_{t, d}$$
 
 ### 2. Inverse Document Frequency ($IDF$)
-Calculates the informational priority or structural scarcity of a term $t$ across the total repository collection size $D$:
-$$\text{IDF}(t) = \log_{10} \left( \frac{|D|}{|\{d \in D : t \in d\}|} \right)$$
+Measures the discriminatory power of term $t$ across the entire corpus collection $D$:
+
+$$\text{IDF}(t) = \log_{10}\left(\frac{\vert{}D\vert{}}{\vert{}\{d \in D : t \in d\}\vert{}}\right)$$
 
 ### 3. Geometric Vector Alignment (Cosine Similarity)
-Determines the angular separation mapping a dynamic real-time query vector $\vec{q}$ directly alongside the persistent static document vectors $\vec{d}$. The scores are safeguarded with zero-division filters to maintain exact confidence percentages:
-$$\text{Similarity}(\vec{q}, \vec{d}) = \frac{\vec{q} \cdot \vec{d}}{\|\vec{q}\| \|\vec{d}\|} = \frac{\sum_{i} q_i d_i}{\sqrt{\sum_{i} q_i^2} \sqrt{\sum_{i} d_i^2}}$$
+Measures the angular deviation between the dynamic query vector $\vec{q}$ and the document vector $\vec{d}$:
+
+$$\text{Similarity}(\vec{q}, \vec{d}) = \frac{\vec{q} \cdot \vec{d}}{\Vert{}\vec{q}\Vert{} \Vert{}\vec{d}\Vert{}} = \frac{\sum_{i} q_i d_i}{\sqrt{\sum_{i} q_i^2} \sqrt{\sum_{i} d_i^2}}$$
 
 ---
 
-## 🏗️ System Blueprint & Directory Layout
+## Directory Layout
 
 ```text
-├── articles/               # Storage repository folder containing generated structural .txt files
-├── templates/              # Jinja2 view templates directory
-│   └── index.html          # Clean, state-driven search page featuring responsive CSS aesthetics
-├── app.py                  # Main Flask Web Framework entry point (APIs, pagination, relative scoring maps)
-├── search_engine.py        # Core IR Engine (VSM structural vectorizers & angular similarity scoring)
-├── build_index.py          # Processing script that builds and saves the token map data
-├── setup_articles.py       # Extract script converting raw JSON data files to readable disk space files
-├── articles_data.json      # Global knowledge source data including titles and external source URLs
-├── inverted_index.json     # Compressed serialized dictionary mapping terms to specific document targets
-├── image_d05b22.png        # System architecture flow chart image asset
-└── image_d05b40.png        # Search execution pipeline chart image asset
+├── articles/               # Extracted plain text documents for indexing
+├── templates/              # Jinja2 presentation templates
+│   └── index.html          # Web interface layout
+├── app.py                  # Flask routing and search endpoint handler
+├── search_engine.py        # Core Information Retrieval logic and scoring modules
+├── build_index.py          # Script for parsing text and serializing inverted index
+├── setup_articles.py       # Corpus extractor parsing raw JSON into individual files
+├── articles_data.json      # Structured dataset containing article metadata and URLs
+├── inverted_index.json     # Serialized dictionary mapping terms to document postings
+├── image_d05b22.png        # System architecture diagram
+└── image_d05b40.png        # Query execution pipeline flowchart
